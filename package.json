@@ -1,8 +1,8 @@
 {
-  "name": "cardscript-to-quasar",
+  "name": "@wmfs/cardscript-to-quasar",
   "description": "Produces a template for use with Quasar from some Cardscript.",
-  "version": "0.0.6",
-  "author": "Tim Needham",
+  "version": "0.0.0-semantically-released",
+  "author": "West Midlands Fire Service",
   "keywords": [
     "tymly",
     "cardscript"
@@ -13,21 +13,38 @@
     "dottie": "2.0.1"
   },
   "devDependencies": {
-    "chai": "4.1.2",
-    "mocha": "5.1.1",
-    "standard": "11.0.1",
-    "cardscript-examples": "^0.0.6"
+    "chai": "4.2.0",
+    "codecov": "3.1.0",
+    "conventional-changelog-metahub": "2.0.2",
+    "cz-conventional-changelog": "2.1.0",
+    "mocha": "5.2.0",
+    "nyc": "13.1.0",
+    "semantic-release": "15.13.1",
+    "standard": "12.0.1",
+    "@semantic-release/changelog": "3.0.1",
+    "@semantic-release/git": "7.0.6"
+    "@wmfs/cardscript-examples": "^0.0.1"
   },
   "scripts": {
     "lint": "standard",
-    "test": "standard && mocha"
+    "test": "nyc mocha && standard",
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "semantic-release": "semantic-release"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wmfs/cardscript/tree/master/packages/cardscript-to-quasar"
+    "url": "https://github.com/wmfs/cardscript-to-quasar.git"
   },
   "bugs": {
-    "url": "https://github.com/wmfs/cardscript/issues"
+    "url": "https://github.com/wmfs/cardscript-to-quasar/issues"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
