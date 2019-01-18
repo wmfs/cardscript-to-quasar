@@ -22,7 +22,7 @@
     "semantic-release": "15.13.1",
     "standard": "12.0.1",
     "@semantic-release/changelog": "3.0.1",
-    "@semantic-release/git": "7.0.6"
+    "@semantic-release/git": "7.0.6",
     "@wmfs/cardscript-examples": "^0.0.1"
   },
   "scripts": {
