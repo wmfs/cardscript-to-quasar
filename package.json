@@ -3,6 +3,10 @@
   "description": "Produces a template for use with Quasar from some Cardscript.",
   "version": "0.0.6",
   "author": "Tim Needham",
+  "keywords": [
+    "tymly",
+    "cardscript"
+  ],
   "main": "./lib/index.js",
   "dependencies": {
     "lodash": "^4.17.10",
