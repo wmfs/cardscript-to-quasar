@@ -10,7 +10,7 @@ $ npm install cardscript-to-quasar --save
 ## <a name="usage"></a>Usage
 
 ```javascript
-const cardscriptToQuasar = require('cardscript-extract-defaults')
+const cardscriptToQuasar = require('@wmfs/cardscript-extract-defaults')
 
 const quasarTemplate = cardscriptToQuasar(
   {
