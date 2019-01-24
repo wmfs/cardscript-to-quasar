@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.2.0...v1.3.0) (2019-01-24)
+
+
+### ✨ Features
+
+* Action.PushCard on click event passes data ([760452e](https://github.com/wmfs/cardscript-to-quasar/commit/760452e))
+
 # [1.2.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.1.0...v1.2.0) (2019-01-24)
 
 
