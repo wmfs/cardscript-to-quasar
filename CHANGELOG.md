@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.0.0...v1.1.0) (2019-01-24)
+
+
+### ✨ Features
+
+* added click event to cancel action ([037e7b3](https://github.com/wmfs/cardscript-to-quasar/commit/037e7b3))
+
+
+### 📚 Documentation
+
+* update readme with badges ([f765827](https://github.com/wmfs/cardscript-to-quasar/commit/f765827))
+
 # 1.0.0 (2019-01-18)
 
 
