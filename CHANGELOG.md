@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.1.0...v1.2.0) (2019-01-24)
+
+
+### ✨ Features
+
+* added new actions ([ee4dceb](https://github.com/wmfs/cardscript-to-quasar/commit/ee4dceb))
+
 # [1.1.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.0.0...v1.1.0) (2019-01-24)
 
 
