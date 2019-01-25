@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.3.0...v1.4.0) (2019-01-25)
+
+
+### ✨ Features
+
+* More ignoring of package-lock.json. ([2665454](https://github.com/wmfs/cardscript-to-quasar/commit/2665454))
+
 # [1.3.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.2.0...v1.3.0) (2019-01-24)
 
 
