@@ -1,3 +1,20 @@
+## [1.4.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.4.0...v1.4.1) (2019-02-08)
+
+
+### 🐛 Bug Fixes
+
+* Use a local copy of "util" due to not working in Chrome (at least). ([df7bd52](https://github.com/wmfs/cardscript-to-quasar/commit/df7bd52))
+
+
+### 📚 Documentation
+
+* The tinniest of typos. ([60a28c1](https://github.com/wmfs/cardscript-to-quasar/commit/60a28c1))
+
+
+### 💎 Styles
+
+* **Exclude local-util.js from standard.js linting.:** It's a file we've pulled in from somewhere e ([12b2d0b](https://github.com/wmfs/cardscript-to-quasar/commit/12b2d0b))
+
 # [1.4.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.3.0...v1.4.0) (2019-01-25)
 
 
