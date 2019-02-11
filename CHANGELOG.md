@@ -1,3 +1,18 @@
+# [1.5.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.4.1...v1.5.0) (2019-02-11)
+
+
+### ✨ Features
+
+* adjust action set to be a prettier list ([7886a59](https://github.com/wmfs/cardscript-to-quasar/commit/7886a59))
+
+
+### 📦 Code Refactoring
+
+* adjust fact set ([770ed6f](https://github.com/wmfs/cardscript-to-quasar/commit/770ed6f))
+* fact set again ([5efc014](https://github.com/wmfs/cardscript-to-quasar/commit/5efc014))
+* remove log ([a2e955b](https://github.com/wmfs/cardscript-to-quasar/commit/a2e955b))
+* use parse template function ([c99c1da](https://github.com/wmfs/cardscript-to-quasar/commit/c99c1da))
+
 ## [1.4.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.4.0...v1.4.1) (2019-02-08)
 
 
