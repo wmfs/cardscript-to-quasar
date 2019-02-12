@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.5.0...v1.6.0) (2019-02-12)
+
+
+### ✨ Features
+
+* added error tag to Input.Text ([b8d6bcc](https://github.com/wmfs/cardscript-to-quasar/commit/b8d6bcc))
+
 # [1.5.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.4.1...v1.5.0) (2019-02-11)
 
 
