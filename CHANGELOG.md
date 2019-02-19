@@ -1,3 +1,17 @@
+# [1.7.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.6.0...v1.7.0) (2019-02-18)
+
+
+### ✨ Features
+
+* table can have nested fields ([81102b5](https://github.com/wmfs/cardscript-to-quasar/commit/81102b5))
+
+
+### 📦 Code Refactoring
+
+* add spacing to table ([ddb80e3](https://github.com/wmfs/cardscript-to-quasar/commit/ddb80e3))
+* Input.ChoiceSet to use field and made simpler ([6a22bc1](https://github.com/wmfs/cardscript-to-quasar/commit/6a22bc1))
+* remove log ([7b78ea0](https://github.com/wmfs/cardscript-to-quasar/commit/7b78ea0))
+
 # [1.6.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.5.0...v1.6.0) (2019-02-12)
 
 
