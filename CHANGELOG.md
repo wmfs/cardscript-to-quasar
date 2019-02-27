@@ -1,3 +1,21 @@
+# [1.8.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.7.0...v1.8.0) (2019-02-27)
+
+
+### ✨ Features
+
+* release ([ce7b025](https://github.com/wmfs/cardscript-to-quasar/commit/ce7b025))
+
+
+### 📦 Code Refactoring
+
+* actions ([ba0ae74](https://github.com/wmfs/cardscript-to-quasar/commit/ba0ae74))
+* progress on input.apilookup ([27ef2de](https://github.com/wmfs/cardscript-to-quasar/commit/27ef2de))
+* progress on input.apilookup ([224b204](https://github.com/wmfs/cardscript-to-quasar/commit/224b204))
+* progress on Input.ApiLookup ([e08b746](https://github.com/wmfs/cardscript-to-quasar/commit/e08b746))
+* start on Input.ApiLookup ([b3b3e32](https://github.com/wmfs/cardscript-to-quasar/commit/b3b3e32))
+* WIP adjusted cardscript table to allow opening modal ([625dd2f](https://github.com/wmfs/cardscript-to-quasar/commit/625dd2f))
+* WIP table efforts and put Input.Date in a field ([79186d9](https://github.com/wmfs/cardscript-to-quasar/commit/79186d9))
+
 # [1.7.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.6.0...v1.7.0) (2019-02-18)
 
 
