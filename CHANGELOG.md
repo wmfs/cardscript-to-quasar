@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.8.0...v1.9.0) (2019-02-28)
+
+
+### ✨ Features
+
+* progress of input.apilookup ([7900a21](https://github.com/wmfs/cardscript-to-quasar/commit/7900a21))
+
 # [1.8.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.7.0...v1.8.0) (2019-02-27)
 
 
