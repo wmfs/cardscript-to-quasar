@@ -1,3 +1,11 @@
+# [1.10.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.9.0...v1.10.0) (2019-02-28)
+
+
+### ✨ Features
+
+* add loading state to apilookup button ([c081f85](https://github.com/wmfs/cardscript-to-quasar/commit/c081f85))
+* add loading state to pagination on api lookup ([fc7fc11](https://github.com/wmfs/cardscript-to-quasar/commit/fc7fc11))
+
 # [1.9.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.8.0...v1.9.0) (2019-02-28)
 
 
