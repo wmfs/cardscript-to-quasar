@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.10.0...v1.11.0) (2019-03-02)
+
+
+### ✨ Features
+
+* Add support for imageSourceTemplate option. ([ad065e5](https://github.com/wmfs/cardscript-to-quasar/commit/ad065e5))
+
 # [1.10.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.9.0...v1.10.0) (2019-02-28)
 
 
