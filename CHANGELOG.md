@@ -1,3 +1,12 @@
+## [1.11.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.11.0...v1.11.1) (2019-03-06)
+
+
+### 🐛 Bug Fixes
+
+* Go fluent - return this from addAttribute() & content() methods so we can chain calls together ([f99d611](https://github.com/wmfs/cardscript-to-quasar/commit/f99d611))
+* **jumbotron:** Fix so jumbotron can have title and subtitle ([6fa3a6c](https://github.com/wmfs/cardscript-to-quasar/commit/6fa3a6c))
+* **jumbotron:** No need to wrap title and subtitle in a parseTemplate call ([a01914e](https://github.com/wmfs/cardscript-to-quasar/commit/a01914e))
+
 # [1.11.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.10.0...v1.11.0) (2019-03-02)
 
 
