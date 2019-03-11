@@ -1,3 +1,14 @@
+# [1.12.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.11.1...v1.12.0) (2019-03-11)
+
+
+### ✨ Features
+
+* Add icon support for ChoiceSets. ([904b5e6](https://github.com/wmfs/cardscript-to-quasar/commit/904b5e6))
+* Always inset radios, for now. ([14a7750](https://github.com/wmfs/cardscript-to-quasar/commit/14a7750))
+* Make ChoiceSet field always go on top. ([be5ef82](https://github.com/wmfs/cardscript-to-quasar/commit/be5ef82))
+* Refactor text-based element rendering. ([bd7ea21](https://github.com/wmfs/cardscript-to-quasar/commit/bd7ea21))
+* Remove unused variables so Standard.js is happier. ([1bbe9be](https://github.com/wmfs/cardscript-to-quasar/commit/1bbe9be))
+
 ## [1.11.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.11.0...v1.11.1) (2019-03-06)
 
 
