@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.13.2...v1.14.0) (2019-03-12)
+
+
+### ✨ Features
+
+* custom button text ([904ac77](https://github.com/wmfs/cardscript-to-quasar/commit/904ac77))
+
 ## [1.13.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.13.1...v1.13.2) (2019-03-12)
 
 
