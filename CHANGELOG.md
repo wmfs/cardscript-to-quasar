@@ -1,3 +1,10 @@
+## [1.13.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.13.1...v1.13.2) (2019-03-12)
+
+
+### 🐛 Bug Fixes
+
+* **ChoiceSet:** only inset if we specify ([37feaa3](https://github.com/wmfs/cardscript-to-quasar/commit/37feaa3))
+
 ## [1.13.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.13.0...v1.13.1) (2019-03-12)
 
 
