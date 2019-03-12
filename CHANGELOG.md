@@ -1,3 +1,15 @@
+# [1.13.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.12.0...v1.13.0) (2019-03-12)
+
+
+### ✨ Features
+
+* factSet now supports icons ([e6499af](https://github.com/wmfs/cardscript-to-quasar/commit/e6499af))
+
+
+### 🐛 Bug Fixes
+
+* submit button now green ([74dbc5a](https://github.com/wmfs/cardscript-to-quasar/commit/74dbc5a))
+
 # [1.12.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.11.1...v1.12.0) (2019-03-11)
 
 
