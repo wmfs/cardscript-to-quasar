@@ -1,3 +1,45 @@
+# [1.12.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.11.1...v1.12.0) (2019-03-11)
+
+
+### ✨ Features
+
+* Add icon support for ChoiceSets. ([904b5e6](https://github.com/wmfs/cardscript-to-quasar/commit/904b5e6))
+* Always inset radios, for now. ([14a7750](https://github.com/wmfs/cardscript-to-quasar/commit/14a7750))
+* Make ChoiceSet field always go on top. ([be5ef82](https://github.com/wmfs/cardscript-to-quasar/commit/be5ef82))
+* Refactor text-based element rendering. ([bd7ea21](https://github.com/wmfs/cardscript-to-quasar/commit/bd7ea21))
+* Remove unused variables so Standard.js is happier. ([1bbe9be](https://github.com/wmfs/cardscript-to-quasar/commit/1bbe9be))
+
+## [1.11.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.11.0...v1.11.1) (2019-03-06)
+
+
+### 🐛 Bug Fixes
+
+* Go fluent - return this from addAttribute() & content() methods so we can chain calls together ([f99d611](https://github.com/wmfs/cardscript-to-quasar/commit/f99d611))
+* **jumbotron:** Fix so jumbotron can have title and subtitle ([6fa3a6c](https://github.com/wmfs/cardscript-to-quasar/commit/6fa3a6c))
+* **jumbotron:** No need to wrap title and subtitle in a parseTemplate call ([a01914e](https://github.com/wmfs/cardscript-to-quasar/commit/a01914e))
+
+# [1.11.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.10.0...v1.11.0) (2019-03-02)
+
+
+### ✨ Features
+
+* Add support for imageSourceTemplate option. ([ad065e5](https://github.com/wmfs/cardscript-to-quasar/commit/ad065e5))
+
+# [1.10.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.9.0...v1.10.0) (2019-02-28)
+
+
+### ✨ Features
+
+* add loading state to apilookup button ([c081f85](https://github.com/wmfs/cardscript-to-quasar/commit/c081f85))
+* add loading state to pagination on api lookup ([fc7fc11](https://github.com/wmfs/cardscript-to-quasar/commit/fc7fc11))
+
+# [1.9.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.8.0...v1.9.0) (2019-02-28)
+
+
+### ✨ Features
+
+* progress of input.apilookup ([7900a21](https://github.com/wmfs/cardscript-to-quasar/commit/7900a21))
+
 # [1.8.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.7.0...v1.8.0) (2019-02-27)
 
 
