@@ -1,3 +1,15 @@
+## [1.13.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.13.0...v1.13.1) (2019-03-12)
+
+
+### 🐛 Bug Fixes
+
+* **FactSet:** only inset if we specify ([2e8e3b5](https://github.com/wmfs/cardscript-to-quasar/commit/2e8e3b5))
+
+
+### ♻️ Chores
+
+* remove comments ([57820ae](https://github.com/wmfs/cardscript-to-quasar/commit/57820ae))
+
 # [1.13.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.12.0...v1.13.0) (2019-03-12)
 
 
