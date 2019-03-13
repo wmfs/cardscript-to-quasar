@@ -1,3 +1,16 @@
+## [1.14.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.14.0...v1.14.1) (2019-03-13)
+
+
+### 🐛 Bug Fixes
+
+* not always has launches ([270aec8](https://github.com/wmfs/cardscript-to-quasar/commit/270aec8))
+
+
+### 📦 Code Refactoring
+
+* beginnings of launches on Input.ApiLookup ([6ff2ea3](https://github.com/wmfs/cardscript-to-quasar/commit/6ff2ea3))
+* standard fix ([a6e2f3a](https://github.com/wmfs/cardscript-to-quasar/commit/a6e2f3a))
+
 # [1.14.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.13.2...v1.14.0) (2019-03-12)
 
 
