@@ -1,3 +1,10 @@
+## [1.14.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.14.1...v1.14.2) (2019-03-13)
+
+
+### 🐛 Bug Fixes
+
+* styling for action.cancel and action.submit ([446a762](https://github.com/wmfs/cardscript-to-quasar/commit/446a762))
+
 ## [1.14.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.14.0...v1.14.1) (2019-03-13)
 
 
