@@ -1,3 +1,10 @@
+## [1.14.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.14.2...v1.14.3) (2019-03-13)
+
+
+### 🐛 Bug Fixes
+
+* push attribute ([0f01284](https://github.com/wmfs/cardscript-to-quasar/commit/0f01284))
+
 ## [1.14.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.14.1...v1.14.2) (2019-03-13)
 
 
