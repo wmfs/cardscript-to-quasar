@@ -1,3 +1,16 @@
+# [1.16.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.15.0...v1.16.0) (2019-03-14)
+
+
+### ✨ Features
+
+* slider now supports icons and titles ([6ce79a9](https://github.com/wmfs/cardscript-to-quasar/commit/6ce79a9))
+* toggle now supports icons ([2845f59](https://github.com/wmfs/cardscript-to-quasar/commit/2845f59))
+
+
+### 🐛 Bug Fixes
+
+* bloody standard ([eae0bde](https://github.com/wmfs/cardscript-to-quasar/commit/eae0bde))
+
 # [1.15.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.14.3...v1.15.0) (2019-03-14)
 
 
