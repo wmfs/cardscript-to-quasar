@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.14.3...v1.15.0) (2019-03-14)
+
+
+### ✨ Features
+
+* bring number builder more in line with other fields - adds icon and title support ([f3f32a4](https://github.com/wmfs/cardscript-to-quasar/commit/f3f32a4))
+
 ## [1.14.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.14.2...v1.14.3) (2019-03-13)
 
 
