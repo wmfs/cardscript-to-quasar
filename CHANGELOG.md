@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.16.0...v1.17.0) (2019-03-18)
+
+
+### ✨ Features
+
+* **FactSet:** If a FactSet Fact has choices, lookup the value ([c42369e](https://github.com/wmfs/cardscript-to-quasar/commit/c42369e))
+
 # [1.16.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.15.0...v1.16.0) (2019-03-14)
 
 
