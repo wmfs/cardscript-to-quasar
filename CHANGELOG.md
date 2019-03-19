@@ -1,3 +1,15 @@
+# [1.18.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.17.0...v1.18.0) (2019-03-19)
+
+
+### ✨ Features
+
+* **FactSet:** add support for classes/styles etc to FactSet ([a011d68](https://github.com/wmfs/cardscript-to-quasar/commit/a011d68))
+
+
+### 🐛 Bug Fixes
+
+* **FactSet:** FactSet facts with choices use lists.$simpleTitleMap to look up values. ([dd5a397](https://github.com/wmfs/cardscript-to-quasar/commit/dd5a397))
+
 # [1.17.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.16.0...v1.17.0) (2019-03-18)
 
 
