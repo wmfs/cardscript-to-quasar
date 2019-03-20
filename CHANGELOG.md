@@ -1,3 +1,10 @@
+# [1.19.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.18.0...v1.19.0) (2019-03-20)
+
+
+### ✨ Features
+
+* fix attributes on Input.ApiLookup and added link-item class ([a815f8b](https://github.com/wmfs/cardscript-to-quasar/commit/a815f8b))
+
 # [1.18.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.17.0...v1.18.0) (2019-03-19)
 
 
