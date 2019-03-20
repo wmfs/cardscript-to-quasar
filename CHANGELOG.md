@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.19.0...v1.20.0) (2019-03-20)
+
+
+### ✨ Features
+
+* add click event to launch on api lookup ([0a9b4b8](https://github.com/wmfs/cardscript-to-quasar/commit/0a9b4b8))
+
 # [1.19.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.18.0...v1.19.0) (2019-03-20)
 
 
