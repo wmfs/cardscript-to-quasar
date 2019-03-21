@@ -1,3 +1,10 @@
+# [1.21.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.20.0...v1.21.0) (2019-03-21)
+
+
+### ✨ Features
+
+* activate isMultiline ([7a72006](https://github.com/wmfs/cardscript-to-quasar/commit/7a72006))
+
 # [1.20.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.19.0...v1.20.0) (2019-03-20)
 
 
