@@ -1,3 +1,13 @@
+# [1.23.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.22.0...v1.23.0) (2019-03-25)
+
+
+### ✨ Features
+
+* Make imageSourceTemplate more controllable. ([e680612](https://github.com/wmfs/cardscript-to-quasar/commit/e680612))
+* Make imageSourceTemplate more controllable. ([0e63162](https://github.com/wmfs/cardscript-to-quasar/commit/0e63162))
+* Remove aborted Input.ChoiceSet refactor. ([d30be72](https://github.com/wmfs/cardscript-to-quasar/commit/d30be72))
+* Remove aborted Input.ChoiceSet refactor. ([1d7c1a0](https://github.com/wmfs/cardscript-to-quasar/commit/1d7c1a0))
+
 # [1.22.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.21.0...v1.22.0) (2019-03-25)
 
 
