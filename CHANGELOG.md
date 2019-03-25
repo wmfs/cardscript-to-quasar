@@ -1,3 +1,15 @@
+# [1.22.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.21.0...v1.22.0) (2019-03-25)
+
+
+### ✨ Features
+
+* Add support for options.fieldLabelWidth. ([f1462e4](https://github.com/wmfs/cardscript-to-quasar/commit/f1462e4))
+
+
+### 📦 Code Refactoring
+
+* remove x padding on item in api lookup results ([a77f277](https://github.com/wmfs/cardscript-to-quasar/commit/a77f277))
+
 # [1.21.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.20.0...v1.21.0) (2019-03-21)
 
 
