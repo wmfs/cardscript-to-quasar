@@ -1,3 +1,10 @@
+# [1.27.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.26.0...v1.27.0) (2019-03-26)
+
+
+### ✨ Features
+
+* allow multi select in api lookup ([b8cd82c](https://github.com/wmfs/cardscript-to-quasar/commit/b8cd82c))
+
 # [1.26.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.25.0...v1.26.0) (2019-03-26)
 
 
