@@ -1,3 +1,10 @@
+# [1.24.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.23.0...v1.24.0) (2019-03-26)
+
+
+### ✨ Features
+
+* show launches on Input.ApiLookup if specified ([b8fa32e](https://github.com/wmfs/cardscript-to-quasar/commit/b8fa32e))
+
 # [1.23.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.22.0...v1.23.0) (2019-03-25)
 
 
