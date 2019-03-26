@@ -1,3 +1,10 @@
+# [1.25.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.24.0...v1.25.0) (2019-03-26)
+
+
+### ✨ Features
+
+* input.apilookup selection type styles ([e21787a](https://github.com/wmfs/cardscript-to-quasar/commit/e21787a))
+
 # [1.24.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.23.0...v1.24.0) (2019-03-26)
 
 
