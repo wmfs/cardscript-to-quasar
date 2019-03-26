@@ -1,3 +1,10 @@
+# [1.30.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.29.0...v1.30.0) (2019-03-26)
+
+
+### ✨ Features
+
+* Map cardscript component ([e27417e](https://github.com/wmfs/cardscript-to-quasar/commit/e27417e))
+
 # [1.29.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.28.0...v1.29.0) (2019-03-26)
 
 
