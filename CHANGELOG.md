@@ -1,3 +1,10 @@
+# [1.29.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.28.0...v1.29.0) (2019-03-26)
+
+
+### ✨ Features
+
+* showPagination flag on api lookup ([8a250b0](https://github.com/wmfs/cardscript-to-quasar/commit/8a250b0))
+
 # [1.28.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.27.0...v1.28.0) (2019-03-26)
 
 
