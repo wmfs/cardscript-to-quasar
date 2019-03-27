@@ -1,3 +1,10 @@
+## [1.30.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.30.2...v1.30.3) (2019-03-27)
+
+
+### 🐛 Bug Fixes
+
+* Set locked attribute on Map. ([2d7ce4f](https://github.com/wmfs/cardscript-to-quasar/commit/2d7ce4f))
+
 ## [1.30.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.30.1...v1.30.2) (2019-03-27)
 
 
