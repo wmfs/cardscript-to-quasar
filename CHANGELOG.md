@@ -1,3 +1,10 @@
+## [1.30.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.30.0...v1.30.1) (2019-03-27)
+
+
+### 🐛 Bug Fixes
+
+* displaying table values ([eeec879](https://github.com/wmfs/cardscript-to-quasar/commit/eeec879))
+
 # [1.30.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.29.0...v1.30.0) (2019-03-26)
 
 
