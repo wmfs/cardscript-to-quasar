@@ -1,3 +1,10 @@
+# [1.31.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.30.3...v1.31.0) (2019-03-27)
+
+
+### ✨ Features
+
+* introducing List and some other changes ([cba6321](https://github.com/wmfs/cardscript-to-quasar/commit/cba6321))
+
 ## [1.30.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.30.2...v1.30.3) (2019-03-27)
 
 
