@@ -1,3 +1,18 @@
+# [1.33.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.32.1...v1.33.0) (2019-03-27)
+
+
+### ✨ Features
+
+* adjust ActionSet styles ([1cab790](https://github.com/wmfs/cardscript-to-quasar/commit/1cab790))
+* allow custom not found text on List ([65ba959](https://github.com/wmfs/cardscript-to-quasar/commit/65ba959))
+* Input.Map component - binds longitude and latitude to data variables ([8f33040](https://github.com/wmfs/cardscript-to-quasar/commit/8f33040))
+
+
+### 🐛 Bug Fixes
+
+* Add center-show Map attribute. ([618cc79](https://github.com/wmfs/cardscript-to-quasar/commit/618cc79))
+* showIfUndefined on FactSet ([98681c1](https://github.com/wmfs/cardscript-to-quasar/commit/98681c1))
+
 ## [1.32.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.32.0...v1.32.1) (2019-03-27)
 
 
