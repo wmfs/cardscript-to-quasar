@@ -1,3 +1,10 @@
+## [1.30.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.30.1...v1.30.2) (2019-03-27)
+
+
+### 🐛 Bug Fixes
+
+* action set issue ([040da77](https://github.com/wmfs/cardscript-to-quasar/commit/040da77))
+
 ## [1.30.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.30.0...v1.30.1) (2019-03-27)
 
 
