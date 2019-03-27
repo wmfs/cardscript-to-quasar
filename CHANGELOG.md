@@ -1,3 +1,11 @@
+## [1.32.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.32.0...v1.32.1) (2019-03-27)
+
+
+### 🐛 Bug Fixes
+
+* ignore that for now ([5306351](https://github.com/wmfs/cardscript-to-quasar/commit/5306351))
+* standard ([daabfb0](https://github.com/wmfs/cardscript-to-quasar/commit/daabfb0))
+
 # [1.32.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.31.0...v1.32.0) (2019-03-27)
 
 
