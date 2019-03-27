@@ -1,3 +1,10 @@
+# [1.32.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.31.0...v1.32.0) (2019-03-27)
+
+
+### ✨ Features
+
+* add showIfUndefined optional config to FactSet ([9cf646f](https://github.com/wmfs/cardscript-to-quasar/commit/9cf646f))
+
 # [1.31.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.30.3...v1.31.0) (2019-03-27)
 
 
