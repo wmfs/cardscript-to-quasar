@@ -1,3 +1,10 @@
+## [1.35.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.35.2...v1.35.3) (2019-03-28)
+
+
+### 🐛 Bug Fixes
+
+* Map and Input.Map need to be bound to the model. ([4de16e1](https://github.com/wmfs/cardscript-to-quasar/commit/4de16e1))
+
 ## [1.35.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.35.1...v1.35.2) (2019-03-28)
 
 
