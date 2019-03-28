@@ -1,3 +1,10 @@
+# [1.34.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.33.0...v1.34.0) (2019-03-28)
+
+
+### ✨ Features
+
+* List displays launches actions ([b6ed3e7](https://github.com/wmfs/cardscript-to-quasar/commit/b6ed3e7))
+
 # [1.33.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.32.1...v1.33.0) (2019-03-27)
 
 
