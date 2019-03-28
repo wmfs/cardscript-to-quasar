@@ -1,3 +1,10 @@
+## [1.35.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.35.1...v1.35.2) (2019-03-28)
+
+
+### 🐛 Bug Fixes
+
+* Bind Input.Map model with v-model. ([12fbc7a](https://github.com/wmfs/cardscript-to-quasar/commit/12fbc7a))
+
 ## [1.35.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.35.0...v1.35.1) (2019-03-28)
 
 
