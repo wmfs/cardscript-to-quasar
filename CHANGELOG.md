@@ -1,3 +1,10 @@
+# [1.35.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.34.0...v1.35.0) (2019-03-28)
+
+
+### ✨ Features
+
+* adjust FactSet style to be consistent with other lists ([892bd87](https://github.com/wmfs/cardscript-to-quasar/commit/892bd87))
+
 # [1.34.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.33.0...v1.34.0) (2019-03-28)
 
 
