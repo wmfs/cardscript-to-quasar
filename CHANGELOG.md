@@ -1,3 +1,10 @@
+# [1.37.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.36.0...v1.37.0) (2019-04-01)
+
+
+### ✨ Features
+
+* ability to pass option to disable show when in builder as it ignores includeCloseTag ([0458f5c](https://github.com/wmfs/cardscript-to-quasar/commit/0458f5c))
+
 # [1.36.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.35.3...v1.36.0) (2019-04-01)
 
 
