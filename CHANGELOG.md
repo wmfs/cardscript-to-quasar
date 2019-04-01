@@ -1,3 +1,10 @@
+## [1.37.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.37.2...v1.37.3) (2019-04-01)
+
+
+### 🐛 Bug Fixes
+
+* bring back jumbotron images ([615ae5c](https://github.com/wmfs/cardscript-to-quasar/commit/615ae5c))
+
 ## [1.37.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.37.1...v1.37.2) (2019-04-01)
 
 
