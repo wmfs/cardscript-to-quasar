@@ -1,3 +1,15 @@
+# [1.36.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.35.3...v1.36.0) (2019-04-01)
+
+
+### ✨ Features
+
+* added red border to Input.ApiLookup for errors ([a9bb88b](https://github.com/wmfs/cardscript-to-quasar/commit/a9bb88b))
+
+
+### ♻️ Chores
+
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/cardscript-examples requirement ([f08e505](https://github.com/wmfs/cardscript-to-quasar/commit/f08e505))
+
 ## [1.35.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.35.2...v1.35.3) (2019-03-28)
 
 
