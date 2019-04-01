@@ -1,3 +1,10 @@
+## [1.37.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.37.1...v1.37.2) (2019-04-01)
+
+
+### 🐛 Bug Fixes
+
+* pass fixed attribute to map component depending on type ([672622a](https://github.com/wmfs/cardscript-to-quasar/commit/672622a))
+
 ## [1.37.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.37.0...v1.37.1) (2019-04-01)
 
 
