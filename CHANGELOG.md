@@ -1,3 +1,10 @@
+## [1.37.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.37.0...v1.37.1) (2019-04-01)
+
+
+### 🐛 Bug Fixes
+
+* only showWhen on api lookup if present ([94dbbaf](https://github.com/wmfs/cardscript-to-quasar/commit/94dbbaf))
+
 # [1.37.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.36.0...v1.37.0) (2019-04-01)
 
 
