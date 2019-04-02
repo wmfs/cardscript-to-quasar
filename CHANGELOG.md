@@ -1,3 +1,10 @@
+# [1.38.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.37.4...v1.38.0) (2019-04-02)
+
+
+### ✨ Features
+
+* added spacing to api lookup ([49faf57](https://github.com/wmfs/cardscript-to-quasar/commit/49faf57))
+
 ## [1.37.4](https://github.com/wmfs/cardscript-to-quasar/compare/v1.37.3...v1.37.4) (2019-04-02)
 
 
