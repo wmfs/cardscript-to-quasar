@@ -1,3 +1,10 @@
+# [1.39.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.38.0...v1.39.0) (2019-04-02)
+
+
+### ✨ Features
+
+* Components that affect card-navigation should define 'instigator'. ([facfcb1](https://github.com/wmfs/cardscript-to-quasar/commit/facfcb1))
+
 # [1.38.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.37.4...v1.38.0) (2019-04-02)
 
 
