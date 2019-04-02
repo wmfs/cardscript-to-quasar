@@ -1,3 +1,16 @@
+## [1.37.4](https://github.com/wmfs/cardscript-to-quasar/compare/v1.37.3...v1.37.4) (2019-04-02)
+
+
+### 🐛 Bug Fixes
+
+* revert changes to jumbotron url ([e8e1433](https://github.com/wmfs/cardscript-to-quasar/commit/e8e1433))
+* show error on input.number ([a1f6044](https://github.com/wmfs/cardscript-to-quasar/commit/a1f6044))
+
+
+### 📦 Code Refactoring
+
+* lose the fullstop ([3783ec6](https://github.com/wmfs/cardscript-to-quasar/commit/3783ec6))
+
 ## [1.37.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.37.2...v1.37.3) (2019-04-01)
 
 
