@@ -1,3 +1,10 @@
+# [1.40.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.39.0...v1.40.0) (2019-04-04)
+
+
+### ✨ Features
+
+* dateTime now supports title ([c436c71](https://github.com/wmfs/cardscript-to-quasar/commit/c436c71))
+
 # [1.39.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.38.0...v1.39.0) (2019-04-02)
 
 
