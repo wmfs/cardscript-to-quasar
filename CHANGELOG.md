@@ -1,3 +1,10 @@
+# [1.41.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.40.0...v1.41.0) (2019-04-08)
+
+
+### ✨ Features
+
+* **Column:** now supports col-x syntax ([38fe518](https://github.com/wmfs/cardscript-to-quasar/commit/38fe518))
+
 # [1.40.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.39.0...v1.40.0) (2019-04-04)
 
 
