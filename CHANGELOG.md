@@ -1,3 +1,10 @@
+## [1.41.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.41.0...v1.41.1) (2019-04-09)
+
+
+### 🐛 Bug Fixes
+
+* Hook up Table notFoundText to q-table ([a02ae37](https://github.com/wmfs/cardscript-to-quasar/commit/a02ae37))
+
 # [1.41.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.40.0...v1.41.0) (2019-04-08)
 
 
