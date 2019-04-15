@@ -1,3 +1,15 @@
+# [1.42.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.41.2...v1.42.0) (2019-04-15)
+
+
+### ✨ Features
+
+* Revise Map and Input.Map ([9caadec](https://github.com/wmfs/cardscript-to-quasar/commit/9caadec))
+
+
+### 💎 Styles
+
+* Lint fix ([85c83fb](https://github.com/wmfs/cardscript-to-quasar/commit/85c83fb))
+
 ## [1.41.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.41.1...v1.41.2) (2019-04-15)
 
 
