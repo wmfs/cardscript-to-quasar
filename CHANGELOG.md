@@ -1,3 +1,10 @@
+## [1.42.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.42.0...v1.42.1) (2019-04-15)
+
+
+### 🐛 Bug Fixes
+
+* [#1006](https://github.com/wmfs/cardscript-to-quasar/issues/1006) Entries on bookings list don't link to the record ([6c18be7](https://github.com/wmfs/cardscript-to-quasar/commit/6c18be7))
+
 # [1.42.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.41.2...v1.42.0) (2019-04-15)
 
 
