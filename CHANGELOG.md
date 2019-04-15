@@ -1,3 +1,10 @@
+## [1.41.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.41.1...v1.41.2) (2019-04-15)
+
+
+### 🐛 Bug Fixes
+
+* [#997](https://github.com/wmfs/cardscript-to-quasar/issues/997) DOB displays backwards ([0ba4b25](https://github.com/wmfs/cardscript-to-quasar/commit/0ba4b25))
+
 ## [1.41.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.41.0...v1.41.1) (2019-04-09)
 
 
