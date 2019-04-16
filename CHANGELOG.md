@@ -1,3 +1,10 @@
+## [1.43.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.43.0...v1.43.1) (2019-04-16)
+
+
+### 🐛 Bug Fixes
+
+* click on label Api Lookup ([870c56b](https://github.com/wmfs/cardscript-to-quasar/commit/870c56b))
+
 # [1.43.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.42.1...v1.43.0) (2019-04-16)
 
 
