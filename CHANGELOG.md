@@ -1,3 +1,10 @@
+# [1.43.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.42.1...v1.43.0) (2019-04-16)
+
+
+### ✨ Features
+
+* add launches to List ([f64c123](https://github.com/wmfs/cardscript-to-quasar/commit/f64c123))
+
 ## [1.42.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.42.0...v1.42.1) (2019-04-15)
 
 
