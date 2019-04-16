@@ -1,3 +1,10 @@
+# [1.46.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.45.0...v1.46.0) (2019-04-16)
+
+
+### ✨ Features
+
+* Input.Date now supports icons ([18575e6](https://github.com/wmfs/cardscript-to-quasar/commit/18575e6))
+
 # [1.45.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.44.0...v1.45.0) (2019-04-16)
 
 
