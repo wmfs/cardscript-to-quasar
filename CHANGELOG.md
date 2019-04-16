@@ -1,3 +1,10 @@
+# [1.45.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.44.0...v1.45.0) (2019-04-16)
+
+
+### ✨ Features
+
+* Bind Map marker events to variables ([30b2832](https://github.com/wmfs/cardscript-to-quasar/commit/30b2832))
+
 # [1.44.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.43.1...v1.44.0) (2019-04-16)
 
 
