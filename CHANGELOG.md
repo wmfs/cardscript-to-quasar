@@ -1,3 +1,10 @@
+# [1.44.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.43.1...v1.44.0) (2019-04-16)
+
+
+### ✨ Features
+
+* beginnings of email validation ([2a037f7](https://github.com/wmfs/cardscript-to-quasar/commit/2a037f7))
+
 ## [1.43.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.43.0...v1.43.1) (2019-04-16)
 
 
