@@ -1,3 +1,15 @@
+# [1.47.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.46.0...v1.47.0) (2019-05-14)
+
+
+### ✨ Features
+
+* allow min/max on dates ([b9724af](https://github.com/wmfs/cardscript-to-quasar/commit/b9724af))
+
+
+### 💎 Styles
+
+* standard fix ([a613ed4](https://github.com/wmfs/cardscript-to-quasar/commit/a613ed4))
+
 # [1.46.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.45.0...v1.46.0) (2019-04-16)
 
 
