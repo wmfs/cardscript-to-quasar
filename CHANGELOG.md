@@ -1,3 +1,10 @@
+# [1.49.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.48.0...v1.49.0) (2019-06-12)
+
+
+### ✨ Features
+
+* option to clear date ([473656b](https://github.com/wmfs/cardscript-to-quasar/commit/473656b))
+
 # [1.48.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.47.0...v1.48.0) (2019-06-11)
 
 
