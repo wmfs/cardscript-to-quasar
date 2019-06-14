@@ -1,3 +1,10 @@
+## [1.49.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.49.0...v1.49.1) (2019-06-14)
+
+
+### 🐛 Bug Fixes
+
+* bring back validation to Input.ChoiceSet ([1b988a6](https://github.com/wmfs/cardscript-to-quasar/commit/1b988a6))
+
 # [1.49.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.48.0...v1.49.0) (2019-06-12)
 
 
