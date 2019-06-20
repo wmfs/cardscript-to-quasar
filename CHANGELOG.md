@@ -1,3 +1,10 @@
+# [1.50.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.49.1...v1.50.0) (2019-06-20)
+
+
+### ✨ Features
+
+* graph component ([2e40167](https://github.com/wmfs/cardscript-to-quasar/commit/2e40167))
+
 ## [1.49.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.49.0...v1.49.1) (2019-06-14)
 
 
