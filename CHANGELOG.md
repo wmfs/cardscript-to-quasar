@@ -1,3 +1,20 @@
+# [1.51.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.50.0...v1.51.0) (2019-06-28)
+
+
+### ✨ Features
+
+* add attributes to Input.DateTime ([463cb1a](https://github.com/wmfs/cardscript-to-quasar/commit/463cb1a))
+
+
+### ♻️ Chores
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([6603ee5](https://github.com/wmfs/cardscript-to-quasar/commit/6603ee5))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([0f4288b](https://github.com/wmfs/cardscript-to-quasar/commit/0f4288b))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/cardscript-examples requirement ([05108c2](https://github.com/wmfs/cardscript-to-quasar/commit/05108c2))
+* **deps-dev:** update codecov requirement from 3.1.0 to 3.5.0 ([1bf13d0](https://github.com/wmfs/cardscript-to-quasar/commit/1bf13d0))
+* **deps-dev:** update nyc requirement from 13.1.0 to 14.1.1 ([c0fc6a3](https://github.com/wmfs/cardscript-to-quasar/commit/c0fc6a3))
+* **deps-dev:** update semantic-release requirement ([a594653](https://github.com/wmfs/cardscript-to-quasar/commit/a594653))
+
 # [1.50.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.49.1...v1.50.0) (2019-06-20)
 
 
