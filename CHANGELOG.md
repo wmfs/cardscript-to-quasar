@@ -1,3 +1,15 @@
+# [1.52.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.51.0...v1.52.0) (2019-07-02)
+
+
+### ✨ Features
+
+* add maximum validation to Input.Number ([5bf434f](https://github.com/wmfs/cardscript-to-quasar/commit/5bf434f))
+
+
+### ♻️ Chores
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([261d8e1](https://github.com/wmfs/cardscript-to-quasar/commit/261d8e1))
+
 # [1.51.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.50.0...v1.51.0) (2019-06-28)
 
 
