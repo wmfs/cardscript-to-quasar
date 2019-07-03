@@ -1,3 +1,10 @@
+# [1.54.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.53.0...v1.54.0) (2019-07-03)
+
+
+### ✨ Features
+
+* added showWhen to facts ([eddaa4d](https://github.com/wmfs/cardscript-to-quasar/commit/eddaa4d))
+
 # [1.53.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.52.0...v1.53.0) (2019-07-03)
 
 
