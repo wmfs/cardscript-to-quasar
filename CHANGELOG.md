@@ -1,3 +1,15 @@
+# [1.53.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.52.0...v1.53.0) (2019-07-03)
+
+
+### ✨ Features
+
+* allow List to have a stamp ([266b527](https://github.com/wmfs/cardscript-to-quasar/commit/266b527))
+
+
+### ♻️ Chores
+
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([839d50e](https://github.com/wmfs/cardscript-to-quasar/commit/839d50e))
+
 # [1.52.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.51.0...v1.52.0) (2019-07-02)
 
 
