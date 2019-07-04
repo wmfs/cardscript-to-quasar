@@ -1,3 +1,10 @@
+# [1.55.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.54.0...v1.55.0) (2019-07-04)
+
+
+### ✨ Features
+
+* add showWhen to collapsible ([365ccc9](https://github.com/wmfs/cardscript-to-quasar/commit/365ccc9))
+
 # [1.54.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.53.0...v1.54.0) (2019-07-03)
 
 
