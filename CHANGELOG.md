@@ -1,3 +1,21 @@
+# [1.56.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.55.0...v1.56.0) (2019-07-08)
+
+
+### ✨ Features
+
+* allow preformat option on TextBlock ([c49f748](https://github.com/wmfs/cardscript-to-quasar/commit/c49f748))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge to readme ([e26e67a](https://github.com/wmfs/cardscript-to-quasar/commit/e26e67a))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([6f61f54](https://github.com/wmfs/cardscript-to-quasar/commit/6f61f54))
+* **travis:** Remove Travis config ([3d2cfca](https://github.com/wmfs/cardscript-to-quasar/commit/3d2cfca))
+
 # [1.55.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.54.0...v1.55.0) (2019-07-04)
 
 
