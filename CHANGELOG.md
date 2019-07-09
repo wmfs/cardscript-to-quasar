@@ -1,3 +1,10 @@
+## [1.57.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.57.1...v1.57.2) (2019-07-09)
+
+
+### 🐛 Bug Fixes
+
+* v-close-overlay legacy in quasar ([12950dd](https://github.com/wmfs/cardscript-to-quasar/commit/12950dd))
+
 ## [1.57.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.57.0...v1.57.1) (2019-07-09)
 
 
