@@ -1,3 +1,10 @@
+# [1.57.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.56.0...v1.57.0) (2019-07-09)
+
+
+### ✨ Features
+
+* modifiy List launches ([ed361e9](https://github.com/wmfs/cardscript-to-quasar/commit/ed361e9))
+
 # [1.56.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.55.0...v1.56.0) (2019-07-08)
 
 
