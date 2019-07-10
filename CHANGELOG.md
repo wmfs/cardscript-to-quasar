@@ -1,3 +1,10 @@
+# [1.58.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.57.2...v1.58.0) (2019-07-10)
+
+
+### ✨ Features
+
+* fix menu style on api lookup ([97c55bd](https://github.com/wmfs/cardscript-to-quasar/commit/97c55bd))
+
 ## [1.57.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.57.1...v1.57.2) (2019-07-09)
 
 
