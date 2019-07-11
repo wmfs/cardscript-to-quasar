@@ -1,3 +1,10 @@
+# [1.59.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.58.0...v1.59.0) (2019-07-11)
+
+
+### ✨ Features
+
+* list header optional ([37e2399](https://github.com/wmfs/cardscript-to-quasar/commit/37e2399))
+
 # [1.58.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.57.2...v1.58.0) (2019-07-10)
 
 
