@@ -1,3 +1,15 @@
+# [1.60.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.59.0...v1.60.0) (2019-07-15)
+
+
+### ✨ Features
+
+* allow launches from Table ([f92254d](https://github.com/wmfs/cardscript-to-quasar/commit/f92254d))
+
+
+### 🐛 Bug Fixes
+
+* styling and standard ([bd96780](https://github.com/wmfs/cardscript-to-quasar/commit/bd96780))
+
 # [1.59.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.58.0...v1.59.0) (2019-07-11)
 
 
