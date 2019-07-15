@@ -1,3 +1,10 @@
+# [1.61.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.60.0...v1.61.0) (2019-07-15)
+
+
+### ✨ Features
+
+* allow selection on table ([4a2ae09](https://github.com/wmfs/cardscript-to-quasar/commit/4a2ae09))
+
 # [1.60.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.59.0...v1.60.0) (2019-07-15)
 
 
