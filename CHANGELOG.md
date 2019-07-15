@@ -1,3 +1,10 @@
+## [1.61.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.61.0...v1.61.1) (2019-07-15)
+
+
+### 🐛 Bug Fixes
+
+* remove log ([493b4c7](https://github.com/wmfs/cardscript-to-quasar/commit/493b4c7))
+
 # [1.61.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.60.0...v1.61.0) (2019-07-15)
 
 
