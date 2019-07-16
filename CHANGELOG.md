@@ -1,3 +1,10 @@
+# [1.62.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.61.1...v1.62.0) (2019-07-16)
+
+
+### ✨ Features
+
+* allow action set to be dropdown ([ce73858](https://github.com/wmfs/cardscript-to-quasar/commit/ce73858))
+
 ## [1.61.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.61.0...v1.61.1) (2019-07-15)
 
 
