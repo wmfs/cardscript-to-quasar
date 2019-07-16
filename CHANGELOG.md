@@ -1,3 +1,10 @@
+## [1.62.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.62.0...v1.62.1) (2019-07-16)
+
+
+### 🐛 Bug Fixes
+
+* apply dropdown styles to other actions ([6863902](https://github.com/wmfs/cardscript-to-quasar/commit/6863902))
+
 # [1.62.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.61.1...v1.62.0) (2019-07-16)
 
 
