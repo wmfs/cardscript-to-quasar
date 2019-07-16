@@ -1,3 +1,10 @@
+## [1.63.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.63.1...v1.63.2) (2019-07-16)
+
+
+### 🐛 Bug Fixes
+
+* ActionSet styling ([603c8c3](https://github.com/wmfs/cardscript-to-quasar/commit/603c8c3))
+
 ## [1.63.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.63.0...v1.63.1) (2019-07-16)
 
 
