@@ -1,3 +1,10 @@
+# [1.63.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.62.1...v1.63.0) (2019-07-16)
+
+
+### ✨ Features
+
+* apply styles and showWhen to ActionSet ([338fdd9](https://github.com/wmfs/cardscript-to-quasar/commit/338fdd9))
+
 ## [1.62.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.62.0...v1.62.1) (2019-07-16)
 
 
