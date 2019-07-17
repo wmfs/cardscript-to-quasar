@@ -1,3 +1,10 @@
+# [1.64.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.63.2...v1.64.0) (2019-07-17)
+
+
+### ✨ Features
+
+* List pad stamp if no actions ([92e9cd6](https://github.com/wmfs/cardscript-to-quasar/commit/92e9cd6))
+
 ## [1.63.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.63.1...v1.63.2) (2019-07-16)
 
 
