@@ -1,3 +1,15 @@
+# [1.65.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.64.0...v1.65.0) (2019-07-22)
+
+
+### ✨ Features
+
+* Input.ApiLookup now requires custom results card ([7232b2c](https://github.com/wmfs/cardscript-to-quasar/commit/7232b2c))
+
+
+### 📦 Code Refactoring
+
+* remove date rules ([6e42782](https://github.com/wmfs/cardscript-to-quasar/commit/6e42782))
+
 # [1.64.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.63.2...v1.64.0) (2019-07-17)
 
 
