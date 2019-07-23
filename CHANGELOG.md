@@ -1,3 +1,10 @@
+# [1.66.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.65.1...v1.66.0) (2019-07-23)
+
+
+### ✨ Features
+
+* allow format on Table columns ([2dc9abe](https://github.com/wmfs/cardscript-to-quasar/commit/2dc9abe))
+
 ## [1.65.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.65.0...v1.65.1) (2019-07-23)
 
 
