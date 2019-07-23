@@ -1,3 +1,10 @@
+## [1.65.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.65.0...v1.65.1) (2019-07-23)
+
+
+### 🐛 Bug Fixes
+
+* default launch to Open if no title ([a63397b](https://github.com/wmfs/cardscript-to-quasar/commit/a63397b))
+
 # [1.65.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.64.0...v1.65.0) (2019-07-22)
 
 
