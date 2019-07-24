@@ -1,3 +1,10 @@
+## [1.66.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.66.1...v1.66.2) (2019-07-24)
+
+
+### 🐛 Bug Fixes
+
+* Input.ApiLookup and List validation ([7e03b98](https://github.com/wmfs/cardscript-to-quasar/commit/7e03b98))
+
 ## [1.66.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.66.0...v1.66.1) (2019-07-23)
 
 
