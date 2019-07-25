@@ -1,3 +1,10 @@
+# [1.67.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.66.2...v1.67.0) (2019-07-25)
+
+
+### ✨ Features
+
+* add validation to Input.Date and Input.DateTime ([219a8c2](https://github.com/wmfs/cardscript-to-quasar/commit/219a8c2))
+
 ## [1.66.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.66.1...v1.66.2) (2019-07-24)
 
 
