@@ -1,3 +1,15 @@
+# [1.68.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.67.0...v1.68.0) (2019-07-31)
+
+
+### ✨ Features
+
+* allow select Input.ChoiceSet to be clearable ([ec240db](https://github.com/wmfs/cardscript-to-quasar/commit/ec240db))
+
+
+### 📦 Code Refactoring
+
+* reduce input passed for Input.ApiLookup events ([e3c42a5](https://github.com/wmfs/cardscript-to-quasar/commit/e3c42a5))
+
 # [1.67.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.66.2...v1.67.0) (2019-07-25)
 
 
