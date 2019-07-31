@@ -1,3 +1,15 @@
+# [1.69.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.68.0...v1.69.0) (2019-07-31)
+
+
+### ✨ Features
+
+* allow filter on select component ([bbb10ce](https://github.com/wmfs/cardscript-to-quasar/commit/bbb10ce))
+
+
+### 📦 Code Refactoring
+
+* List not found text ([759a87b](https://github.com/wmfs/cardscript-to-quasar/commit/759a87b))
+
 # [1.68.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.67.0...v1.68.0) (2019-07-31)
 
 
