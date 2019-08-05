@@ -1,3 +1,10 @@
+## [1.69.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.69.0...v1.69.1) (2019-08-05)
+
+
+### 🐛 Bug Fixes
+
+* emit value on select choice set ([08c4c5b](https://github.com/wmfs/cardscript-to-quasar/commit/08c4c5b))
+
 # [1.69.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.68.0...v1.69.0) (2019-07-31)
 
 
