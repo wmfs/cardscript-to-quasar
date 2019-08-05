@@ -1,3 +1,10 @@
+## [1.69.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.69.1...v1.69.2) (2019-08-05)
+
+
+### 🐛 Bug Fixes
+
+* add number modifier to Input.Number ([f79d533](https://github.com/wmfs/cardscript-to-quasar/commit/f79d533))
+
 ## [1.69.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.69.0...v1.69.1) (2019-08-05)
 
 
