@@ -1,3 +1,10 @@
+## [1.69.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.69.2...v1.69.3) (2019-08-05)
+
+
+### 🐛 Bug Fixes
+
+* default Input.Number value to null rather than empty string ([6af8126](https://github.com/wmfs/cardscript-to-quasar/commit/6af8126))
+
 ## [1.69.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.69.1...v1.69.2) (2019-08-05)
 
 
