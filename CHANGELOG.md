@@ -1,3 +1,20 @@
+# [1.70.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.69.3...v1.70.0) (2019-08-06)
+
+
+### ✨ Features
+
+* allow enter map coords ([a0a3c40](https://github.com/wmfs/cardscript-to-quasar/commit/a0a3c40))
+
+
+### 📦 Code Refactoring
+
+* remove unnecessary attribute ([b99d7d7](https://github.com/wmfs/cardscript-to-quasar/commit/b99d7d7))
+
+
+### 💎 Styles
+
+* add padding to launches in list ([3f6de40](https://github.com/wmfs/cardscript-to-quasar/commit/3f6de40))
+
 ## [1.69.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.69.2...v1.69.3) (2019-08-05)
 
 
