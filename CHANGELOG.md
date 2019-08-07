@@ -1,3 +1,10 @@
+# [1.71.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.70.0...v1.71.0) (2019-08-07)
+
+
+### ✨ Features
+
+* allow flying to marker ([ea58048](https://github.com/wmfs/cardscript-to-quasar/commit/ea58048))
+
 # [1.70.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.69.3...v1.70.0) (2019-08-06)
 
 
