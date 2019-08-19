@@ -1,3 +1,15 @@
+# [1.72.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.71.0...v1.72.0) (2019-08-19)
+
+
+### ✨ Features
+
+* allow text block markdown ([7811411](https://github.com/wmfs/cardscript-to-quasar/commit/7811411))
+
+
+### ♻️ Chores
+
+* **deps-dev:** update semantic-release requirement ([d215de6](https://github.com/wmfs/cardscript-to-quasar/commit/d215de6))
+
 # [1.71.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.70.0...v1.71.0) (2019-08-07)
 
 
