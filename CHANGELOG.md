@@ -1,3 +1,10 @@
+# [1.73.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.72.1...v1.73.0) (2019-08-20)
+
+
+### ✨ Features
+
+* card list no longer has editable attribute but uses cardscript actions instead ([769b4e7](https://github.com/wmfs/cardscript-to-quasar/commit/769b4e7))
+
 ## [1.72.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.72.0...v1.72.1) (2019-08-20)
 
 
