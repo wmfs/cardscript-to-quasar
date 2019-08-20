@@ -1,3 +1,10 @@
+## [1.72.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.72.0...v1.72.1) (2019-08-20)
+
+
+### 🐛 Bug Fixes
+
+* add div as child tag not attribute + change class name to match syntax style ([a4f1b0d](https://github.com/wmfs/cardscript-to-quasar/commit/a4f1b0d))
+
 # [1.72.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.71.0...v1.72.0) (2019-08-19)
 
 
