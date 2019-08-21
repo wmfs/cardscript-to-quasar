@@ -1,3 +1,10 @@
+# [1.74.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.73.0...v1.74.0) (2019-08-21)
+
+
+### ✨ Features
+
+* Map-base to include OSGridRef format and refactored cardlist and apilookup ([65ca031](https://github.com/wmfs/cardscript-to-quasar/commit/65ca031))
+
 # [1.73.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.72.1...v1.73.0) (2019-08-20)
 
 
