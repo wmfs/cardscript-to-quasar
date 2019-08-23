@@ -1,3 +1,10 @@
+## [1.74.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.74.0...v1.74.1) (2019-08-23)
+
+
+### 🐛 Bug Fixes
+
+* only show menu on Table if launch actions exist on row ([2a76244](https://github.com/wmfs/cardscript-to-quasar/commit/2a76244))
+
 # [1.74.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.73.0...v1.74.0) (2019-08-21)
 
 
