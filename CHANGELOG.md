@@ -1,3 +1,10 @@
+# [1.75.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.74.1...v1.75.0) (2019-08-28)
+
+
+### ✨ Features
+
+* allow show when for map markers ([2bbcf40](https://github.com/wmfs/cardscript-to-quasar/commit/2bbcf40))
+
 ## [1.74.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.74.0...v1.74.1) (2019-08-23)
 
 
