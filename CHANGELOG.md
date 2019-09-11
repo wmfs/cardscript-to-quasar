@@ -1,3 +1,10 @@
+# [1.76.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.75.0...v1.76.0) (2019-09-11)
+
+
+### ✨ Features
+
+* update arrayPath for List/Table and changed ActionSet label to title ([2963efd](https://github.com/wmfs/cardscript-to-quasar/commit/2963efd))
+
 # [1.75.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.74.1...v1.75.0) (2019-08-28)
 
 
