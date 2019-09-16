@@ -1,3 +1,15 @@
+# [1.77.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.76.0...v1.77.0) (2019-09-16)
+
+
+### ✨ Features
+
+* allow reading launches from data for action set ([117c846](https://github.com/wmfs/cardscript-to-quasar/commit/117c846))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dev dependancies ([4ff31d7](https://github.com/wmfs/cardscript-to-quasar/commit/4ff31d7))
+
 # [1.76.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.75.0...v1.76.0) (2019-09-11)
 
 
