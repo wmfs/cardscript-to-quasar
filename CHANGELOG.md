@@ -1,3 +1,10 @@
+## [1.78.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.78.0...v1.78.1) (2019-09-18)
+
+
+### 🐛 Bug Fixes
+
+* table launches style ([6db36d0](https://github.com/wmfs/cardscript-to-quasar/commit/6db36d0))
+
 # [1.78.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.77.0...v1.78.0) (2019-09-18)
 
 
