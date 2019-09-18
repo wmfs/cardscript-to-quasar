@@ -1,3 +1,15 @@
+# [1.78.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.77.0...v1.78.0) (2019-09-18)
+
+
+### ✨ Features
+
+* list to show amount selected and allow to clear ([e8460dd](https://github.com/wmfs/cardscript-to-quasar/commit/e8460dd))
+
+
+### 🐛 Bug Fixes
+
+* only show/clear selection for multi select ([92230cf](https://github.com/wmfs/cardscript-to-quasar/commit/92230cf))
+
 # [1.77.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.76.0...v1.77.0) (2019-09-16)
 
 
