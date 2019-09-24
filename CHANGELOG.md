@@ -1,3 +1,10 @@
+# [1.79.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.78.1...v1.79.0) (2019-09-24)
+
+
+### ✨ Features
+
+* list action on selection ([123607e](https://github.com/wmfs/cardscript-to-quasar/commit/123607e))
+
 ## [1.78.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.78.0...v1.78.1) (2019-09-18)
 
 
