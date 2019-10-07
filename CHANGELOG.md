@@ -1,3 +1,10 @@
+# [1.80.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.79.0...v1.80.0) (2019-10-07)
+
+
+### ✨ Features
+
+* ReplaceCard - implemented action correctly ([d5b6f66](https://github.com/wmfs/cardscript-to-quasar/commit/d5b6f66))
+
 # [1.79.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.78.1...v1.79.0) (2019-09-24)
 
 
