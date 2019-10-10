@@ -1,3 +1,10 @@
+# [1.81.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.80.0...v1.81.0) (2019-10-10)
+
+
+### ✨ Features
+
+* allow fact set to point to array ([](https://github.com/wmfs/cardscript-to-quasar/commit/b7a8175))
+
 # [1.80.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.79.0...v1.80.0) (2019-10-07)
 
 
