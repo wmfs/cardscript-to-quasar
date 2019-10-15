@@ -1,3 +1,11 @@
+## [1.81.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.81.0...v1.81.1) (2019-10-15)
+
+
+### 🐛 Bug Fixes
+
+* clear list selection to use action fn ([](https://github.com/wmfs/cardscript-to-quasar/commit/decd46e))
+* list selection as action ([](https://github.com/wmfs/cardscript-to-quasar/commit/de57a2a))
+
 # [1.81.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.80.0...v1.81.0) (2019-10-10)
 
 
