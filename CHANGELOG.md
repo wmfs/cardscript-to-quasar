@@ -1,3 +1,10 @@
+## [1.82.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.82.0...v1.82.1) (2019-10-21)
+
+
+### 🐛 Bug Fixes
+
+* List component re-arrange v-if on show when text ([](https://github.com/wmfs/cardscript-to-quasar/commit/481924d))
+
 # [1.82.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.81.1...v1.82.0) (2019-10-21)
 
 
