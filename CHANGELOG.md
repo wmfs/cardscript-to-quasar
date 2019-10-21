@@ -1,3 +1,10 @@
+# [1.82.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.81.1...v1.82.0) (2019-10-21)
+
+
+### ✨ Features
+
+* added dense option for list ([](https://github.com/wmfs/cardscript-to-quasar/commit/d57638d))
+
 ## [1.81.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.81.0...v1.81.1) (2019-10-15)
 
 
