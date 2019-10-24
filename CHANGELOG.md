@@ -1,3 +1,10 @@
+## [1.83.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.83.0...v1.83.1) (2019-10-24)
+
+
+### 🐛 Bug Fixes
+
+* input number min/max ([](https://github.com/wmfs/cardscript-to-quasar/commit/e334329))
+
 # [1.83.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.82.1...v1.83.0) (2019-10-24)
 
 
