@@ -1,3 +1,10 @@
+# [1.84.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.83.2...v1.84.0) (2019-10-24)
+
+
+### ✨ Features
+
+* added tab navigation actions ([](https://github.com/wmfs/cardscript-to-quasar/commit/08d9559))
+
 ## [1.83.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.83.1...v1.83.2) (2019-10-24)
 
 
