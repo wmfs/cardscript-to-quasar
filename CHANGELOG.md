@@ -1,3 +1,10 @@
+# [1.83.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.82.1...v1.83.0) (2019-10-24)
+
+
+### ✨ Features
+
+* Input.Date min default to 01/01/1900 ([](https://github.com/wmfs/cardscript-to-quasar/commit/8a9deb7))
+
 ## [1.82.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.82.0...v1.82.1) (2019-10-21)
 
 
