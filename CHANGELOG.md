@@ -1,3 +1,10 @@
+## [1.83.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.83.1...v1.83.2) (2019-10-24)
+
+
+### 🐛 Bug Fixes
+
+* apply min/max to Input.DateTime ([](https://github.com/wmfs/cardscript-to-quasar/commit/e933f34))
+
 ## [1.83.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.83.0...v1.83.1) (2019-10-24)
 
 
