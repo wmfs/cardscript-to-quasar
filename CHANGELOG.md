@@ -1,3 +1,10 @@
+# [1.85.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.84.0...v1.85.0) (2019-11-08)
+
+
+### ✨ Features
+
+* if telephone number then input is number ([](https://github.com/wmfs/cardscript-to-quasar/commit/918051f))
+
 # [1.84.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.83.2...v1.84.0) (2019-10-24)
 
 
