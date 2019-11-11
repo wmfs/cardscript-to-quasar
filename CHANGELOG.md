@@ -1,3 +1,10 @@
+## [1.85.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.85.0...v1.85.1) (2019-11-11)
+
+
+### 🐛 Bug Fixes
+
+* dont dense choiceset items ([](https://github.com/wmfs/cardscript-to-quasar/commit/c18f145))
+
 # [1.85.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.84.0...v1.85.0) (2019-11-08)
 
 
