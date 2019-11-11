@@ -1,3 +1,10 @@
+# [1.86.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.85.1...v1.86.0) (2019-11-11)
+
+
+### ✨ Features
+
+* display error messages ([](https://github.com/wmfs/cardscript-to-quasar/commit/6944e09))
+
 ## [1.85.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.85.0...v1.85.1) (2019-11-11)
 
 
