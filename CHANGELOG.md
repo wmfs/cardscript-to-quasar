@@ -1,3 +1,31 @@
+# [1.88.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.87.0...v1.88.0) (2019-11-14)
+
+
+### ✨ Features
+
+* allow map to be centred to geo location by default ([](https://github.com/wmfs/cardscript-to-quasar/commit/3744ded))
+
+# [1.87.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.86.0...v1.87.0) (2019-11-14)
+
+
+### ✨ Features
+
+* create component for really simple tree ([](https://github.com/wmfs/cardscript-to-quasar/commit/59d3ae8))
+
+# [1.86.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.85.1...v1.86.0) (2019-11-11)
+
+
+### ✨ Features
+
+* display error messages ([](https://github.com/wmfs/cardscript-to-quasar/commit/6944e09))
+
+## [1.85.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.85.0...v1.85.1) (2019-11-11)
+
+
+### 🐛 Bug Fixes
+
+* dont dense choiceset items ([](https://github.com/wmfs/cardscript-to-quasar/commit/c18f145))
+
 # [1.85.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.84.0...v1.85.0) (2019-11-08)
 
 
