@@ -1,3 +1,10 @@
+# [1.87.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.86.0...v1.87.0) (2019-11-14)
+
+
+### ✨ Features
+
+* create component for really simple tree ([](https://github.com/wmfs/cardscript-to-quasar/commit/59d3ae8))
+
 # [1.86.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.85.1...v1.86.0) (2019-11-11)
 
 
