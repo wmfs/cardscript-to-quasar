@@ -1,3 +1,15 @@
+# [1.89.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.88.0...v1.89.0) (2019-11-15)
+
+
+### ✨ Features
+
+* Add Action.Stop ([e110d09](https://github.com/wmfs/cardscript-to-quasar/commit/e110d09c2990d4a2a98e1c24f9973429da09de21))
+
+
+### ♻️ Chores
+
+* Bump dev dependencies ([dce0549](https://github.com/wmfs/cardscript-to-quasar/commit/dce0549e692c876a90e39d5aab793f5c244b3631))
+
 # [1.88.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.87.0...v1.88.0) (2019-11-14)
 
 
