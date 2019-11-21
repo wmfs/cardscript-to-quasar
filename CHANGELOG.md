@@ -1,3 +1,11 @@
+# [1.90.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.89.0...v1.90.0) (2019-11-21)
+
+
+### ✨ Features
+
+* allow map markers passed in via data array path ([b396927](https://github.com/wmfs/cardscript-to-quasar/commit/b3969277498bfe8e2724a746f96a5dcf078f99ab))
+* improve styles for smaller screens ([067d2f2](https://github.com/wmfs/cardscript-to-quasar/commit/067d2f2dfd0dc4a280062e425a5c05d210695ff3))
+
 # [1.89.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.88.0...v1.89.0) (2019-11-15)
 
 
