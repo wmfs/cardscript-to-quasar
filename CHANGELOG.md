@@ -1,3 +1,10 @@
+## [1.91.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.91.0...v1.91.1) (2019-11-21)
+
+
+### 🐛 Bug Fixes
+
+* tidy up button styles ([13c1b53](https://github.com/wmfs/cardscript-to-quasar/commit/13c1b5393cbcb47ea6de85cc4921bf0d959c8841))
+
 # [1.91.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.90.0...v1.91.0) (2019-11-21)
 
 
