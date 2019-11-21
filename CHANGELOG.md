@@ -1,3 +1,10 @@
+# [1.91.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.90.0...v1.91.0) (2019-11-21)
+
+
+### ✨ Features
+
+* improve styling for smaller screens ([c79230c](https://github.com/wmfs/cardscript-to-quasar/commit/c79230c229c438875b5054909c6ea1d27a8a5ed8))
+
 # [1.90.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.89.0...v1.90.0) (2019-11-21)
 
 
