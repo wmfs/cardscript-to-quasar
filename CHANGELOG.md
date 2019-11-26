@@ -1,3 +1,10 @@
+## [1.91.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.91.1...v1.91.2) (2019-11-26)
+
+
+### 🐛 Bug Fixes
+
+* check invalidFields exists on instance ([66b97aa](https://github.com/wmfs/cardscript-to-quasar/commit/66b97aadca4f93889d397d98930891361a84063d))
+
 ## [1.91.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.91.0...v1.91.1) (2019-11-21)
 
 
