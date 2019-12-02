@@ -1,3 +1,10 @@
+## [1.92.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.92.0...v1.92.1) (2019-12-02)
+
+
+### 🐛 Bug Fixes
+
+* default list style to list rather than card ([a47f9ec](https://github.com/wmfs/cardscript-to-quasar/commit/a47f9ecc25464e86352f95cfa13a4ccb8302bbe4))
+
 # [1.92.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.91.2...v1.92.0) (2019-12-02)
 
 
