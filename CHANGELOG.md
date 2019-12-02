@@ -1,3 +1,11 @@
+# [1.92.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.91.2...v1.92.0) (2019-12-02)
+
+
+### ✨ Features
+
+* Incidents in Progress List View [ch59] ([88de3e1](https://github.com/wmfs/cardscript-to-quasar/commit/88de3e106f10faf7529d8a43da3ccd817bce0038))
+* Incidents in Progress List View [ch59] ([9c50603](https://github.com/wmfs/cardscript-to-quasar/commit/9c50603fddb8cd624b4849de831ed71efbee2771))
+
 ## [1.91.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.91.1...v1.91.2) (2019-11-26)
 
 
