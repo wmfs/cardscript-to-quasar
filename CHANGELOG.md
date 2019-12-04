@@ -1,3 +1,24 @@
+## [1.92.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.92.1...v1.92.2) (2019-12-04)
+
+
+### 🐛 Bug Fixes
+
+* use Action-template for all actions ([e327e14](https://github.com/wmfs/cardscript-to-quasar/commit/e327e14d2048c699fed09a51b7406d0593330e97))
+* use consistent template for Actions ([4a9f15b](https://github.com/wmfs/cardscript-to-quasar/commit/4a9f15bf286c58aa06a976e00ae8704bf639d2e3))
+
+
+### 📦 Code Refactoring
+
+* begin to reduce code duplication for separator ([fa99b64](https://github.com/wmfs/cardscript-to-quasar/commit/fa99b64134e3c4d10689d7c932a6de0f3a3adc9d))
+* beginning attempt to reduce code dupe ([1352570](https://github.com/wmfs/cardscript-to-quasar/commit/135257027eb3d88cb182a346ebe67d83e0672ca4))
+* tidy up separator ([4050b87](https://github.com/wmfs/cardscript-to-quasar/commit/4050b87d65b82dd8aa4008b9016d4e69f0c53996))
+* use color reference look up as utils ([163adf8](https://github.com/wmfs/cardscript-to-quasar/commit/163adf87465f42972c164e741b9201f96372a496))
+
+
+### 💎 Styles
+
+* remove margins from Table (standard fix) ([4d89abe](https://github.com/wmfs/cardscript-to-quasar/commit/4d89abe7c574eb0af337d97609c39879b22af66a))
+
 ## [1.92.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.92.0...v1.92.1) (2019-12-02)
 
 
