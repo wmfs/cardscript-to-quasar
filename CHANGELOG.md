@@ -1,3 +1,10 @@
+# [1.95.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.94.0...v1.95.0) (2019-12-10)
+
+
+### ✨ Features
+
+* allow Collapsible subtitle to be an array ([3ee3708](https://github.com/wmfs/cardscript-to-quasar/commit/3ee3708aa5cebc3d7f300934450764b93d30a065))
+
 # [1.94.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.93.0...v1.94.0) (2019-12-10)
 
 
