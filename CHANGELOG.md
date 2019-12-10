@@ -1,3 +1,10 @@
+# [1.94.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.93.0...v1.94.0) (2019-12-10)
+
+
+### ✨ Features
+
+* allow badge colour option on Collapsible ([aac8652](https://github.com/wmfs/cardscript-to-quasar/commit/aac8652696312016dbc2d85a3f56fd4e87f3b275))
+
 # [1.93.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.92.2...v1.93.0) (2019-12-10)
 
 
