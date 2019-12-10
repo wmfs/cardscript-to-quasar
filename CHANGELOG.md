@@ -1,3 +1,23 @@
+# [1.93.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.92.2...v1.93.0) (2019-12-10)
+
+
+### ✨ Features
+
+* allow ActionSet to have buttons style ([6fde456](https://github.com/wmfs/cardscript-to-quasar/commit/6fde45677775372f129db66f204bc0076f9d97e8))
+* allow cards to be iterative ([b1cb138](https://github.com/wmfs/cardscript-to-quasar/commit/b1cb1383747817b2d7c32c9f15aebcb64efd35f6))
+* improve collapsible so uses template header ([d61fafe](https://github.com/wmfs/cardscript-to-quasar/commit/d61fafe61dc6be564efd881c7bc4baa452e73d34))
+
+
+### 🐛 Bug Fixes
+
+* Collapsible swap badge/caption around ([ba0ee4c](https://github.com/wmfs/cardscript-to-quasar/commit/ba0ee4c95e34f52228aa2e5c0b3ea4c443731a77))
+* issue resolved with collapsible label ([23bd3c1](https://github.com/wmfs/cardscript-to-quasar/commit/23bd3c135f93a4c899fb48c15956274a32876a45))
+
+
+### 📦 Code Refactoring
+
+* remove console log ([f5add35](https://github.com/wmfs/cardscript-to-quasar/commit/f5add35fc392def849ad444dd67b25ba8bc52429))
+
 ## [1.92.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.92.1...v1.92.2) (2019-12-04)
 
 
