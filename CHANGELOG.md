@@ -1,3 +1,10 @@
+## [1.95.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.95.0...v1.95.1) (2019-12-11)
+
+
+### 🐛 Bug Fixes
+
+* ActionSet implement showWhen if listStyle is not dropdown or list ([f110738](https://github.com/wmfs/cardscript-to-quasar/commit/f110738144afc80e4dfb7b8f09496e7c2ffeaac3))
+
 # [1.95.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.94.0...v1.95.0) (2019-12-10)
 
 
