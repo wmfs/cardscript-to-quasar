@@ -1,3 +1,10 @@
+# [1.96.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.95.1...v1.96.0) (2019-12-17)
+
+
+### ✨ Features
+
+* List to have multi-line sublabel and badge ([1cc9dbd](https://github.com/wmfs/cardscript-to-quasar/commit/1cc9dbd4d4e107d6955b693af498ec8b0bb3fdca))
+
 ## [1.95.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.95.0...v1.95.1) (2019-12-11)
 
 
