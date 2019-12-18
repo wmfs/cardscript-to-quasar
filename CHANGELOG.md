@@ -1,3 +1,10 @@
+## [1.98.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.98.0...v1.98.1) (2019-12-18)
+
+
+### 🐛 Bug Fixes
+
+* allow data url on image and fact set to have no left padding ([1705f01](https://github.com/wmfs/cardscript-to-quasar/commit/1705f017cc80f8bd64529c71a1988d43ba341f08))
+
 # [1.98.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.97.0...v1.98.0) (2019-12-18)
 
 
