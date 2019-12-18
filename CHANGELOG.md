@@ -1,3 +1,10 @@
+# [1.98.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.97.0...v1.98.0) (2019-12-18)
+
+
+### ✨ Features
+
+* default margin on Container ([3c51931](https://github.com/wmfs/cardscript-to-quasar/commit/3c51931ef46f67f1ddce8fc9d2e3bb7751c3ef0b))
+
 # [1.97.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.96.0...v1.97.0) (2019-12-17)
 
 
