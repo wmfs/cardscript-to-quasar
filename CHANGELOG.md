@@ -1,3 +1,11 @@
+# [1.99.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.98.1...v1.99.0) (2019-12-31)
+
+
+### 🛠 Builds
+
+* **deps:** bump dottie from 2.0.1 to 2.0.2 ([#77](https://github.com/wmfs/cardscript-to-quasar/issues/77)) ([2199b88](https://github.com/wmfs/cardscript-to-quasar/commit/2199b882cd5587768ccbe485a4271f775f7cea1f))
+* **deps-dev:** bump packages ([672903b](https://github.com/wmfs/cardscript-to-quasar/commit/672903bac937e7a208e9fcad727bf121ee2537b4))
+
 ## [1.98.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.98.0...v1.98.1) (2019-12-18)
 
 
