@@ -18,12 +18,12 @@
     "conventional-changelog-metahub": "3.0.0",
     "cz-conventional-changelog": "3.0.2",
     "mocha": "6.2.2",
-    "nyc": "14.1.1",
-    "semantic-release": "15.13.30",
+    "nyc": "15.0.0",
+    "semantic-release": "15.14.0",
     "standard": "12.0.1",
-    "@semantic-release/changelog": "3.0.5",
+    "@semantic-release/changelog": "3.0.6",
     "@semantic-release/git": "7.0.18",
-    "@wmfs/cardscript-examples": "1.11.0"
+    "@wmfs/cardscript-examples": "1.16.0"
   },
   "scripts": {
     "lint": "standard",
