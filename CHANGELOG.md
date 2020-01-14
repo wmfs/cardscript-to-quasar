@@ -1,3 +1,15 @@
+## [1.99.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.99.0...v1.99.1) (2020-01-14)
+
+
+### 🐛 Bug Fixes
+
+* Tweak Column default width so it works on larger as well as smaller screens ([e024729](https://github.com/wmfs/cardscript-to-quasar/commit/e02472945598e86c41ff1c691b08ce3e22b3656a))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump mocha from 6.2.2 to 7.0.0 ([c491c0a](https://github.com/wmfs/cardscript-to-quasar/commit/c491c0a6b56039be803dd3d8897c8c6f26028a3f))
+
 # [1.99.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.98.1...v1.99.0) (2019-12-31)
 
 
