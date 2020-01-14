@@ -1,3 +1,10 @@
+# [1.100.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.99.1...v1.100.0) (2020-01-14)
+
+
+### ✨ Features
+
+* Add Table hideBottom parameter, when true removes pagination controls ([a69744e](https://github.com/wmfs/cardscript-to-quasar/commit/a69744e928709ffa4d64f89aba9b89d748e6fc46))
+
 ## [1.99.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.99.0...v1.99.1) (2020-01-14)
 
 
