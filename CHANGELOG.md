@@ -1,3 +1,10 @@
+# [1.101.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.100.0...v1.101.0) (2020-01-14)
+
+
+### ✨ Features
+
+* Add Table hideHeader prop. ([8b2faab](https://github.com/wmfs/cardscript-to-quasar/commit/8b2faabc58c2b2ca2533ff0a006f9cf6f678dec0))
+
 # [1.100.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.99.1...v1.100.0) (2020-01-14)
 
 
