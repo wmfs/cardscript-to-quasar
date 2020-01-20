@@ -1,3 +1,10 @@
+## [1.103.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.103.1...v1.103.2) (2020-01-20)
+
+
+### 🐛 Bug Fixes
+
+* display Tree label if no selection type defined ([a9e2387](https://github.com/wmfs/cardscript-to-quasar/commit/a9e2387a38fc593aea21a69d0854aafa85037921))
+
 ## [1.103.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.103.0...v1.103.1) (2020-01-20)
 
 
