@@ -1,3 +1,15 @@
+# [1.102.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.101.0...v1.102.0) (2020-01-20)
+
+
+### ✨ Features
+
+* add showWhen to TabSet and Tab components ([bd586cc](https://github.com/wmfs/cardscript-to-quasar/commit/bd586cca89f663ae882d68a351f5b5824e177a29))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([784e535](https://github.com/wmfs/cardscript-to-quasar/commit/784e535c96209252dc80446fb03f6e8b9991f228))
+
 # [1.101.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.100.0...v1.101.0) (2020-01-14)
 
 
