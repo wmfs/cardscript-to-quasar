@@ -1,3 +1,15 @@
+## [1.103.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.103.2...v1.103.3) (2020-01-20)
+
+
+### 🐛 Bug Fixes
+
+* TabSet and Tab to use component builder to use card list tracker ([2948dc0](https://github.com/wmfs/cardscript-to-quasar/commit/2948dc057006cb0596de02c93f6f6c2177ce0af0))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/cardscript-examples from 1.16.0 to 1.18.0 ([dcb4ffd](https://github.com/wmfs/cardscript-to-quasar/commit/dcb4ffdb721071b350c7aa584d26566c9323f282))
+
 ## [1.103.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.103.1...v1.103.2) (2020-01-20)
 
 
