@@ -1,3 +1,10 @@
+## [1.103.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.103.0...v1.103.1) (2020-01-20)
+
+
+### 🐛 Bug Fixes
+
+* Tree buttons to select all and clear selection ([01952ed](https://github.com/wmfs/cardscript-to-quasar/commit/01952ed7b500cdbf0309e03dbcd809e1fb81dec6))
+
 # [1.103.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.102.0...v1.103.0) (2020-01-20)
 
 
