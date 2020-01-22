@@ -1,3 +1,10 @@
+# [1.104.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.103.3...v1.104.0) (2020-01-22)
+
+
+### ✨ Features
+
+* refactor Table to use template slots and enable conditional icons with values ([973830f](https://github.com/wmfs/cardscript-to-quasar/commit/973830fb14d45036d9dff4165db684adea3d521e))
+
 ## [1.103.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.103.2...v1.103.3) (2020-01-20)
 
 
