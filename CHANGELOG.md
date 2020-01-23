@@ -1,3 +1,10 @@
+# [1.105.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.104.1...v1.105.0) (2020-01-23)
+
+
+### ✨ Features
+
+* add showWhen feature to CardList ([a9733e2](https://github.com/wmfs/cardscript-to-quasar/commit/a9733e226da1df078eb3d0487cd7d947b6f23e7c))
+
 ## [1.104.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.104.0...v1.104.1) (2020-01-23)
 
 
