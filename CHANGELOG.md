@@ -1,3 +1,15 @@
+## [1.104.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.104.0...v1.104.1) (2020-01-23)
+
+
+### 🐛 Bug Fixes
+
+* avoid duplicate class on element in Table ([371376d](https://github.com/wmfs/cardscript-to-quasar/commit/371376d6ce0f12878cb04fd922fc96680eba91ea))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([460f008](https://github.com/wmfs/cardscript-to-quasar/commit/460f008262787348dc2a2da8fe82110d5254178c))
+
 # [1.104.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.103.3...v1.104.0) (2020-01-22)
 
 
