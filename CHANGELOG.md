@@ -1,3 +1,28 @@
+## [1.105.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.105.0...v1.105.1) (2020-01-28)
+
+
+### 🐛 Bug Fixes
+
+* revert tab to not use component builder ([de910a4](https://github.com/wmfs/cardscript-to-quasar/commit/de910a43d8a40affdc79dfce2c02503673b9c548))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([0d1254d](https://github.com/wmfs/cardscript-to-quasar/commit/0d1254dfc7a8c42863b9edeb05d1248b01ff147d))
+
+
+### ♻️ Chores
+
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([5cece6b](https://github.com/wmfs/cardscript-to-quasar/commit/5cece6b11fcd25cd3ec1417e186eef6537aec574))
+
+
+### 💎 Styles
+
+* Do not access Object.prototype method 'hasOwnProperty' from target object ([bdc0dd8](https://github.com/wmfs/cardscript-to-quasar/commit/bdc0dd8f2bc679455395ac367737256a46d0c17e))
+* standard --fix ([a1a35c0](https://github.com/wmfs/cardscript-to-quasar/commit/a1a35c0ee1420d9422d3b979402b752c561898ad))
+* standard --fix ([22b9dc4](https://github.com/wmfs/cardscript-to-quasar/commit/22b9dc4ee4faa7aa492c4b7d8fa88920bea307bc))
+* Strings must use singlequote ([828014a](https://github.com/wmfs/cardscript-to-quasar/commit/828014a4af4a535c47bc0b7a2900d15bbf9fcee9))
+
 # [1.105.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.104.1...v1.105.0) (2020-01-23)
 
 
