@@ -1,3 +1,18 @@
+# [1.106.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.105.1...v1.106.0) (2020-01-29)
+
+
+### ✨ Features
+
+* Allow disable option on Input.ChoiceSet (Select/Compact style) ([78279ad](https://github.com/wmfs/cardscript-to-quasar/commit/78279ad3baa4c4a6ce1f429cc9bd383b22fd7e7a))
+* hide options in setlist with showWhen ([28d9254](https://github.com/wmfs/cardscript-to-quasar/commit/28d9254a18e62287b081efc016b92364f9450838))
+* refactor all choice sets to use show when condition ([9ba1944](https://github.com/wmfs/cardscript-to-quasar/commit/9ba19445bcaf174d582ff2c50d75a48818612402))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([1fb749e](https://github.com/wmfs/cardscript-to-quasar/commit/1fb749ec413bdf29db73fd37ee7c2b156a71adab))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([3a310bb](https://github.com/wmfs/cardscript-to-quasar/commit/3a310bb9e61f4858436e6d0661fb1a78f5307b5f))
+
 ## [1.105.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.105.0...v1.105.1) (2020-01-28)
 
 
