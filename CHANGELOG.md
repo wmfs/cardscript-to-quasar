@@ -1,3 +1,16 @@
+# [1.107.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.106.0...v1.107.0) (2020-02-05)
+
+
+### ✨ Features
+
+* align table headers left ([63821a9](https://github.com/wmfs/cardscript-to-quasar/commit/63821a9676b10a396c19da2b176e21a8f8da36bf))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump codecov from 3.6.2 to 3.6.3 ([c6943ea](https://github.com/wmfs/cardscript-to-quasar/commit/c6943eac90f2c82ae3bbfa10f708a372bd59c2a9))
+* **deps-dev:** bump codecov from 3.6.3 to 3.6.4 ([c302fdd](https://github.com/wmfs/cardscript-to-quasar/commit/c302fdd1607737b9e3374615a1fb1e05f0644787))
+
 # [1.106.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.105.1...v1.106.0) (2020-01-29)
 
 
