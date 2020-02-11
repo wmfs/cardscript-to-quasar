@@ -1,3 +1,15 @@
+# [1.108.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.107.1...v1.108.0) (2020-02-11)
+
+
+### ✨ Features
+
+* update Table to allow flagging column value ([d4286c7](https://github.com/wmfs/cardscript-to-quasar/commit/d4286c767350b66e5967a2f51e915f18c5b5af1c))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump codecov from 3.6.4 to 3.6.5 ([6233f8a](https://github.com/wmfs/cardscript-to-quasar/commit/6233f8a1b89717ac00e7048ffc35cc3fee882baf))
+
 ## [1.107.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.107.0...v1.107.1) (2020-02-06)
 
 
