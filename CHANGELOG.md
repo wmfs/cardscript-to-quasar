@@ -1,3 +1,10 @@
+# [1.109.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.108.0...v1.109.0) (2020-02-13)
+
+
+### ✨ Features
+
+* format fact set look up value for arrays ([170bd19](https://github.com/wmfs/cardscript-to-quasar/commit/170bd191036b04640ffd2f7e52f58bff9b64cb98))
+
 # [1.108.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.107.1...v1.108.0) (2020-02-11)
 
 
