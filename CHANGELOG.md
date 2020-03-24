@@ -1,3 +1,10 @@
+# [1.111.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.110.0...v1.111.0) (2020-03-24)
+
+
+### ✨ Features
+
+* **spacing:** case for no spacing ([4ca6b42](https://github.com/wmfs/cardscript-to-quasar/commit/4ca6b422248660c05d6fd4ba8ce1977bbbdde3d8))
+
 # [1.110.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.109.0...v1.110.0) (2020-03-24)
 
 
