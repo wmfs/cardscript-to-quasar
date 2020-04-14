@@ -1,3 +1,27 @@
+# [1.112.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.111.0...v1.112.0) (2020-04-14)
+
+
+### ✨ Features
+
+* **Action-template:** allow style override ([8d3ba00](https://github.com/wmfs/cardscript-to-quasar/commit/8d3ba008cc561c569dded0e249f5dfecc75c2c5f))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([7fc32d2](https://github.com/wmfs/cardscript-to-quasar/commit/7fc32d21ca34cef737144b752d92f12d76704cb1))
+
+
+### ♻️ Chores
+
+* remove log ([8d6c7cd](https://github.com/wmfs/cardscript-to-quasar/commit/8d6c7cda2f74527c34c101a25d6e74ae36272207))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([a9d057e](https://github.com/wmfs/cardscript-to-quasar/commit/a9d057ee2c0acaad11f3130b9cfd7b6dbe772de2))
+* **deps-dev:** bump nyc from 15.0.0 to 15.0.1 ([b4bbb0d](https://github.com/wmfs/cardscript-to-quasar/commit/b4bbb0dee9e4a9f6c4bcd3f466a9af118c5ac55f))
+
+
+### 💎 Styles
+
+* standard ([4e2562d](https://github.com/wmfs/cardscript-to-quasar/commit/4e2562d6562949ed4eddbe87647358c6018cdf26))
+
 # [1.111.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.110.0...v1.111.0) (2020-03-24)
 
 
