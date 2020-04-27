@@ -1,3 +1,10 @@
+# [1.114.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.113.0...v1.114.0) (2020-04-27)
+
+
+### ✨ Features
+
+* Input.ChoiceSet add 'Select all that apply' guidance to multi select ([0e9d506](https://github.com/wmfs/cardscript-to-quasar/commit/0e9d50633f2d5cf76f2c2611f2fbd7dc8ee53f95))
+
 # [1.113.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.112.0...v1.113.0) (2020-04-27)
 
 
