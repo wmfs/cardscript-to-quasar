@@ -1,3 +1,18 @@
+# [1.113.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.112.0...v1.113.0) (2020-04-27)
+
+
+### ✨ Features
+
+* Collapsible - change expand/expanded icons to add/remove ([26dd80e](https://github.com/wmfs/cardscript-to-quasar/commit/26dd80e8a71f460fa44e591c13e3c3bf8406cdbc))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump mocha from 7.1.1 to 7.1.2 ([1185f25](https://github.com/wmfs/cardscript-to-quasar/commit/1185f25e2f6c1ed8db874dddc5041b345ac95a66))
+* **deps-dev:** bump semantic-release from 17.0.4 to 17.0.5 ([e00f959](https://github.com/wmfs/cardscript-to-quasar/commit/e00f959de5ad02e5e32433a1f43c9955beeecaac))
+* **deps-dev:** bump semantic-release from 17.0.5 to 17.0.6 ([2681a4c](https://github.com/wmfs/cardscript-to-quasar/commit/2681a4c5a53b58fad8e786986ae30996f8105f37))
+* **deps-dev:** bump semantic-release from 17.0.6 to 17.0.7 ([e57a876](https://github.com/wmfs/cardscript-to-quasar/commit/e57a87694855a67870fca3fd9cdbc6d61c6f24dc))
+
 # [1.112.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.111.0...v1.112.0) (2020-04-14)
 
 
