@@ -1,3 +1,10 @@
+# [1.116.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.115.0...v1.116.0) (2020-04-28)
+
+
+### ✨ Features
+
+* apply class style to table headers ([2ea644f](https://github.com/wmfs/cardscript-to-quasar/commit/2ea644fea20a3a202383fd6c549dc32cea774c08))
+
 # [1.115.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.114.0...v1.115.0) (2020-04-28)
 
 
