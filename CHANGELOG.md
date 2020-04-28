@@ -1,3 +1,10 @@
+# [1.115.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.114.0...v1.115.0) (2020-04-28)
+
+
+### ✨ Features
+
+* List labels to have consistent styles ([c323d3f](https://github.com/wmfs/cardscript-to-quasar/commit/c323d3f21f15380f4ff7f2219649f3fcdb5aec39))
+
 # [1.114.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.113.0...v1.114.0) (2020-04-27)
 
 
