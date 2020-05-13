@@ -1,3 +1,22 @@
+# [1.117.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.116.0...v1.117.0) (2020-05-13)
+
+
+### ✨ Features
+
+* Add Input.FileUpload autoUpload property ([7be9c8f](https://github.com/wmfs/cardscript-to-quasar/commit/7be9c8f2b1a3d333f0f46a491f2b70ebc75b609c))
+
+
+### 📦 Code Refactoring
+
+* add uploaded event, allow additional fields and accept types ([040077a](https://github.com/wmfs/cardscript-to-quasar/commit/040077afe00436f7d14456c53865f713f7ac1fb7))
+* file upload to use upload url ([f38e1a0](https://github.com/wmfs/cardscript-to-quasar/commit/f38e1a0c954569c0079f0c6e25165f7a254a3092))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump cz-conventional-changelog from 3.1.0 to 3.2.0 ([fe5e818](https://github.com/wmfs/cardscript-to-quasar/commit/fe5e81842fbf19ad6be2ead77f4f8470d9b7cadc))
+* **deps-dev:** bump standard from 14.3.3 to 14.3.4 ([d709fa4](https://github.com/wmfs/cardscript-to-quasar/commit/d709fa48c89aca778338f10364d8700646c93f57))
+
 # [1.116.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.115.0...v1.116.0) (2020-04-28)
 
 
