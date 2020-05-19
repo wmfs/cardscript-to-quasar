@@ -1,3 +1,16 @@
+## [1.117.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.117.0...v1.117.1) (2020-05-19)
+
+
+### 🐛 Bug Fixes
+
+* Add dense attribute to Input.Number ([3f52167](https://github.com/wmfs/cardscript-to-quasar/commit/3f52167e6450bdb19f19068282d7bd141a0e4252))
+* Use applySpacing. ([cc515f5](https://github.com/wmfs/cardscript-to-quasar/commit/cc515f5567451c08fe744071ef3ec005c91b122e))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump codecov from 3.6.5 to 3.7.0 ([219ece8](https://github.com/wmfs/cardscript-to-quasar/commit/219ece87de9001e78550a61d65c3d96a440d83bb))
+
 # [1.117.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.116.0...v1.117.0) (2020-05-13)
 
 
