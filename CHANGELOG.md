@@ -1,3 +1,23 @@
+# [1.118.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.117.1...v1.118.0) (2020-06-02)
+
+
+### ✨ Features
+
+* allow showWhen on AdaptiveCard ([81fa0f0](https://github.com/wmfs/cardscript-to-quasar/commit/81fa0f0fa994141f39960bfa7b56c1bdbc040080))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/cardscript-examples from 1.18.0 to 1.19.0 ([64ac5c3](https://github.com/wmfs/cardscript-to-quasar/commit/64ac5c3409b7ef672a26e92dbe87d97a09986f4f))
+* **deps-dev:** bump mocha from 7.1.2 to 7.2.0 ([b34e908](https://github.com/wmfs/cardscript-to-quasar/commit/b34e9088f77546371d72074fb3621a3304c37b70))
+* **deps-dev:** bump nyc from 15.0.1 to 15.1.0 ([962fae4](https://github.com/wmfs/cardscript-to-quasar/commit/962fae42bc2a6f8de3591962a469014066cce179))
+* **deps-dev:** bump semantic-release from 17.0.7 to 17.0.8 ([ad013f4](https://github.com/wmfs/cardscript-to-quasar/commit/ad013f4bc0823581f28d080eac83b7fa9cd161b2))
+
+
+### 💎 Styles
+
+* standard fix ([be0dbe3](https://github.com/wmfs/cardscript-to-quasar/commit/be0dbe35727c77c46a2b06e67c78bcda21b3be8b))
+
 ## [1.117.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.117.0...v1.117.1) (2020-05-19)
 
 
