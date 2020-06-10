@@ -1,3 +1,10 @@
+# [1.119.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.118.0...v1.119.0) (2020-06-10)
+
+
+### ✨ Features
+
+* improve Input.Toggle appearance ([317b685](https://github.com/wmfs/cardscript-to-quasar/commit/317b685642ea0b40363d8867dbc73270c389272d))
+
 # [1.118.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.117.1...v1.118.0) (2020-06-02)
 
 
