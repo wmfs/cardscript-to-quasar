@@ -1,3 +1,22 @@
+# [1.121.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.120.0...v1.121.0) (2020-07-01)
+
+
+### ✨ Features
+
+* quasar app v2 upgrade src/statics -> public ([2734a75](https://github.com/wmfs/cardscript-to-quasar/commit/2734a754f4ab5463fd14be87a4916f6a8c15a538))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** use updated circle node image [skip ci] ([8da557b](https://github.com/wmfs/cardscript-to-quasar/commit/8da557b0b58168b8196d54c5b1ca2c9cdbe6e6d0))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump mocha from 7.2.0 to 8.0.1 ([98f17ff](https://github.com/wmfs/cardscript-to-quasar/commit/98f17ff3e84bc442eb56fa4afa61102a139bbe9f))
+* **deps-dev:** bump semantic-release from 17.0.8 to 17.1.0 ([68c1977](https://github.com/wmfs/cardscript-to-quasar/commit/68c1977c8a4b5782790b1b26cc8d7050b09aa5bc))
+* **deps-dev:** bump semantic-release from 17.1.0 to 17.1.1 ([0754cae](https://github.com/wmfs/cardscript-to-quasar/commit/0754cae9488194ecfaeacc6699705958eac40df8))
+
 # [1.120.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.119.0...v1.120.0) (2020-06-10)
 
 
