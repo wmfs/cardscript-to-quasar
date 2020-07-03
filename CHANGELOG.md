@@ -1,3 +1,10 @@
+## [1.123.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.123.0...v1.123.1) (2020-07-03)
+
+
+### 🐛 Bug Fixes
+
+* Container adjust border opacity ([f019778](https://github.com/wmfs/cardscript-to-quasar/commit/f019778fd3c58d531bb80a6df801074907db3586))
+
 # [1.123.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.122.0...v1.123.0) (2020-07-03)
 
 
