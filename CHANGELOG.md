@@ -1,3 +1,10 @@
+# [1.123.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.122.0...v1.123.0) (2020-07-03)
+
+
+### ✨ Features
+
+* Container padding + border ([3e4c74d](https://github.com/wmfs/cardscript-to-quasar/commit/3e4c74dc0259a32b13fa87e924f0667d0ec02337))
+
 # [1.122.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.121.0...v1.122.0) (2020-07-03)
 
 
