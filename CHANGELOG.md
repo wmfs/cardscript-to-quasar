@@ -1,3 +1,10 @@
+# [1.122.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.121.0...v1.122.0) (2020-07-03)
+
+
+### ✨ Features
+
+* add shadow/border support for Container ([fa406a1](https://github.com/wmfs/cardscript-to-quasar/commit/fa406a1f2c221e8c61c41e80a45332edc0d0d21a))
+
 # [1.121.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.120.0...v1.121.0) (2020-07-01)
 
 
