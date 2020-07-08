@@ -1,3 +1,10 @@
+## [1.123.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.123.1...v1.123.2) (2020-07-08)
+
+
+### 🐛 Bug Fixes
+
+* adjust space around multi check list values ([15a5fbb](https://github.com/wmfs/cardscript-to-quasar/commit/15a5fbb32b088e332d7ffa8d0b8945f5bb97097a))
+
 ## [1.123.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.123.0...v1.123.1) (2020-07-03)
 
 
