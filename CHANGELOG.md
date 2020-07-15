@@ -1,3 +1,16 @@
+# [1.124.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.123.2...v1.124.0) (2020-07-15)
+
+
+### ✨ Features
+
+* add tooltip support for text builders ([e49f1b9](https://github.com/wmfs/cardscript-to-quasar/commit/e49f1b96d696a56fa9daec29bd856657e45f75a6))
+
+
+### 🐛 Bug Fixes
+
+* **standard:** trailing space ([9d1041a](https://github.com/wmfs/cardscript-to-quasar/commit/9d1041a18d413a1a621ff6dff00ec60852980793))
+* destructure for tooltip in Input.Number ([a7ff951](https://github.com/wmfs/cardscript-to-quasar/commit/a7ff951bb0a08480d5d2b2ee6402af1e91183d5b))
+
 ## [1.123.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.123.1...v1.123.2) (2020-07-08)
 
 
