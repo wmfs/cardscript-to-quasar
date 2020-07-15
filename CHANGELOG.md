@@ -1,3 +1,10 @@
+# [1.125.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.124.0...v1.125.0) (2020-07-15)
+
+
+### ✨ Features
+
+* styling changes for tooltips ([646c5dd](https://github.com/wmfs/cardscript-to-quasar/commit/646c5dd4060e0b3aa7da073f1fb6273155736f18))
+
 # [1.124.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.123.2...v1.124.0) (2020-07-15)
 
 
