@@ -1,3 +1,16 @@
+## [1.125.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.125.0...v1.125.1) (2020-07-22)
+
+
+### 🐛 Bug Fixes
+
+* remove space around multi check list values ([289df34](https://github.com/wmfs/cardscript-to-quasar/commit/289df34fbd59752a5a464d8581fe66f1fe06021d))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([a2139fa](https://github.com/wmfs/cardscript-to-quasar/commit/a2139fa290439d60e9e47bd1afd20b9e7c5f83d6))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([5eb0a2f](https://github.com/wmfs/cardscript-to-quasar/commit/5eb0a2f9f96b14209852aff56b59d2d12273e910))
+
 # [1.125.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.124.0...v1.125.0) (2020-07-15)
 
 
