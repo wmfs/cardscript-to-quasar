@@ -1,3 +1,27 @@
+# [1.126.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.125.1...v1.126.0) (2020-08-26)
+
+
+### ✨ Features
+
+* force build ([a8ef7d1](https://github.com/wmfs/cardscript-to-quasar/commit/a8ef7d1999c9bb791f8ef932144e435e547f0ea8))
+
+
+### 📦 Code Refactoring
+
+* **Input.Number:** default to only allow positive integers [ch1718] ([f72f600](https://github.com/wmfs/cardscript-to-quasar/commit/f72f600e79642b4be0330f11a40283640692e480))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** separate lint job [ch1009] ([78ef583](https://github.com/wmfs/cardscript-to-quasar/commit/78ef5836060ec2d98dcc5540e9ab1ec36284b744))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([c860d58](https://github.com/wmfs/cardscript-to-quasar/commit/c860d581da75a9201dc5483ddbdad694c7ef4973))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([c60ed6a](https://github.com/wmfs/cardscript-to-quasar/commit/c60ed6a6428d27d1c7030727db13b63ac358e6bb))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([19f7583](https://github.com/wmfs/cardscript-to-quasar/commit/19f7583f56be49b1b1bd931f5ca8b576e9bce58f))
+
 ## [1.125.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.125.0...v1.125.1) (2020-07-22)
 
 
