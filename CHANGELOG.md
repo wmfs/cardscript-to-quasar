@@ -1,3 +1,10 @@
+# [1.127.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.126.0...v1.127.0) (2020-08-26)
+
+
+### ✨ Features
+
+* better/more tooltips [ch1720] ([4c5366d](https://github.com/wmfs/cardscript-to-quasar/commit/4c5366d3986128a2e90c51dafb272f66616f9a98))
+
 # [1.126.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.125.1...v1.126.0) (2020-08-26)
 
 
