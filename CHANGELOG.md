@@ -1,3 +1,16 @@
+# [1.128.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.127.0...v1.128.0) (2020-08-27)
+
+
+### ✨ Features
+
+* max width on tooltips ([99e9581](https://github.com/wmfs/cardscript-to-quasar/commit/99e9581a0d4e8a899da86df1917a3659a7464257))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([0c4e6a7](https://github.com/wmfs/cardscript-to-quasar/commit/0c4e6a7c7a8694b8d79eb193c2530e0897ffa613))
+* **deps-dev:** bump mocha from 8.1.1 to 8.1.2 ([a41ad2c](https://github.com/wmfs/cardscript-to-quasar/commit/a41ad2c0f43350e367fcac9c1acd987d8f6bf97b))
+
 # [1.127.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.126.0...v1.127.0) (2020-08-26)
 
 
