@@ -1,3 +1,15 @@
+# [1.129.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.128.0...v1.129.0) (2020-09-07)
+
+
+### ✨ Features
+
+* allow multiple badges on List items [ch1800] ([d07e3ef](https://github.com/wmfs/cardscript-to-quasar/commit/d07e3eff88a84f17687e92ab9f6da0ade2c35ee3))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump mocha from 8.1.2 to 8.1.3 ([c254d54](https://github.com/wmfs/cardscript-to-quasar/commit/c254d5413e6925637edcde70b1f2af1d177cd859))
+
 # [1.128.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.127.0...v1.128.0) (2020-08-27)
 
 
