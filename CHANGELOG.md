@@ -1,3 +1,10 @@
+## [1.129.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.129.0...v1.129.1) (2020-09-07)
+
+
+### 🐛 Bug Fixes
+
+* List badges ([4d8eead](https://github.com/wmfs/cardscript-to-quasar/commit/4d8eead36bc7c1caac858e1caf27970c279a12e2))
+
 # [1.129.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.128.0...v1.129.0) (2020-09-07)
 
 
