@@ -1,3 +1,43 @@
+## [1.129.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.129.1...v1.129.2) (2020-10-15)
+
+
+### 🐛 Bug Fixes
+
+* Pass locked attribute onto map circle. ([94e7c34](https://github.com/wmfs/cardscript-to-quasar/commit/94e7c3477288f05e8d0af9f16b30dc43c52d567c))
+
+
+### 📦 Code Refactoring
+
+* Eliminated addMarkerOSGridRef/addMarkerLongLat ([9ffa2f6](https://github.com/wmfs/cardscript-to-quasar/commit/9ffa2f6b8d68ff29e8fec5ee043e95377a581880))
+* Flipped addMarkerArray to use a guard clause ([7812038](https://github.com/wmfs/cardscript-to-quasar/commit/78120386ec36d778065207179a2ba646a1336036))
+* Hollowed out addMarkerOSGridRef/addMarkerLongLat to call addMarker ([eb9f293](https://github.com/wmfs/cardscript-to-quasar/commit/eb9f29319e9e95dcb322e8d4a9b25bd883d04482))
+* Pull out addMarker functions rather than massive inline if/else blocks ([1d0abd4](https://github.com/wmfs/cardscript-to-quasar/commit/1d0abd4a439150704ed23a578401da0d2140e51c))
+* Pull out mapCircle - the grid ref and latlong code was largely identical ([25f2ab2](https://github.com/wmfs/cardscript-to-quasar/commit/25f2ab2c8481bbfa9ec029634c076995e525a0da))
+* Pulled out addMarkersArray ([c7be5fb](https://github.com/wmfs/cardscript-to-quasar/commit/c7be5fb9be7e9ecdd5d67eaab8c30a6bcad2245c))
+* Pulled out addStart ([2b2032e](https://github.com/wmfs/cardscript-to-quasar/commit/2b2032e5d0cc21eb56fa9d22b268cf1ed891df51))
+* Pulled out markerLabel and markerEditButton ([189e68e](https://github.com/wmfs/cardscript-to-quasar/commit/189e68e700589adaa28deca453c6a433c0dcb690))
+* s/addMarkersArray/addMarkerPath/ ([8fde49c](https://github.com/wmfs/cardscript-to-quasar/commit/8fde49c333af50225d49e10373c8d457a9da845a))
+* Simplify logic around map circles and details list. ([bf0464c](https://github.com/wmfs/cardscript-to-quasar/commit/bf0464c2579bc141a40b2781400c1b5b7545ba68))
+
+
+### 🚨 Tests
+
+* Added some simple map builder tests ([036d64a](https://github.com/wmfs/cardscript-to-quasar/commit/036d64a62023d1eeff5785ec2186ffdb8aa5b418))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/cardscript-examples from 1.19.0 to 1.22.0 ([550d64a](https://github.com/wmfs/cardscript-to-quasar/commit/550d64a4ff819c8bad244d8122908d92f9b0cf62))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([7b85fab](https://github.com/wmfs/cardscript-to-quasar/commit/7b85fabbd990ac33e25b8aa24da3f84537f8d56a))
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([f13b926](https://github.com/wmfs/cardscript-to-quasar/commit/f13b92675afceabb675b3d6f76df9ff9d4b4d7d5))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([6c86d2e](https://github.com/wmfs/cardscript-to-quasar/commit/6c86d2ec1e2534e869215b1fa5e937b5396f38ae))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([059ba50](https://github.com/wmfs/cardscript-to-quasar/commit/059ba50c3caded7bc9400c02ae8977acadc56d20))
+
+
+### 💎 Styles
+
+* Lint fixes ([7c111f4](https://github.com/wmfs/cardscript-to-quasar/commit/7c111f4979a5b9bdefed2d830da5bc8c9dd91229))
+
 ## [1.129.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.129.0...v1.129.1) (2020-09-07)
 
 
