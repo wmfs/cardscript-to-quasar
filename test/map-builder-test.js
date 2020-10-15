@@ -69,7 +69,7 @@ const tests = [
       ':showMarker="true" locked="true"',
       '<q-btn icon="room" round flat dense style="color: #005ea5;" @click="mapJumpToXY(\'minimal\', data.actualX, data.actualY)"></q-btn>'
     ]
-  },
+  }
 ]
 
 describe('Input.Map builder', () => {
@@ -95,7 +95,7 @@ describe('Input.Map builder', () => {
   })
 
   for (const test of tests) {
-    it (test.title, () => {
+    it(test.title, () => {
       const quasar = InputMapBuilder(test.cardScript, { })
 
       for (const snippet of test.quasar) {
