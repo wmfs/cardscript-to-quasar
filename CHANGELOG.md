@@ -1,3 +1,10 @@
+## [1.129.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.129.2...v1.129.3) (2020-10-16)
+
+
+### 🐛 Bug Fixes
+
+* Force format to known good value ([af8153d](https://github.com/wmfs/cardscript-to-quasar/commit/af8153d300c3b30621fd78f468e9c9d0a98be0fe))
+
 ## [1.129.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.129.1...v1.129.2) (2020-10-15)
 
 
