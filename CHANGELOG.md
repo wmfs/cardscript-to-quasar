@@ -1,3 +1,10 @@
+# [1.131.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.130.0...v1.131.0) (2020-10-20)
+
+
+### ✨ Features
+
+* extend Media component to work with vimeo and youtube links also ([7259660](https://github.com/wmfs/cardscript-to-quasar/commit/72596603de079a1f8d651ca9fae48098fd7ae3c0))
+
 # [1.130.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.129.3...v1.130.0) (2020-10-19)
 
 
