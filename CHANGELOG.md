@@ -1,3 +1,27 @@
+## [1.131.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.131.0...v1.131.1) (2020-10-28)
+
+
+### 🐛 Bug Fixes
+
+* Add marker labels and circles in to map in opposite orders. ([146fe9b](https://github.com/wmfs/cardscript-to-quasar/commit/146fe9b4b1ee5899add620de11a063999836a5a8))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([be03009](https://github.com/wmfs/cardscript-to-quasar/commit/be03009732396774374a91bbc96dccabdde6c8d1))
+* **circle:** cache dependencies [ch2770] ([edcd03b](https://github.com/wmfs/cardscript-to-quasar/commit/edcd03b785f8d0a144fccfc582bbdcb3112c33c4))
+* **circle:** update build environment variable context name [ch2771] ([76ff0f4](https://github.com/wmfs/cardscript-to-quasar/commit/76ff0f4f123fd52ba7e74116eb9b8dbc914d56df))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([e6193b8](https://github.com/wmfs/cardscript-to-quasar/commit/e6193b80aeacf886b896da8bdb1e1e56ce90979b))
+
+
+### 💎 Styles
+
+* standard fix ([ed386b7](https://github.com/wmfs/cardscript-to-quasar/commit/ed386b75d05202e503333d10920858ae5e620082))
+
 # [1.131.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.130.0...v1.131.0) (2020-10-20)
 
 
