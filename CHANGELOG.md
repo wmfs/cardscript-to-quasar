@@ -1,3 +1,20 @@
+# [1.132.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.131.1...v1.132.0) (2020-11-09)
+
+
+### ✨ Features
+
+* Table click to launch on row [ch2892] ([b9d07f3](https://github.com/wmfs/cardscript-to-quasar/commit/b9d07f3e95c7e261c0a3b58464fcc623a0db9219))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([cd81a9f](https://github.com/wmfs/cardscript-to-quasar/commit/cd81a9f7544bbb28901ed327e3e3d4829f291c52))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([4083e38](https://github.com/wmfs/cardscript-to-quasar/commit/4083e3875a0c6d92f7569150d40de66c47410004))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([850b88f](https://github.com/wmfs/cardscript-to-quasar/commit/850b88f975c23c96978c3b78a4dddf151336005b))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([802c50c](https://github.com/wmfs/cardscript-to-quasar/commit/802c50c7e8eb5c34e749d377046549abada68090))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.0 ([297f295](https://github.com/wmfs/cardscript-to-quasar/commit/297f295cb3ca92a37ad43be52406790a2c0c80df))
+* **deps-dev:** bump standard from 16.0.0 to 16.0.1 ([b2b032e](https://github.com/wmfs/cardscript-to-quasar/commit/b2b032e601be8e9fcbadd51e5f0240bd6aa528bf))
+
 ## [1.131.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.131.0...v1.131.1) (2020-10-28)
 
 
