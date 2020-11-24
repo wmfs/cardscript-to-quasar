@@ -1,3 +1,16 @@
+# [1.134.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.133.0...v1.134.0) (2020-11-24)
+
+
+### ✨ Features
+
+* add basic linear progress bar ([0faa987](https://github.com/wmfs/cardscript-to-quasar/commit/0faa987989256268cdfc4c1931fee318f48727fe))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump semantic-release from 17.2.3 to 17.2.4 ([8782556](https://github.com/wmfs/cardscript-to-quasar/commit/87825561297725fdf6ce1baeefc015ac7fed95a7))
+* **deps-dev:** bump semantic-release from 17.2.4 to 17.3.0 ([40bdc97](https://github.com/wmfs/cardscript-to-quasar/commit/40bdc977a7afc2062ebd5d03a916cca590d2d902))
+
 # [1.133.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.132.0...v1.133.0) (2020-11-18)
 
 
