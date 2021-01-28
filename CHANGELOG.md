@@ -1,3 +1,21 @@
+## [1.134.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.134.0...v1.134.1) (2021-01-28)
+
+
+### 🐛 Bug Fixes
+
+* Input.Date / Input.DateTime read only on text input field ([76bb89e](https://github.com/wmfs/cardscript-to-quasar/commit/76bb89e15ee4ce0a73763bcaa188ddc76ffa5636))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump semantic-release from 17.3.0 to 17.3.1 ([cdd89a0](https://github.com/wmfs/cardscript-to-quasar/commit/cdd89a0313848fa15b4c0f1e08fdc8201a7328b0))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([38956fd](https://github.com/wmfs/cardscript-to-quasar/commit/38956fddf9b983a9cbdf7679dac6498f26150452))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([2291675](https://github.com/wmfs/cardscript-to-quasar/commit/22916753d05ba3847b6437f9a4f8253caaaf3d86))
+* **deps-dev:** bump semantic-release from 17.3.3 to 17.3.4 ([b33d491](https://github.com/wmfs/cardscript-to-quasar/commit/b33d491b2717149e29f72e6642a380e27569927d))
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([d1a1bd5](https://github.com/wmfs/cardscript-to-quasar/commit/d1a1bd5b0e5e7fd5aac0349fa72c739cc3ad40e0))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([5abe620](https://github.com/wmfs/cardscript-to-quasar/commit/5abe6204ddf50c3bd21f97b8a6dfd3e218651775))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([83c742f](https://github.com/wmfs/cardscript-to-quasar/commit/83c742fb8899b5095fd13fdce57858453b0342f0))
+
 # [1.134.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.133.0...v1.134.0) (2020-11-24)
 
 
