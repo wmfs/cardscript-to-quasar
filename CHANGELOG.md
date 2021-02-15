@@ -1,3 +1,18 @@
+# [1.135.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.134.1...v1.135.0) (2021-02-15)
+
+
+### ✨ Features
+
+* add option to List to show single launches as button rather than menu ([a26848e](https://github.com/wmfs/cardscript-to-quasar/commit/a26848e2f582567f3f8aac9ccf4d866205e7490d))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump chai from 4.2.0 to 4.3.0 ([009523c](https://github.com/wmfs/cardscript-to-quasar/commit/009523c019b0a6e40a8e5472d536a1a3ed3df890))
+* **deps-dev:** bump mocha from 8.2.1 to 8.3.0 ([09bff32](https://github.com/wmfs/cardscript-to-quasar/commit/09bff328a5de2168818392220e634e5bdfc89d5b))
+* **deps-dev:** bump semantic-release from 17.3.7 to 17.3.8 ([b513f60](https://github.com/wmfs/cardscript-to-quasar/commit/b513f6056308b5f9c0e81ea82f3ec97e382f44ef))
+* **deps-dev:** bump semantic-release from 17.3.8 to 17.3.9 ([8cd26d2](https://github.com/wmfs/cardscript-to-quasar/commit/8cd26d2185e9d266c97b1cd9527fbf65f3de7d20))
+
 ## [1.134.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.134.0...v1.134.1) (2021-01-28)
 
 
