@@ -1,3 +1,10 @@
+# [1.136.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.135.0...v1.136.0) (2021-02-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.20 to 4.17.21 ([#163](https://github.com/wmfs/cardscript-to-quasar/issues/163)) ([7ea24c5](https://github.com/wmfs/cardscript-to-quasar/commit/7ea24c5c2f0e6dcbde0311224eb39094c1753706))
+
 # [1.135.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.134.1...v1.135.0) (2021-02-15)
 
 
