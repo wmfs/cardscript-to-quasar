@@ -1,3 +1,20 @@
+## [1.136.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.136.0...v1.136.1) (2021-03-08)
+
+
+### 🐛 Bug Fixes
+
+* for list select, if no rowKey then store whole object ([e912f7a](https://github.com/wmfs/cardscript-to-quasar/commit/e912f7aca7e7a1e2f575c43b1e7fa4dfac0f7112))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump chai from 4.3.0 to 4.3.1 ([741a267](https://github.com/wmfs/cardscript-to-quasar/commit/741a2677f875d63f5a955cc43ed5278437da90aa))
+* **deps-dev:** bump chai from 4.3.1 to 4.3.2 ([9cedeec](https://github.com/wmfs/cardscript-to-quasar/commit/9cedeec9c81098d71c4ce14446c47c00430efbbe))
+* **deps-dev:** bump chai from 4.3.2 to 4.3.3 ([9071439](https://github.com/wmfs/cardscript-to-quasar/commit/90714390c89a22ee0588cc8bf6827630a9a3a24a))
+* **deps-dev:** bump mocha from 8.3.0 to 8.3.1 ([51f4753](https://github.com/wmfs/cardscript-to-quasar/commit/51f4753fd899430f4349ef93442eccd0f96606a0))
+* **deps-dev:** bump semantic-release from 17.3.9 to 17.4.0 ([223317a](https://github.com/wmfs/cardscript-to-quasar/commit/223317af87f29a164d521d94e4f38013d94f0a79))
+* **deps-dev:** bump semantic-release from 17.4.0 to 17.4.1 ([d7672e2](https://github.com/wmfs/cardscript-to-quasar/commit/d7672e237215af7d9dbc0085e3245e41709b4ce6))
+
 # [1.136.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.135.0...v1.136.0) (2021-02-24)
 
 
