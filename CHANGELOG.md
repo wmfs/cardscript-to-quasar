@@ -1,3 +1,10 @@
+# [1.137.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.136.1...v1.137.0) (2021-03-10)
+
+
+### ✨ Features
+
+* Ability to remove table rows ([c0696c1](https://github.com/wmfs/cardscript-to-quasar/commit/c0696c1a4aa7b71aa701dfc725a4bac8123ffee0))
+
 ## [1.136.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.136.0...v1.136.1) (2021-03-08)
 
 
