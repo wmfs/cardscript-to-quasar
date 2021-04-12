@@ -1,3 +1,22 @@
+# [1.138.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.137.0...v1.138.0) (2021-04-12)
+
+
+### ✨ Features
+
+* update table builder for multiselect on apilookup [ch4838] ([214c81f](https://github.com/wmfs/cardscript-to-quasar/commit/214c81fb15d7c5281af8993cdd1f93416930f141))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump chai from 4.3.3 to 4.3.4 ([8c988c4](https://github.com/wmfs/cardscript-to-quasar/commit/8c988c4a9dd6d1b53bf82b2d21809a59db8f18dc))
+* **deps-dev:** bump mocha from 8.3.1 to 8.3.2 ([897d485](https://github.com/wmfs/cardscript-to-quasar/commit/897d485a7dfe6678ea866fd4f95f376ea1c22d7a))
+* **deps-dev:** bump semantic-release from 17.4.1 to 17.4.2 ([d727308](https://github.com/wmfs/cardscript-to-quasar/commit/d7273085233e1fbc813b4fd25b5b47cbe5915e46))
+
+
+### ♻️ Chores
+
+* standard ([758a6f8](https://github.com/wmfs/cardscript-to-quasar/commit/758a6f8e1357b55fda76e2e20cb194f77cbbab82))
+
 # [1.137.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.136.1...v1.137.0) (2021-03-10)
 
 
