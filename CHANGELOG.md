@@ -1,3 +1,20 @@
+# [1.139.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.138.0...v1.139.0) (2021-04-26)
+
+
+### ✨ Features
+
+* save select all value to model ([48123fc](https://github.com/wmfs/cardscript-to-quasar/commit/48123fc1b42071514477b96b59421fb153c01760))
+
+
+### 🐛 Bug Fixes
+
+* remove console log ([a9272b9](https://github.com/wmfs/cardscript-to-quasar/commit/a9272b9b833527710876fdf9a6c773bb5a2c2b42))
+
+
+### 📦 Code Refactoring
+
+* select all option for list (need to add value to checkbox) ([457be8e](https://github.com/wmfs/cardscript-to-quasar/commit/457be8e7d980cd43ff15c87d48b7d3753dcc6d3d))
+
 # [1.138.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.137.0...v1.138.0) (2021-04-12)
 
 
