@@ -1,3 +1,11 @@
+## [1.139.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.139.1...v1.139.2) (2021-04-26)
+
+
+### 🐛 Bug Fixes
+
+* select all value persist through pagination ([e2f5dda](https://github.com/wmfs/cardscript-to-quasar/commit/e2f5ddaebe9dfca6bd502799ecd4897e086bea56))
+* use row key when selecting all ([edf9257](https://github.com/wmfs/cardscript-to-quasar/commit/edf92575672f437393960d31606177950ca9df09))
+
 ## [1.139.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.139.0...v1.139.1) (2021-04-26)
 
 
