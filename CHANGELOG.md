@@ -1,3 +1,15 @@
+## [1.139.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.139.0...v1.139.1) (2021-04-26)
+
+
+### 🐛 Bug Fixes
+
+* set model value for radio ([7ccc4a3](https://github.com/wmfs/cardscript-to-quasar/commit/7ccc4a36b6ffdfece086ebb2cd347716133693eb))
+
+
+### 📦 Code Refactoring
+
+* progress on list select bugs ([7fe4698](https://github.com/wmfs/cardscript-to-quasar/commit/7fe469890b9dbf037a90d55766bca3c0dad21d9a))
+
 # [1.139.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.138.0...v1.139.0) (2021-04-26)
 
 
