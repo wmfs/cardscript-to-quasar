@@ -1,3 +1,15 @@
+## [1.140.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.140.0...v1.140.1) (2021-04-29)
+
+
+### 🐛 Bug Fixes
+
+* dropdown action set to match others in app ([7145a30](https://github.com/wmfs/cardscript-to-quasar/commit/7145a3009b3916e4bed36d129efb840b96766b18))
+
+
+### 💎 Styles
+
+* standard --fix ([f304205](https://github.com/wmfs/cardscript-to-quasar/commit/f30420536f07409e8aaee380d46dc007de743119))
+
 # [1.140.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.139.2...v1.140.0) (2021-04-29)
 
 
