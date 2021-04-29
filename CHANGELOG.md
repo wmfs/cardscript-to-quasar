@@ -1,3 +1,19 @@
+# [1.141.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.140.1...v1.141.0) (2021-04-29)
+
+
+### ✨ Features
+
+* adaptive card max selection ([5d8cbe6](https://github.com/wmfs/cardscript-to-quasar/commit/5d8cbe6b3ffd021110f04f9e9b17831896321d1d))
+* adaptive card selection ([1b31f15](https://github.com/wmfs/cardscript-to-quasar/commit/1b31f15b0f28f661b926244830bcd5418a4e8a4e))
+* adaptive cards to use component builder ([8341838](https://github.com/wmfs/cardscript-to-quasar/commit/83418381fa518fda2c1ea12601c508c0a5174014))
+* clear adaptive card selection ([b634085](https://github.com/wmfs/cardscript-to-quasar/commit/b6340858537cec4ab121259263900ab808b4bba0))
+* further selection support for iterative adaptive cards ([c6f2ec3](https://github.com/wmfs/cardscript-to-quasar/commit/c6f2ec3e5c2551c01f449b1a6f09da88c91edc3a))
+
+
+### 📦 Code Refactoring
+
+* init selectable adaptive cards ([28376be](https://github.com/wmfs/cardscript-to-quasar/commit/28376be25d52e3a75239488bc2d96baa1781ea76))
+
 ## [1.140.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.140.0...v1.140.1) (2021-04-29)
 
 
