@@ -1,3 +1,10 @@
+# [1.140.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.139.2...v1.140.0) (2021-04-29)
+
+
+### ✨ Features
+
+* add showWhen to column set ([270649e](https://github.com/wmfs/cardscript-to-quasar/commit/270649e7784af845e5f02b3ce9b7a2c5c872d666))
+
 ## [1.139.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.139.1...v1.139.2) (2021-04-26)
 
 
