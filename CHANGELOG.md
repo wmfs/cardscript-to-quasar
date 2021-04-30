@@ -1,3 +1,22 @@
+# [1.142.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.141.0...v1.142.0) (2021-04-30)
+
+
+### ✨ Features
+
+* click to launch horizontal rows markup table ([31c3a29](https://github.com/wmfs/cardscript-to-quasar/commit/31c3a290dadf2b7cecce2bd4759bbc0f1d8a1bfa))
+* markup table launches ([4eb21ee](https://github.com/wmfs/cardscript-to-quasar/commit/4eb21ee5b9f470f5b70538d998f0de92c8563034))
+* Markup Table removable rows ([1e72df3](https://github.com/wmfs/cardscript-to-quasar/commit/1e72df34d564c7c3d55a2f3935d7b67d49fb8bdc))
+* MarkupTable add badge ([d6c69b2](https://github.com/wmfs/cardscript-to-quasar/commit/d6c69b261aab7e203b264f05d99e0cbb7ea90761))
+* MarkupTable selection type ([ae06dac](https://github.com/wmfs/cardscript-to-quasar/commit/ae06dacb6b1d0cf9909dc6a6ab347d59d0763753))
+* MarkupTable tidy up ([9505fd5](https://github.com/wmfs/cardscript-to-quasar/commit/9505fd5e66323d14a1709b43cd558072e32f54ec))
+
+
+### 📦 Code Refactoring
+
+* init markup table ([ba0eb01](https://github.com/wmfs/cardscript-to-quasar/commit/ba0eb01add8c06aa24b7fe84920d2a080832737d))
+* progress markup table ([1574655](https://github.com/wmfs/cardscript-to-quasar/commit/1574655e5369710428fa69c0202acfacdf3e10ea))
+* remove log ([61c7905](https://github.com/wmfs/cardscript-to-quasar/commit/61c79059632df2ce0783771b97b4eb5fc8d4cb6d))
+
 # [1.141.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.140.1...v1.141.0) (2021-04-29)
 
 
