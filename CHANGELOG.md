@@ -1,3 +1,10 @@
+# [1.143.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.142.0...v1.143.0) (2021-05-05)
+
+
+### ✨ Features
+
+* MarkupTable tooltips and icon optional for tooltips ([fd8748b](https://github.com/wmfs/cardscript-to-quasar/commit/fd8748bb72f59dd83c2d01ddb485fdc4cc7f8a69))
+
 # [1.142.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.141.0...v1.142.0) (2021-04-30)
 
 
