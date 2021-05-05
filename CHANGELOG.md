@@ -1,3 +1,10 @@
+## [1.143.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.143.0...v1.143.1) (2021-05-05)
+
+
+### 🐛 Bug Fixes
+
+* pre-wrap tooltip ([711ef7c](https://github.com/wmfs/cardscript-to-quasar/commit/711ef7c1e8cb22fcf70f947464312befe30596c8))
+
 # [1.143.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.142.0...v1.143.0) (2021-05-05)
 
 
