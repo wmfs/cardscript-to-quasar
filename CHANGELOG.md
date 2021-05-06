@@ -1,3 +1,10 @@
+# [1.144.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.143.2...v1.144.0) (2021-05-06)
+
+
+### ✨ Features
+
+* add standard as grey ([a3319e6](https://github.com/wmfs/cardscript-to-quasar/commit/a3319e65e9d77004247ec262c9b3274345744503))
+
 ## [1.143.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.143.1...v1.143.2) (2021-05-06)
 
 
