@@ -1,3 +1,10 @@
+## [1.143.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.143.1...v1.143.2) (2021-05-06)
+
+
+### 🐛 Bug Fixes
+
+* generic ListSelection function ([e76d1e9](https://github.com/wmfs/cardscript-to-quasar/commit/e76d1e9527349aac4c4907f9fa51128293019f47))
+
 ## [1.143.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.143.0...v1.143.1) (2021-05-05)
 
 
