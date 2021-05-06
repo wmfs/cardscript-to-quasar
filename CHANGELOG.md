@@ -1,3 +1,10 @@
+# [1.145.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.144.0...v1.145.0) (2021-05-06)
+
+
+### ✨ Features
+
+* MarkupTable can have launches within table cell ([9eda360](https://github.com/wmfs/cardscript-to-quasar/commit/9eda360d53d3b973224f7702a290872b56c2ae83))
+
 # [1.144.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.143.2...v1.144.0) (2021-05-06)
 
 
