@@ -1,3 +1,10 @@
+# [1.148.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.147.0...v1.148.0) (2021-05-10)
+
+
+### ✨ Features
+
+* add showWhen support for MarkUpTable columns ([5c16111](https://github.com/wmfs/cardscript-to-quasar/commit/5c161117a6eb100a93423eeeedcb217604486461))
+
 # [1.147.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.146.0...v1.147.0) (2021-05-10)
 
 
