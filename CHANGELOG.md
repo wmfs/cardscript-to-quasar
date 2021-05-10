@@ -1,3 +1,10 @@
+# [1.146.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.145.0...v1.146.0) (2021-05-10)
+
+
+### ✨ Features
+
+* add Icon component and refactor out badge function in List ([c22adec](https://github.com/wmfs/cardscript-to-quasar/commit/c22adec6ee55e956b8b9dc3f0b8bfaefd21e5460))
+
 # [1.145.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.144.0...v1.145.0) (2021-05-06)
 
 
