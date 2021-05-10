@@ -1,3 +1,10 @@
+# [1.147.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.146.0...v1.147.0) (2021-05-10)
+
+
+### ✨ Features
+
+* markup table launch to show vert icon and refactor list tidy up ([c50f911](https://github.com/wmfs/cardscript-to-quasar/commit/c50f9114f9a46a75c9e968d3a9e0e3768a15316d))
+
 # [1.146.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.145.0...v1.146.0) (2021-05-10)
 
 
