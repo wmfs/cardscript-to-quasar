@@ -1,3 +1,16 @@
+# [1.149.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.148.0...v1.149.0) (2021-05-11)
+
+
+### ✨ Features
+
+* badge style for Chip component ([9cbbd94](https://github.com/wmfs/cardscript-to-quasar/commit/9cbbd9401207e0c7f56631dc2df406500dd10116))
+* use badge in markup table for consistency ([17c5ab3](https://github.com/wmfs/cardscript-to-quasar/commit/17c5ab36054d6d51bc8181d0ca386f3f27a3d8b7))
+
+
+### 💎 Styles
+
+* standard --fix ([1fb08e6](https://github.com/wmfs/cardscript-to-quasar/commit/1fb08e6b3e3ed440520ecc1dad53ce845c3b27f8))
+
 # [1.148.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.147.0...v1.148.0) (2021-05-10)
 
 
