@@ -1,3 +1,26 @@
+# [1.150.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.149.1...v1.150.0) (2021-05-11)
+
+
+### ✨ Features
+
+* list apply launches ([b77dd64](https://github.com/wmfs/cardscript-to-quasar/commit/b77dd64315c5484a1b7288997a3241559e0cba01))
+* List apply launches ([8e6f7a7](https://github.com/wmfs/cardscript-to-quasar/commit/8e6f7a7f8ced9b1886ca1c7cbc0ff43fd6e7d127))
+* list apply selection ([9984413](https://github.com/wmfs/cardscript-to-quasar/commit/9984413b5efc0ae6c6ed1a64c088323e42a66047))
+* List clear selection ([e490de3](https://github.com/wmfs/cardscript-to-quasar/commit/e490de3421a228d7d5b6be00e5742ef110c48384))
+* list return of bold label ([22708b7](https://github.com/wmfs/cardscript-to-quasar/commit/22708b7d526c4687c2a2d800c9041fc38ec1d356))
+* list select all ([bf122cd](https://github.com/wmfs/cardscript-to-quasar/commit/bf122cd18f916e4460ee844a2209ef0fade38a3e))
+* list show total/no results text ([580c19f](https://github.com/wmfs/cardscript-to-quasar/commit/580c19f0917f6bc11fc0ea315b571141e23d1887))
+
+
+### 🐛 Bug Fixes
+
+* list multiple sublabels ([e9f0434](https://github.com/wmfs/cardscript-to-quasar/commit/e9f0434184eeb0cf9b0b3b979dbce75cb42b10ab))
+
+
+### 📦 Code Refactoring
+
+* initial list refactor ([485fa47](https://github.com/wmfs/cardscript-to-quasar/commit/485fa47348bb3887659adeba9587b122914e8c5c))
+
 ## [1.149.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.149.0...v1.149.1) (2021-05-11)
 
 
