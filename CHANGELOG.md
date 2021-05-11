@@ -1,3 +1,10 @@
+## [1.149.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.149.0...v1.149.1) (2021-05-11)
+
+
+### 🐛 Bug Fixes
+
+* issue when launches doesn't exist on iterated object ([bc60a4c](https://github.com/wmfs/cardscript-to-quasar/commit/bc60a4c03742b74d64050a37d41aafb1fc0e9991))
+
 # [1.149.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.148.0...v1.149.0) (2021-05-11)
 
 
