@@ -1,3 +1,10 @@
+## [1.150.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.150.0...v1.150.1) (2021-05-12)
+
+
+### 🐛 Bug Fixes
+
+* backgroundImage url for Container ([c08d2b2](https://github.com/wmfs/cardscript-to-quasar/commit/c08d2b25772e4b96b7d0a2b8d3651f209f8b7731))
+
 # [1.150.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.149.1...v1.150.0) (2021-05-11)
 
 
