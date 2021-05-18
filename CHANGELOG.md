@@ -1,3 +1,10 @@
+## [1.150.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.150.1...v1.150.2) (2021-05-18)
+
+
+### 🐛 Bug Fixes
+
+* match action set to actions ([f99e4c3](https://github.com/wmfs/cardscript-to-quasar/commit/f99e4c36e1f24f0b17760c6ba2ca597ed3d40d16))
+
 ## [1.150.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.150.0...v1.150.1) (2021-05-12)
 
 
