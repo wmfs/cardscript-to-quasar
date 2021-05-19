@@ -1,3 +1,15 @@
+# [1.152.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.151.0...v1.152.0) (2021-05-19)
+
+
+### ✨ Features
+
+* compact multi select has checkboxes for clearer selection ([8191500](https://github.com/wmfs/cardscript-to-quasar/commit/8191500141b9bc31da63c55ccba6fd85d75bb4ca))
+
+
+### 🐛 Bug Fixes
+
+* remove logs, standard fix ([eb46d35](https://github.com/wmfs/cardscript-to-quasar/commit/eb46d35d667bb3c0575fcada80681eed5e21d422))
+
 # [1.151.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.150.2...v1.151.0) (2021-05-19)
 
 
