@@ -1,3 +1,10 @@
+# [1.151.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.150.2...v1.151.0) (2021-05-19)
+
+
+### ✨ Features
+
+* allow compact multi selection ([36be392](https://github.com/wmfs/cardscript-to-quasar/commit/36be392422caa398ceef0084036aaaf4d2dd69c9))
+
 ## [1.150.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.150.1...v1.150.2) (2021-05-18)
 
 
