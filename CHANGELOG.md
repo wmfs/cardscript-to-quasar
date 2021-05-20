@@ -1,3 +1,15 @@
+# [1.154.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.153.0...v1.154.0) (2021-05-20)
+
+
+### ✨ Features
+
+* fact set can have badges ([cc14f11](https://github.com/wmfs/cardscript-to-quasar/commit/cc14f118ce31c646e4390e5fd7e39ec92a3ac0ab))
+
+
+### 💎 Styles
+
+* standard ([33babf7](https://github.com/wmfs/cardscript-to-quasar/commit/33babf713579006381ac2f78138e09914f57d55e))
+
 # [1.153.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.152.3...v1.153.0) (2021-05-20)
 
 
