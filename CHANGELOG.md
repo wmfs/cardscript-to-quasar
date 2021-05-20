@@ -1,3 +1,10 @@
+# [1.156.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.155.0...v1.156.0) (2021-05-20)
+
+
+### ✨ Features
+
+* reset data paths on select input ([b8258ef](https://github.com/wmfs/cardscript-to-quasar/commit/b8258efecb39da7152810b272c491c1388ad8a42))
+
 # [1.155.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.154.0...v1.155.0) (2021-05-20)
 
 
