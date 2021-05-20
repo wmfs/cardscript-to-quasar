@@ -1,3 +1,10 @@
+# [1.153.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.152.3...v1.153.0) (2021-05-20)
+
+
+### ✨ Features
+
+* flat option for action set drop down ([d3caffc](https://github.com/wmfs/cardscript-to-quasar/commit/d3caffc6d3297d9189a88ea39308ed8d0ee97d85))
+
 ## [1.152.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.152.2...v1.152.3) (2021-05-20)
 
 
