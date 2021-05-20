@@ -1,3 +1,10 @@
+# [1.160.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.159.0...v1.160.0) (2021-05-20)
+
+
+### ✨ Features
+
+* new action to ClearArraySelection ([c870165](https://github.com/wmfs/cardscript-to-quasar/commit/c870165c93b8173ccf8551a19341de74acb47571))
+
 # [1.159.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.158.0...v1.159.0) (2021-05-20)
 
 
