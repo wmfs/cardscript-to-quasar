@@ -1,3 +1,10 @@
+# [1.155.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.154.0...v1.155.0) (2021-05-20)
+
+
+### ✨ Features
+
+* disable when attribute on actions ([0156247](https://github.com/wmfs/cardscript-to-quasar/commit/0156247fb59bd31da24b53fd2c7874cd8bb9c55a))
+
 # [1.154.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.153.0...v1.154.0) (2021-05-20)
 
 
