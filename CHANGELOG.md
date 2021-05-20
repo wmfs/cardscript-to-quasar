@@ -1,3 +1,10 @@
+## [1.152.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.152.1...v1.152.2) (2021-05-20)
+
+
+### 🐛 Bug Fixes
+
+* choice set default style ([d2b09c7](https://github.com/wmfs/cardscript-to-quasar/commit/d2b09c75e88a820a84e5300ee384280882baa19a))
+
 ## [1.152.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.152.0...v1.152.1) (2021-05-20)
 
 
