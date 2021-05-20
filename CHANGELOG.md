@@ -1,3 +1,10 @@
+# [1.161.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.160.0...v1.161.0) (2021-05-20)
+
+
+### ✨ Features
+
+* allow selection clearable to be optional on List, but default to true ([5b43772](https://github.com/wmfs/cardscript-to-quasar/commit/5b437721568a19b1a23b90296b02c39e45d4a59d))
+
 # [1.160.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.159.0...v1.160.0) (2021-05-20)
 
 
