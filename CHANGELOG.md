@@ -1,3 +1,10 @@
+# [1.159.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.158.0...v1.159.0) (2021-05-20)
+
+
+### ✨ Features
+
+* adjust clear selection button ([8ea9147](https://github.com/wmfs/cardscript-to-quasar/commit/8ea9147b612c8d101ea990fab76ab549b2a2fc41))
+
 # [1.158.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.157.0...v1.158.0) (2021-05-20)
 
 
