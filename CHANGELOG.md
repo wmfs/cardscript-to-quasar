@@ -1,3 +1,10 @@
+# [1.157.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.156.0...v1.157.0) (2021-05-20)
+
+
+### ✨ Features
+
+* selection show when for adaptive card and list ([6e98686](https://github.com/wmfs/cardscript-to-quasar/commit/6e98686f8e4581e7b187604ee30a8883cb157add))
+
 # [1.156.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.155.0...v1.156.0) (2021-05-20)
 
 
