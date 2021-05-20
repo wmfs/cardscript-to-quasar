@@ -1,3 +1,12 @@
+## [1.152.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.152.2...v1.152.3) (2021-05-20)
+
+
+### 🐛 Bug Fixes
+
+* ActionSet general fixes and introducing buttons action style and make use of component builder ([b37f77a](https://github.com/wmfs/cardscript-to-quasar/commit/b37f77a13e6ff310725bf5c0dcc95a07d73315b5))
+* default action style to list ([1b06c0a](https://github.com/wmfs/cardscript-to-quasar/commit/1b06c0ada8667ec078034b7901779236ea6d5562))
+* remove console log ([9562333](https://github.com/wmfs/cardscript-to-quasar/commit/956233347bbf7cf91d5918f3327bc522e178e574))
+
 ## [1.152.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.152.1...v1.152.2) (2021-05-20)
 
 
