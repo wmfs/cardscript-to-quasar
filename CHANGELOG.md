@@ -1,3 +1,10 @@
+# [1.158.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.157.0...v1.158.0) (2021-05-20)
+
+
+### ✨ Features
+
+* MarkupTable allows title tooltips ([4bf6f43](https://github.com/wmfs/cardscript-to-quasar/commit/4bf6f431dc2c7342533c8be2dd90cb45c0ec6e74))
+
 # [1.157.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.156.0...v1.157.0) (2021-05-20)
 
 
