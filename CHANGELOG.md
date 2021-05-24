@@ -1,3 +1,10 @@
+# [1.167.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.166.0...v1.167.0) (2021-05-24)
+
+
+### ✨ Features
+
+* container justify content attribute ([78fff77](https://github.com/wmfs/cardscript-to-quasar/commit/78fff774bc750ff3330c1f8cf769ebd1bd1c1a4e))
+
 # [1.166.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.165.1...v1.166.0) (2021-05-24)
 
 
