@@ -1,3 +1,10 @@
+# [1.164.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.163.0...v1.164.0) (2021-05-24)
+
+
+### ✨ Features
+
+* mark up table with fixed header ([560b4b5](https://github.com/wmfs/cardscript-to-quasar/commit/560b4b582e6dc99783db6ad7645cdd4f28b7f520))
+
 # [1.163.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.162.0...v1.163.0) (2021-05-24)
 
 
