@@ -1,3 +1,10 @@
+## [1.169.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.169.0...v1.169.1) (2021-05-24)
+
+
+### 🐛 Bug Fixes
+
+* use auto-close instead of v-close-popup ([3cfd924](https://github.com/wmfs/cardscript-to-quasar/commit/3cfd924ef9fb73ae943d6808e6333ec1dbe4226b))
+
 # [1.169.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.168.0...v1.169.0) (2021-05-24)
 
 
