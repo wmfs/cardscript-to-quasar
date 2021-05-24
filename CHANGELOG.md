@@ -1,3 +1,10 @@
+# [1.166.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.165.1...v1.166.0) (2021-05-24)
+
+
+### ✨ Features
+
+* adjust FactSet title/value font size/weight ([368ac24](https://github.com/wmfs/cardscript-to-quasar/commit/368ac24d8483537f18756f61d2458266e6b8ca5c))
+
 ## [1.165.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.165.0...v1.165.1) (2021-05-24)
 
 
