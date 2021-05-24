@@ -1,3 +1,10 @@
+## [1.169.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.169.1...v1.169.2) (2021-05-24)
+
+
+### 🐛 Bug Fixes
+
+* adjust cols on AdaptiveCard ([35819f9](https://github.com/wmfs/cardscript-to-quasar/commit/35819f95c088bbeff089abc368d7cc5d9ff8945c))
+
 ## [1.169.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.169.0...v1.169.1) (2021-05-24)
 
 
