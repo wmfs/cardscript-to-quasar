@@ -1,3 +1,10 @@
+# [1.168.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.167.0...v1.168.0) (2021-05-24)
+
+
+### ✨ Features
+
+* custom text/icon for removable rows in MarkupTable ([a3b2280](https://github.com/wmfs/cardscript-to-quasar/commit/a3b2280b38bc09075503db51eb57b8748e5a1a01))
+
 # [1.167.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.166.0...v1.167.0) (2021-05-24)
 
 
