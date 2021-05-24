@@ -1,3 +1,17 @@
+# [1.162.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.161.0...v1.162.0) (2021-05-24)
+
+
+### ✨ Features
+
+* MarkupTable cell separators and row color ([97f4f15](https://github.com/wmfs/cardscript-to-quasar/commit/97f4f1550e0541b5784c6a9d728354e32ece0fa7))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.8.1 to 3.8.2 ([8b0da6d](https://github.com/wmfs/cardscript-to-quasar/commit/8b0da6d11304986e3450629a9b42bd88cc6270e0))
+* **deps-dev:** bump mocha from 8.3.2 to 8.4.0 ([00da0cf](https://github.com/wmfs/cardscript-to-quasar/commit/00da0cf35f0cd8383adf8b0055277d8485c4bdb1))
+* **deps-dev:** bump semantic-release from 17.4.2 to 17.4.3 ([ce71b48](https://github.com/wmfs/cardscript-to-quasar/commit/ce71b488e2e314690077f2d8ed89ffe25cb928d6))
+
 # [1.161.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.160.0...v1.161.0) (2021-05-20)
 
 
