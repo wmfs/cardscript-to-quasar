@@ -1,3 +1,10 @@
+## [1.165.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.165.0...v1.165.1) (2021-05-24)
+
+
+### 🐛 Bug Fixes
+
+* dropdown buttons to be consistent ([271de08](https://github.com/wmfs/cardscript-to-quasar/commit/271de08e33e01af05b96c056f1328b871e96dde3))
+
 # [1.165.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.164.0...v1.165.0) (2021-05-24)
 
 
