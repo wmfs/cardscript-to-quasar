@@ -1,3 +1,10 @@
+# [1.169.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.168.0...v1.169.0) (2021-05-24)
+
+
+### ✨ Features
+
+* MarkupTable option to remove row option with launches ([91e7772](https://github.com/wmfs/cardscript-to-quasar/commit/91e7772ca5b576997c80e95c94db1bdb7f96150b))
+
 # [1.168.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.167.0...v1.168.0) (2021-05-24)
 
 
