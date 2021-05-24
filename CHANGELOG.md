@@ -1,3 +1,10 @@
+# [1.170.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.169.2...v1.170.0) (2021-05-24)
+
+
+### ✨ Features
+
+* List/FactSet badges outline option ([584332e](https://github.com/wmfs/cardscript-to-quasar/commit/584332e7b479ea5e573586b771445b6e28339ec5))
+
 ## [1.169.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.169.1...v1.169.2) (2021-05-24)
 
 
