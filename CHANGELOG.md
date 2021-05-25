@@ -1,3 +1,10 @@
+# [1.172.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.171.0...v1.172.0) (2021-05-25)
+
+
+### ✨ Features
+
+* add vertical option for TabSet and badge for Tabs ([bb66202](https://github.com/wmfs/cardscript-to-quasar/commit/bb66202a9de86dbb0eae764a1d3fca479685e4f6))
+
 # [1.171.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.170.0...v1.171.0) (2021-05-25)
 
 
