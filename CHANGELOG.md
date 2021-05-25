@@ -1,3 +1,10 @@
+# [1.171.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.170.0...v1.171.0) (2021-05-25)
+
+
+### ✨ Features
+
+* notFoundText on MarkupTable ([c0c7f66](https://github.com/wmfs/cardscript-to-quasar/commit/c0c7f66ec0674601c89fce93b24112630e0bcc04))
+
 # [1.170.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.169.2...v1.170.0) (2021-05-24)
 
 
