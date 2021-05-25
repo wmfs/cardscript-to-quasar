@@ -1,3 +1,10 @@
+# [1.173.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.172.0...v1.173.0) (2021-05-25)
+
+
+### ✨ Features
+
+* TabSet add alignment option ([4ea64e5](https://github.com/wmfs/cardscript-to-quasar/commit/4ea64e59c232f0bad72b2736e273709f8d67a0f7))
+
 # [1.172.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.171.0...v1.172.0) (2021-05-25)
 
 
