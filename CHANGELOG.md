@@ -1,3 +1,15 @@
+# [1.174.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.173.0...v1.174.0) (2021-05-26)
+
+
+### ✨ Features
+
+* option for the color black ([d64a03e](https://github.com/wmfs/cardscript-to-quasar/commit/d64a03ed7de7c2191fe2564706d4d50327654b49))
+
+
+### 📦 Code Refactoring
+
+* extract badges into own function and reuse ([d8a73ea](https://github.com/wmfs/cardscript-to-quasar/commit/d8a73ea7916ae352c77771d3779c2c36599a2a77))
+
 # [1.173.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.172.0...v1.173.0) (2021-05-25)
 
 
