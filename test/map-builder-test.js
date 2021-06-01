@@ -67,7 +67,7 @@ const tests = [
       '<q-map :id="\'minimal\'" :locked="false">',
       '<q-map-circle format="OSGridRef" :x="data?.actualX" :y="data?.actualY" label="Minimal"',
       ':showMarker="true" locked="true"',
-      '<q-btn icon="room" round flat dense style="color: #005ea5;" @click="mapJumpToXY(\'minimal\', data.actualX, data.actualY)"></q-btn>'
+      '<q-btn icon="room" round flat dense style="color: #443DF6;" @click="mapJumpToXY(\'minimal\', data.actualX, data.actualY)"></q-btn>'
     ]
   }
 ]
