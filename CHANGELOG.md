@@ -1,3 +1,10 @@
+## [1.174.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.174.0...v1.174.1) (2021-06-01)
+
+
+### 🐛 Bug Fixes
+
+* fix multiselect on tables ([f40179e](https://github.com/wmfs/cardscript-to-quasar/commit/f40179ea2f84bc688da7f29a852a0451655b7f6b))
+
 # [1.174.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.173.0...v1.174.0) (2021-05-26)
 
 
