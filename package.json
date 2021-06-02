@@ -10,7 +10,8 @@
   "main": "./lib/index.js",
   "dependencies": {
     "dottie": "2.0.2",
-    "lodash": "4.17.21"
+    "lodash": "4.17.21",
+    "moment": "2.29.1"
   },
   "devDependencies": {
     "chai": "4.3.4",
