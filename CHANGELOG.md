@@ -1,3 +1,10 @@
+# [1.175.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.174.1...v1.175.0) (2021-06-03)
+
+
+### ✨ Features
+
+* scroll to input api lookup results [ch6927] ([61b8377](https://github.com/wmfs/cardscript-to-quasar/commit/61b83770c469fa563ed7e212660a7260e74bfd00))
+
 ## [1.174.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.174.0...v1.174.1) (2021-06-01)
 
 
