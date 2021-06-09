@@ -1,3 +1,10 @@
+# [1.177.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.176.0...v1.177.0) (2021-06-09)
+
+
+### ✨ Features
+
+* consistent dropdown style ([640cad6](https://github.com/wmfs/cardscript-to-quasar/commit/640cad6b09937321530d0491c6826c0801a76530))
+
 # [1.176.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.175.0...v1.176.0) (2021-06-09)
 
 
