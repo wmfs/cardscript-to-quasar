@@ -1,3 +1,22 @@
+# [1.177.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.176.0...v1.177.0) (2021-06-09)
+
+
+### ✨ Features
+
+* consistent dropdown style ([640cad6](https://github.com/wmfs/cardscript-to-quasar/commit/640cad6b09937321530d0491c6826c0801a76530))
+
+# [1.176.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.175.0...v1.176.0) (2021-06-09)
+
+
+### ✨ Features
+
+* escape quotes on input ([5d21c16](https://github.com/wmfs/cardscript-to-quasar/commit/5d21c167c2631b0587bffb27e7f7d6df81e26169))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump mocha from 8.4.0 to 9.0.0 ([8e98eff](https://github.com/wmfs/cardscript-to-quasar/commit/8e98eff228b3433b360a4cec301a644f0936a972))
+
 # [1.175.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.174.1...v1.175.0) (2021-06-03)
 
 
