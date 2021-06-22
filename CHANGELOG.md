@@ -1,3 +1,16 @@
+# [1.178.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.177.0...v1.178.0) (2021-06-22)
+
+
+### ✨ Features
+
+* add showLaunchesTitle to MarkupTable ([8982f4c](https://github.com/wmfs/cardscript-to-quasar/commit/8982f4c40ce06446a0735750b537b7d86fe55536))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump mocha from 9.0.0 to 9.0.1 ([d46946e](https://github.com/wmfs/cardscript-to-quasar/commit/d46946e8bfe67cc354b1e20cd303f2363d005e0e))
+* **deps-dev:** bump semantic-release from 17.4.3 to 17.4.4 ([b359b1e](https://github.com/wmfs/cardscript-to-quasar/commit/b359b1ed5395e857960280d43434345cc4a6f807))
+
 # [1.177.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.176.0...v1.177.0) (2021-06-09)
 
 
