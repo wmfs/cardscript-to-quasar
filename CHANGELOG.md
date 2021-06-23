@@ -1,3 +1,10 @@
+# [1.179.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.178.0...v1.179.0) (2021-06-22)
+
+
+### ✨ Features
+
+* use element id for unique map prompts ([c15ef67](https://github.com/wmfs/cardscript-to-quasar/commit/c15ef67e9b338107d9d6cce6b8185cfea752b7ca))
+
 # [1.178.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.177.0...v1.178.0) (2021-06-22)
 
 
