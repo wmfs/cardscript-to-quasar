@@ -1,3 +1,11 @@
+## [1.180.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.0...v1.180.1) (2021-06-25)
+
+
+### 🐛 Bug Fixes
+
+* colour on api lookup action ([15177b8](https://github.com/wmfs/cardscript-to-quasar/commit/15177b86ba817f255aed1bea6e43ff030d63259a))
+* keep spacing if no actionset in Input.ApiLookup ([1d96e71](https://github.com/wmfs/cardscript-to-quasar/commit/1d96e71b1123ca4c75672f0000215e6c6a448973))
+
 # [1.180.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.179.0...v1.180.0) (2021-06-25)
 
 
