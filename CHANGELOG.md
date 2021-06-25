@@ -1,3 +1,10 @@
+## [1.180.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.1...v1.180.2) (2021-06-25)
+
+
+### 🐛 Bug Fixes
+
+* revert styles to older design ([96d042a](https://github.com/wmfs/cardscript-to-quasar/commit/96d042aa0c65fafc4c4acc6e8b083e51c6a01f89))
+
 ## [1.180.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.0...v1.180.1) (2021-06-25)
 
 
