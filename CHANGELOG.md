@@ -1,3 +1,25 @@
+## [1.180.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.1...v1.180.2) (2021-06-25)
+
+
+### 🐛 Bug Fixes
+
+* revert styles to older design ([96d042a](https://github.com/wmfs/cardscript-to-quasar/commit/96d042aa0c65fafc4c4acc6e8b083e51c6a01f89))
+
+## [1.180.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.0...v1.180.1) (2021-06-25)
+
+
+### 🐛 Bug Fixes
+
+* colour on api lookup action ([15177b8](https://github.com/wmfs/cardscript-to-quasar/commit/15177b86ba817f255aed1bea6e43ff030d63259a))
+* keep spacing if no actionset in Input.ApiLookup ([1d96e71](https://github.com/wmfs/cardscript-to-quasar/commit/1d96e71b1123ca4c75672f0000215e6c6a448973))
+
+# [1.180.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.179.0...v1.180.0) (2021-06-25)
+
+
+### ✨ Features
+
+* AdaptiveCard selection position ([475e230](https://github.com/wmfs/cardscript-to-quasar/commit/475e23077b8db6d601a4bedd1077d4621f553d7a))
+
 # [1.179.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.178.0...v1.179.0) (2021-06-22)
 
 
