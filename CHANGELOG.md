@@ -1,3 +1,15 @@
+## [1.180.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.2...v1.180.3) (2021-07-06)
+
+
+### 🐛 Bug Fixes
+
+* apply badge style ([f9f3225](https://github.com/wmfs/cardscript-to-quasar/commit/f9f3225369383351234f3c857d3bf1e7db12225e))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump mocha from 9.0.1 to 9.0.2 ([26e7ea9](https://github.com/wmfs/cardscript-to-quasar/commit/26e7ea9b64e619b7ed1923bbe1696573547cc1f1))
+
 ## [1.180.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.1...v1.180.2) (2021-06-25)
 
 
