@@ -1,3 +1,10 @@
+# [1.181.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.3...v1.181.0) (2021-07-06)
+
+
+### ✨ Features
+
+* new component Action.ApiLookup ([94d2755](https://github.com/wmfs/cardscript-to-quasar/commit/94d27552af944f02e334afbb009156ee7391854d))
+
 ## [1.180.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.2...v1.180.3) (2021-07-06)
 
 
