@@ -1,3 +1,10 @@
+# [1.183.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.182.0...v1.183.0) (2021-07-07)
+
+
+### ✨ Features
+
+* add pagination component ([50a02b3](https://github.com/wmfs/cardscript-to-quasar/commit/50a02b3bc30528cbcbc3f94961d4f67a81187b89))
+
 # [1.182.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.181.0...v1.182.0) (2021-07-07)
 
 
