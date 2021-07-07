@@ -1,3 +1,10 @@
+# [1.182.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.181.0...v1.182.0) (2021-07-07)
+
+
+### ✨ Features
+
+* add function to convert string template so we can pass templates into binded variables ([8fd2a8a](https://github.com/wmfs/cardscript-to-quasar/commit/8fd2a8a4c9dc10374c00c3677f1b46db7e051f0f))
+
 # [1.181.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.3...v1.181.0) (2021-07-06)
 
 
