@@ -1,6 +1,7 @@
 /* eslint-env mocha */
 
 'use strict'
+
 const stringTemplateParser = require('./../lib/utils/string-template-parser')
 const chai = require('chai')
 const expect = chai.expect

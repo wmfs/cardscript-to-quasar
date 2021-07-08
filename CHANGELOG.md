@@ -1,3 +1,17 @@
+# [1.183.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.182.0...v1.183.0) (2021-07-07)
+
+
+### ✨ Features
+
+* add pagination component ([50a02b3](https://github.com/wmfs/cardscript-to-quasar/commit/50a02b3bc30528cbcbc3f94961d4f67a81187b89))
+
+# [1.182.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.181.0...v1.182.0) (2021-07-07)
+
+
+### ✨ Features
+
+* add function to convert string template so we can pass templates into binded variables ([8fd2a8a](https://github.com/wmfs/cardscript-to-quasar/commit/8fd2a8a4c9dc10374c00c3677f1b46db7e051f0f))
+
 # [1.181.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.3...v1.181.0) (2021-07-06)
 
 
