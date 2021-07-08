@@ -1,3 +1,10 @@
+# [1.185.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.184.0...v1.185.0) (2021-07-08)
+
+
+### ✨ Features
+
+* timeline component ([4ee8a2c](https://github.com/wmfs/cardscript-to-quasar/commit/4ee8a2c6112a507ff04accb7c231ce4193119ee8))
+
 # [1.184.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.183.0...v1.184.0) (2021-07-07)
 
 
