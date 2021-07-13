@@ -1,3 +1,10 @@
+# [1.186.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.185.0...v1.186.0) (2021-07-13)
+
+
+### ✨ Features
+
+* new action copy to clipboard ([5a8ffd5](https://github.com/wmfs/cardscript-to-quasar/commit/5a8ffd58c8fa5924a3741e29cc66d6ac9dcbf8b5))
+
 # [1.185.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.184.0...v1.185.0) (2021-07-08)
 
 
