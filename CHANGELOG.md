@@ -1,3 +1,15 @@
+# [1.187.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.186.0...v1.187.0) (2021-07-14)
+
+
+### ✨ Features
+
+* also apply draggable to existing map style ([eac2445](https://github.com/wmfs/cardscript-to-quasar/commit/eac2445b079895ac136bb5b0e2ee12bbf66b4bdc))
+
+
+### 🚨 Tests
+
+* update expects ([82adfd4](https://github.com/wmfs/cardscript-to-quasar/commit/82adfd4f171998956c1778ed29ab56a750e2db9a))
+
 # [1.186.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.185.0...v1.186.0) (2021-07-13)
 
 
