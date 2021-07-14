@@ -19,7 +19,11 @@ const tests = [
         }
       ]
     },
-    quasar: "<div><q-map :id=\"'minimal'\" :locked=\"false\" :draggable=\"false\"><q-map-circle :data=\"data\" :m=\"{ format: 'OSGridRef',\n  x: 'actualX',\n  y: 'actualY',\n  label: 'Minimal' }\" format=\"OSGridRef\" :x=\"data?.actualX\" :y=\"data?.actualY\" :showMarker=\"true\" :showLaunches=\"false\" :launches=\"[]\" :label=\"[ 'Minimal' ]\" @x=\"v => { data.actualX = v }\" @y=\"v => { data.actualY = v }\"></q-map-circle></q-map></div>"
+    quasar: [
+      '<q-map :id="\'minimal\'" :locked="false" :draggable="false"',
+      '<q-map-circle :data="data" :m="{ format: \'OSGridRef\',\n  x: \'actualX\',\n  y: \'actualY\',\n  label: \'Minimal\' }"',
+      ':showMarker="true" :showLaunches="false" :launches="[]" :label="[ \'Minimal\' ]" @x="v => { data.actualX = v }" @y="v => { data.actualY = v }"'
+    ]
   },
   {
     title: 'locked minimal map',
@@ -37,7 +41,11 @@ const tests = [
         }
       ]
     },
-    quasar: "<div><q-map :id=\"'minimal'\" :locked=\"false\" :draggable=\"false\"><q-map-circle :data=\"data\" :m=\"{ format: 'OSGridRef',\n  x: 'actualX',\n  y: 'actualY',\n  label: 'Minimal',\n  locked: true }\" format=\"OSGridRef\" :x=\"data?.actualX\" :y=\"data?.actualY\" :showMarker=\"true\" :showLaunches=\"false\" :launches=\"[]\" :label=\"[ 'Minimal' ]\" locked=\"true\"></q-map-circle></q-map></div>"
+    quasar: [
+      '<q-map :id="\'minimal\'" :locked="false" :draggable="false"',
+      '<q-map-circle :data="data" :m="{ format: \'OSGridRef\',\n  x: \'actualX\',\n  y: \'actualY\',\n  label: \'Minimal\',\n  locked: true }" format="OSGridRef" :x="data?.actualX" :y="data?.actualY"',
+      ':showMarker="true" :showLaunches="false" :launches="[]" :label="[ \'Minimal\' ]" locked="true"'
+    ]
   },
   {
     title: 'minimal map locked with label',
@@ -55,7 +63,11 @@ const tests = [
         }
       ]
     },
-    quasar: "<div><q-map :id=\"'minimal'\" :locked=\"false\" :draggable=\"false\"><q-map-circle :data=\"data\" :m=\"{ format: 'OSGridRef',\n  x: 'actualX',\n  y: 'actualY',\n  label: 'Minimal',\n  locked: true,\n  showCoordinates: true }\" format=\"OSGridRef\" :x=\"data?.actualX\" :y=\"data?.actualY\" :showMarker=\"true\" :showLaunches=\"false\" :launches=\"[]\" :label=\"[ 'Minimal' ]\" locked=\"true\"></q-map-circle></q-map></div><q-card flat style=\"border: 1px solid #BFBFBF;\"><q-card-section><q-list><q-item><q-item-section side top><q-btn icon=\"room\" round flat dense style=\"color: #443DF6;\" @click=\"mapJumpToXY('minimal', data.actualX, data.actualY)\"></q-btn></q-item-section><q-item-section><q-item-label>Minimal</q-item-label><q-item-label caption>{{data.actualX}}, {{data.actualY}}</q-item-label caption></q-item-section></q-item></q-list></q-card-section></q-card>"
+    quasar: [
+      '<q-map :id="\'minimal\'" :locked="false" :draggable="false"',
+      '<q-map-circle :data="data" :m="{ format: \'OSGridRef\',\n  x: \'actualX\',\n  y: \'actualY\',\n  label: \'Minimal\',\n  locked: true,\n  showCoordinates: true }" format="OSGridRef" :x="data?.actualX" :y="data?.actualY" :showMarker="true" :showLaunches="false" :launches="[]" :label="[ \'Minimal\' ]"',
+      '<q-btn icon="room" round flat dense style="color: #443DF6;" @click="mapJumpToXY(\'minimal\', data.actualX, data.actualY)"></q-btn>'
+    ]
   }
 ]
 
@@ -75,8 +87,7 @@ describe('Input.Map builder', () => {
       ]
     }
 
-    const expectedQuasar = "<div><q-map :id=\"'minimal'\" :locked=\"false\" :draggable=\"false\"><q-map-circle :data=\"data\" :m=\"{ format: 'OSGridRef',\n  x: 'actualX',\n  y: 'actualY',\n  label: 'Minimal' }\" format=\"OSGridRef\" :x=\"data?.actualX\" :y=\"data?.actualY\" :showMarker=\"true\" :showLaunches=\"false\" :launches=\"[]\" :label=\"[ 'Minimal' ]\" @x=\"v => { data.actualX = v }\" @y=\"v => { data.actualY = v }\"></q-map-circle></q-map></div>"
-
+    const expectedQuasar = '<div><q-map :id="\'minimal\'" :locked="false" :draggable="false" aria-label="An interactive map"><q-map-circle :data="data" :m="{ format: \'OSGridRef\',\n  x: \'actualX\',\n  y: \'actualY\',\n  label: \'Minimal\' }" format="OSGridRef" :x="data?.actualX" :y="data?.actualY" :showMarker="true" :showLaunches="false" :launches="[]" :label="[ \'Minimal\' ]" @x="v => { data.actualX = v }" @y="v => { data.actualY = v }"></q-map-circle></q-map></div>'
     const quasar = InputMapBuilder(cardscript, { })
     expect(quasar).to.equal(expectedQuasar)
   })
@@ -85,7 +96,9 @@ describe('Input.Map builder', () => {
     it(test.title, () => {
       const quasar = InputMapBuilder(test.cardScript, { })
 
-      expect(quasar).to.eql(test.quasar)
+      for (const snippet of test.quasar) {
+        expect(quasar).to.have.string(snippet)
+      }
     })
   }
 })
