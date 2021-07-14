@@ -98,9 +98,7 @@ describe('Input.Map builder', () => {
     it(test.title, () => {
       const quasar = InputMapBuilder(test.cardScript, { })
 
-      for (const snippet of test.quasar) {
-        expect(quasar).to.have.string(snippet)
-      }
+      expect(quasar).to.eql(test.quasar)
     })
   }
 })

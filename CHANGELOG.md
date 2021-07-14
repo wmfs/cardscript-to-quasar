@@ -1,3 +1,50 @@
+# [1.185.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.184.0...v1.185.0) (2021-07-08)
+
+
+### ✨ Features
+
+* timeline component ([4ee8a2c](https://github.com/wmfs/cardscript-to-quasar/commit/4ee8a2c6112a507ff04accb7c231ce4193119ee8))
+
+# [1.184.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.183.0...v1.184.0) (2021-07-07)
+
+
+### ✨ Features
+
+* choice set choices path and filter ([0f3690f](https://github.com/wmfs/cardscript-to-quasar/commit/0f3690fb71754146d90efdef737f591dc02d43aa))
+
+# [1.183.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.182.0...v1.183.0) (2021-07-07)
+
+
+### ✨ Features
+
+* add pagination component ([50a02b3](https://github.com/wmfs/cardscript-to-quasar/commit/50a02b3bc30528cbcbc3f94961d4f67a81187b89))
+
+# [1.182.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.181.0...v1.182.0) (2021-07-07)
+
+
+### ✨ Features
+
+* add function to convert string template so we can pass templates into binded variables ([8fd2a8a](https://github.com/wmfs/cardscript-to-quasar/commit/8fd2a8a4c9dc10374c00c3677f1b46db7e051f0f))
+
+# [1.181.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.3...v1.181.0) (2021-07-06)
+
+
+### ✨ Features
+
+* new component Action.ApiLookup ([94d2755](https://github.com/wmfs/cardscript-to-quasar/commit/94d27552af944f02e334afbb009156ee7391854d))
+
+## [1.180.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.2...v1.180.3) (2021-07-06)
+
+
+### 🐛 Bug Fixes
+
+* apply badge style ([f9f3225](https://github.com/wmfs/cardscript-to-quasar/commit/f9f3225369383351234f3c857d3bf1e7db12225e))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump mocha from 9.0.1 to 9.0.2 ([26e7ea9](https://github.com/wmfs/cardscript-to-quasar/commit/26e7ea9b64e619b7ed1923bbe1696573547cc1f1))
+
 ## [1.180.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.180.1...v1.180.2) (2021-06-25)
 
 
