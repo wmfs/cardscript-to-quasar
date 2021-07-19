@@ -1,3 +1,10 @@
+# [1.188.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.187.0...v1.188.0) (2021-07-19)
+
+
+### ✨ Features
+
+* text field can use mask and fill-mask attributes ([6beda31](https://github.com/wmfs/cardscript-to-quasar/commit/6beda3139dc725980260fec2d56ee0f88bf40614))
+
 # [1.187.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.186.0...v1.187.0) (2021-07-14)
 
 
