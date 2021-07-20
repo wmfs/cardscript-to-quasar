@@ -1,3 +1,10 @@
+## [1.188.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.188.0...v1.188.1) (2021-07-20)
+
+
+### 🐛 Bug Fixes
+
+* issue with show when on map markers ([b142574](https://github.com/wmfs/cardscript-to-quasar/commit/b142574dbc051e461e27cb1f77540c55d3121d1f))
+
 # [1.188.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.187.0...v1.188.0) (2021-07-19)
 
 
