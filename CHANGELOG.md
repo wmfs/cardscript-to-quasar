@@ -1,3 +1,10 @@
+# [1.189.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.188.1...v1.189.0) (2021-07-21)
+
+
+### ✨ Features
+
+* MarkupTable can have option to show single launch as button ([894a833](https://github.com/wmfs/cardscript-to-quasar/commit/894a8336a1360e21fc2b3aebb96f952a27897ecd))
+
 ## [1.188.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.188.0...v1.188.1) (2021-07-20)
 
 
