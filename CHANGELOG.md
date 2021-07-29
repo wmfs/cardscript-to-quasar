@@ -1,3 +1,10 @@
+## [1.190.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.190.0...v1.190.1) (2021-07-29)
+
+
+### 🐛 Bug Fixes
+
+* Input.Data on clear, use setNullAtDataPath instead of ClearDate ([f8293f4](https://github.com/wmfs/cardscript-to-quasar/commit/f8293f4ba51e77383ab44ef369c4e70f0cda60ab))
+
 # [1.190.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.189.0...v1.190.0) (2021-07-29)
 
 
