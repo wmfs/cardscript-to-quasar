@@ -1,3 +1,21 @@
+# [1.190.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.189.0...v1.190.0) (2021-07-29)
+
+
+### ✨ Features
+
+* only show notFoundText if specified ([8d5c0ef](https://github.com/wmfs/cardscript-to-quasar/commit/8d5c0efbaa94618478967965c96b23c3d290d252))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump mocha from 9.0.2 to 9.0.3 ([43d6b4e](https://github.com/wmfs/cardscript-to-quasar/commit/43d6b4e874e7f585dca0d3a839c1987ba4d38b95))
+* **deps-dev:** update dependency codecov to v3.8.3 ([41331e1](https://github.com/wmfs/cardscript-to-quasar/commit/41331e164a1ee008eca729615e26976bf73df5de))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([9f00ec0](https://github.com/wmfs/cardscript-to-quasar/commit/9f00ec00439b7b73709964c571b0ac1f96a702ce))
+
 # [1.189.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.188.1...v1.189.0) (2021-07-21)
 
 
