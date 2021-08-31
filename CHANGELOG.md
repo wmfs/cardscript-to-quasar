@@ -1,3 +1,19 @@
+# [1.191.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.190.1...v1.191.0) (2021-08-31)
+
+
+### ✨ Features
+
+* enable list item avatars ([8d310a3](https://github.com/wmfs/cardscript-to-quasar/commit/8d310a32f9313efee5ba9fac230dad5d14c15928))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v9.1.0 ([742ff7b](https://github.com/wmfs/cardscript-to-quasar/commit/742ff7b523530c73223cc45f8cc5c8ee05bdc10f))
+* **deps-dev:** update dependency mocha to v9.1.1 ([3a61142](https://github.com/wmfs/cardscript-to-quasar/commit/3a611424f791ee82d51d9f73321ae2e030a7254f))
+* **deps-dev:** update dependency semantic-release to v17.4.5 ([bbd1cbc](https://github.com/wmfs/cardscript-to-quasar/commit/bbd1cbcf1949c4f148bd40d200789162056df1d2))
+* **deps-dev:** update dependency semantic-release to v17.4.6 ([29bf5dd](https://github.com/wmfs/cardscript-to-quasar/commit/29bf5ddd28de467574bee9d192d66e490e667fc3))
+* **deps-dev:** update dependency semantic-release to v17.4.7 ([41aef12](https://github.com/wmfs/cardscript-to-quasar/commit/41aef12fcc64f729aa85e91161114358d8491696))
+
 ## [1.190.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.190.0...v1.190.1) (2021-07-29)
 
 
