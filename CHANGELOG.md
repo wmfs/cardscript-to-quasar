@@ -1,3 +1,15 @@
+## [1.191.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.191.0...v1.191.1) (2021-09-07)
+
+
+### 🐛 Bug Fixes
+
+* condition on markup table not found text ([90d8b33](https://github.com/wmfs/cardscript-to-quasar/commit/90d8b3340922b1b5d3067480455c6731fb38bd38))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v9.0.1 ([8333283](https://github.com/wmfs/cardscript-to-quasar/commit/83332838e139729d37bb86ae311dae2a45b882bc))
+
 # [1.191.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.190.1...v1.191.0) (2021-08-31)
 
 
