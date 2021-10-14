@@ -1,3 +1,19 @@
+# [1.192.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.191.1...v1.192.0) (2021-10-14)
+
+
+### ✨ Features
+
+* card list optional icon ([63e7782](https://github.com/wmfs/cardscript-to-quasar/commit/63e77820ebb3c7c7857f89077407ce141a546299))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6 ([08a13b5](https://github.com/wmfs/cardscript-to-quasar/commit/08a13b532dac8d4f0476ee8826c077e1613940db))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v10 ([7ae8590](https://github.com/wmfs/cardscript-to-quasar/commit/7ae8590845ddde6f6fa40804da011ab9c7ce18b9))
+* **deps-dev:** update dependency mocha to v9.1.2 ([8645bea](https://github.com/wmfs/cardscript-to-quasar/commit/8645bea275d655b7559bf2401d36b144a59d728c))
+* **deps-dev:** update dependency semantic-release to v18 ([364d559](https://github.com/wmfs/cardscript-to-quasar/commit/364d559590e6944cc13453410aeccfd46a8eb394))
+* **deps-dev:** update dependency standard to v16.0.4 ([be29687](https://github.com/wmfs/cardscript-to-quasar/commit/be296878d6c041cd10b27f282b1a30a6b001237e))
+
 ## [1.191.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.191.0...v1.191.1) (2021-09-07)
 
 
