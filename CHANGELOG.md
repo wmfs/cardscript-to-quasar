@@ -1,3 +1,15 @@
+# [1.193.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.192.0...v1.193.0) (2021-10-15)
+
+
+### ✨ Features
+
+* add attribute to Input.Date to allow for GDS theme ([ee52744](https://github.com/wmfs/cardscript-to-quasar/commit/ee5274497f0075da429ccceed7f973807672e6df))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v9.1.3 ([99a8da1](https://github.com/wmfs/cardscript-to-quasar/commit/99a8da15fc97e6ada900a284609855363bfd6c94))
+
 # [1.192.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.191.1...v1.192.0) (2021-10-14)
 
 
