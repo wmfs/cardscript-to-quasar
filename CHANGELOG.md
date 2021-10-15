@@ -1,3 +1,10 @@
+# [1.195.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.194.0...v1.195.0) (2021-10-15)
+
+
+### ✨ Features
+
+* keep the title for Input.Date GDS theme ([13c7616](https://github.com/wmfs/cardscript-to-quasar/commit/13c7616ca77cfebc24348e9dcf46194ecfc35678))
+
 # [1.194.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.193.0...v1.194.0) (2021-10-15)
 
 
