@@ -1,3 +1,10 @@
+# [1.194.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.193.0...v1.194.0) (2021-10-15)
+
+
+### ✨ Features
+
+* change style of GDS theme date ([3f95533](https://github.com/wmfs/cardscript-to-quasar/commit/3f95533d157726defe7cb6e6306267984f3dd129))
+
 # [1.193.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.192.0...v1.193.0) (2021-10-15)
 
 
