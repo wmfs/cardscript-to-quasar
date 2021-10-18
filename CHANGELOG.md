@@ -1,3 +1,11 @@
+# [1.196.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.195.0...v1.196.0) (2021-10-18)
+
+
+### ✨ Features
+
+* input date as GDS theme minx/max validation and clearable option ([2368349](https://github.com/wmfs/cardscript-to-quasar/commit/236834970534649e7f8da2d930a1e3a2494b8b09))
+* input.date gds theme show error messages ([7e08c42](https://github.com/wmfs/cardscript-to-quasar/commit/7e08c42b3e6662896d5f00b1fe257cc3ddc0b6c7))
+
 # [1.195.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.194.0...v1.195.0) (2021-10-15)
 
 
