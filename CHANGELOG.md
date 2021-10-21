@@ -1,3 +1,10 @@
+## [1.196.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.196.0...v1.196.1) (2021-10-21)
+
+
+### 🐛 Bug Fixes
+
+* set centre, as well as default to geolocation attribute in case geolocation is disabled [sc-11185] ([eea98bc](https://github.com/wmfs/cardscript-to-quasar/commit/eea98bc7b1b76e50b570008ab14664989d423a55))
+
 # [1.196.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.195.0...v1.196.0) (2021-10-18)
 
 
