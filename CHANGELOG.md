@@ -1,3 +1,10 @@
+## [1.196.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.196.1...v1.196.2) (2021-10-22)
+
+
+### 🐛 Bug Fixes
+
+* manually handle show when on tab ([e3b54ab](https://github.com/wmfs/cardscript-to-quasar/commit/e3b54ab1afba435c950fba8c3b45c71e1d801eda))
+
 ## [1.196.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.196.0...v1.196.1) (2021-10-21)
 
 
