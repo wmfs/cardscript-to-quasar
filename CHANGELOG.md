@@ -1,3 +1,21 @@
+## [1.196.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.196.2...v1.196.3) (2022-01-10)
+
+
+### 🐛 Bug Fixes
+
+* apply placeholder to text field ([f93ce1b](https://github.com/wmfs/cardscript-to-quasar/commit/f93ce1b3ab10315e9c54676163243bfe833f9fed))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency semantic-release to v18.0.1 ([519b189](https://github.com/wmfs/cardscript-to-quasar/commit/519b18955970c7f7108646ac9106beb2b4cf083e))
+* **deps-dev:** update semantic-release monorepo ([786d906](https://github.com/wmfs/cardscript-to-quasar/commit/786d906c54956f0780e9b4d53d1d60c1be60fa3c))
+
+
+### 💎 Styles
+
+* standard fix ([2f89205](https://github.com/wmfs/cardscript-to-quasar/commit/2f892055df56a9521365f62990a743732a653729))
+
 ## [1.196.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.196.1...v1.196.2) (2021-10-22)
 
 
