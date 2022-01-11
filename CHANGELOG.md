@@ -1,3 +1,10 @@
+## [1.196.4](https://github.com/wmfs/cardscript-to-quasar/compare/v1.196.3...v1.196.4) (2022-01-11)
+
+
+### 🐛 Bug Fixes
+
+* issue accessing undefined validation messages to join ([0f23811](https://github.com/wmfs/cardscript-to-quasar/commit/0f2381159eb4e7abf8b2f1395186dc15d87ec4d1))
+
 ## [1.196.3](https://github.com/wmfs/cardscript-to-quasar/compare/v1.196.2...v1.196.3) (2022-01-10)
 
 
