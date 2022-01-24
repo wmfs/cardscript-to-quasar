@@ -1,3 +1,10 @@
+# [1.198.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.197.0...v1.198.0) (2022-01-24)
+
+
+### ✨ Features
+
+* add timeline spacing ([1b65a45](https://github.com/wmfs/cardscript-to-quasar/commit/1b65a45ed5589dc87e626daae3838ab0fe2b6dc6))
+
 # [1.197.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.196.4...v1.197.0) (2022-01-24)
 
 
