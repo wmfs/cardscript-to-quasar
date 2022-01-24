@@ -1,3 +1,23 @@
+# [1.197.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.196.4...v1.197.0) (2022-01-24)
+
+
+### ✨ Features
+
+* create new stepper component ([9294e00](https://github.com/wmfs/cardscript-to-quasar/commit/9294e00bdda09f779e105bcea32b4fe953f9646e))
+* create new stepper component ([7f81806](https://github.com/wmfs/cardscript-to-quasar/commit/7f8180634f140e846a092147cc9e5c9c4ad9d99b))
+
+
+### 🐛 Bug Fixes
+
+* disable showWhen on step ([2a2b691](https://github.com/wmfs/cardscript-to-quasar/commit/2a2b6915ddb92740b95bc9332356a1b677b87677))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v9.1.4 ([7f747d7](https://github.com/wmfs/cardscript-to-quasar/commit/7f747d7464e4e63da3fc356811f9f7fe5a7202e9))
+* **deps-dev:** update dependency mocha to v9.2.0 ([637efbb](https://github.com/wmfs/cardscript-to-quasar/commit/637efbb70aa60f567c63fe1a7d55c29d735c84d0))
+* **deps-dev:** update dependency semantic-release to v19 ([d4308b0](https://github.com/wmfs/cardscript-to-quasar/commit/d4308b0aadd91e0595b087781c84e593a389a05f))
+
 ## [1.196.4](https://github.com/wmfs/cardscript-to-quasar/compare/v1.196.3...v1.196.4) (2022-01-11)
 
 
