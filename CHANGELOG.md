@@ -1,3 +1,16 @@
+# [1.199.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.198.0...v1.199.0) (2022-01-27)
+
+
+### ✨ Features
+
+* swap stepper actions and ensure id ([d26a3bf](https://github.com/wmfs/cardscript-to-quasar/commit/d26a3bfd4d9bb599458e270ad2bd302314582222))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency chai to v4.3.5 ([d37db25](https://github.com/wmfs/cardscript-to-quasar/commit/d37db252f096d2345c3037dd4a29a7b49db54820))
+* **deps-dev:** update dependency chai to v4.3.6 ([04d7286](https://github.com/wmfs/cardscript-to-quasar/commit/04d7286114aacd9973362771ab78842f3cac6928))
+
 # [1.198.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.197.0...v1.198.0) (2022-01-24)
 
 
