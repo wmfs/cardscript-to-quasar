@@ -1,3 +1,10 @@
+## [1.200.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.200.0...v1.200.1) (2022-02-21)
+
+
+### 🐛 Bug Fixes
+
+* mark up table max height if fixed header ([733b386](https://github.com/wmfs/cardscript-to-quasar/commit/733b38662a8e2060c8aa6eb09b8f0295ce2b2f56))
+
 # [1.200.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.199.0...v1.200.0) (2022-02-21)
 
 
