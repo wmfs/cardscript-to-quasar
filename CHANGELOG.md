@@ -1,3 +1,15 @@
+# [1.200.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.199.0...v1.200.0) (2022-02-21)
+
+
+### ✨ Features
+
+* more style options on tab set ([abfa5c1](https://github.com/wmfs/cardscript-to-quasar/commit/abfa5c146b15544c66ed2259a9956c31c76021b6))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v9.2.1 ([9a16297](https://github.com/wmfs/cardscript-to-quasar/commit/9a16297d9cb11792589a9984dde04414fe897e5a))
+
 # [1.199.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.198.0...v1.199.0) (2022-01-27)
 
 
