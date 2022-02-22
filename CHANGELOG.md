@@ -1,3 +1,10 @@
+# [1.201.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.200.1...v1.201.0) (2022-02-22)
+
+
+### ✨ Features
+
+* changes to allow horizontal mark up table to have fixed header ([e83db99](https://github.com/wmfs/cardscript-to-quasar/commit/e83db99fae006fe90e371e3199ef21ac56a2f05c))
+
 ## [1.200.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.200.0...v1.200.1) (2022-02-21)
 
 
