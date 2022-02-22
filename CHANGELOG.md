@@ -1,3 +1,10 @@
+# [1.202.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.201.0...v1.202.0) (2022-02-22)
+
+
+### ✨ Features
+
+* allow prefix on number input ([cb818d7](https://github.com/wmfs/cardscript-to-quasar/commit/cb818d7d86066b1dd388101e0bb8c8642268d7d7))
+
 # [1.201.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.200.1...v1.201.0) (2022-02-22)
 
 
