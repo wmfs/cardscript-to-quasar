@@ -1,3 +1,15 @@
+# [1.203.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.202.0...v1.203.0) (2022-03-23)
+
+
+### ✨ Features
+
+* actions to use inner div for title ([e617712](https://github.com/wmfs/cardscript-to-quasar/commit/e61771292ac1f261836d5c0c6c662d6e430eb243))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v9.2.2 ([a4d6267](https://github.com/wmfs/cardscript-to-quasar/commit/a4d6267ca0cd1fa55c2c657b733384ec081917e4))
+
 # [1.202.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.201.0...v1.202.0) (2022-02-22)
 
 
