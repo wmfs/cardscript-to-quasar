@@ -1,3 +1,10 @@
+# [1.204.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.203.0...v1.204.0) (2022-03-24)
+
+
+### ✨ Features
+
+* mark up table attribute to disable row hover ([4e9a35e](https://github.com/wmfs/cardscript-to-quasar/commit/4e9a35e272726979d060a2d068148848b95c1b2e))
+
 # [1.203.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.202.0...v1.203.0) (2022-03-23)
 
 
