@@ -1,3 +1,15 @@
+## [1.204.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.204.0...v1.204.1) (2022-05-04)
+
+
+### 🐛 Bug Fixes
+
+* fix showWhens on timeline entries ([0d2af0d](https://github.com/wmfs/cardscript-to-quasar/commit/0d2af0d7703f38cea3bf6999cf2c64e85356ed0a))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v10 ([feeba9d](https://github.com/wmfs/cardscript-to-quasar/commit/feeba9d8ae45b2ecc84f91e87c378767ffa971bb))
+
 # [1.204.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.203.0...v1.204.0) (2022-03-24)
 
 
