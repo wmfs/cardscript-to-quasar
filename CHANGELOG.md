@@ -1,3 +1,10 @@
+## [1.204.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.204.1...v1.204.2) (2022-06-08)
+
+
+### 🐛 Bug Fixes
+
+* fix List sublabels to 1 line only ([af1e58a](https://github.com/wmfs/cardscript-to-quasar/commit/af1e58a19edf71ba9189ec31fee6e110992d0214))
+
 ## [1.204.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.204.0...v1.204.1) (2022-05-04)
 
 
