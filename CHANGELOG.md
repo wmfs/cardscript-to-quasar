@@ -1,3 +1,42 @@
+# [1.205.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.204.2...v1.205.0) (2022-06-16)
+
+
+### ✨ Features
+
+* allow for isSelfClosingTag option (use on img) ([313c265](https://github.com/wmfs/cardscript-to-quasar/commit/313c265f74fa8cf6f38baeebb37f910197cf523b))
+* allow params with data on file upload ([03036a7](https://github.com/wmfs/cardscript-to-quasar/commit/03036a78c353b3aa34e82d44d1614aa5ff3a460e))
+* changes to SetNullAtDataPath ([2adddc2](https://github.com/wmfs/cardscript-to-quasar/commit/2adddc2cf9def68cc434bb22d9557ab36ce369c8))
+
+
+### 🐛 Bug Fixes
+
+* [@click](https://github.com/click).native -> [@click](https://github.com/click) [sc-14460] ([39e2955](https://github.com/wmfs/cardscript-to-quasar/commit/39e29556ffa3962c447fefc6beb3e97914915ec1))
+* changes to list item clicks and card list actions ([6858649](https://github.com/wmfs/cardscript-to-quasar/commit/6858649055189de6716fcddba3ec8f6e9f0ce290))
+* choice set filters ([804c6b8](https://github.com/wmfs/cardscript-to-quasar/commit/804c6b8afa33333bdd500bec547d826269191866))
+* click events on maps to use action ([c4936cf](https://github.com/wmfs/cardscript-to-quasar/commit/c4936cf2dc94bd2a398b51631cfb6661857c2f07))
+* event names on actions ([da6795e](https://github.com/wmfs/cardscript-to-quasar/commit/da6795ef14c6843fbfdcacce27e2afbb46101f9f))
+* general fixes, vuelidate, file upload ([897ef05](https://github.com/wmfs/cardscript-to-quasar/commit/897ef059f2d231f01d0df8ba7dac4d9dc725b27c))
+* item link clicks ([370d278](https://github.com/wmfs/cardscript-to-quasar/commit/370d2780ba78aa76f89ea4b2fc44bd06e200e3bd))
+* map base Template compilation error: End tag cannot have attributes ([8cf3495](https://github.com/wmfs/cardscript-to-quasar/commit/8cf34958dacc3c0498fff6abbe3aeee614b3ee09))
+* map fly to to use props not store ([953d615](https://github.com/wmfs/cardscript-to-quasar/commit/953d6159ca979b21c00f57f77b34db4c1744d7e8))
+* model-value, [@update](https://github.com/update):model-value [sc-14460] ([bf25540](https://github.com/wmfs/cardscript-to-quasar/commit/bf2554052fe3264ab96c70d2ee4692be22ca277b))
+* q-select changes ([71dbf05](https://github.com/wmfs/cardscript-to-quasar/commit/71dbf0534afff05941f19d5ba15cc2a7fbbbe34e))
+* Renamed the “data” property to “rows” [sc-14460] ([73463c0](https://github.com/wmfs/cardscript-to-quasar/commit/73463c0985e3eff8c64d446089aee0b1c445fefa))
+* show when on Stepper component ([6dc477a](https://github.com/wmfs/cardscript-to-quasar/commit/6dc477a279be34e0f758834075b57aadde969af2))
+* styles on dropdown action set ([6350d11](https://github.com/wmfs/cardscript-to-quasar/commit/6350d11b2885dc12e8064ad2d61eb62fde7443ac))
+* The “itemEvents” prop has been dropped from the “option” slot [sc-14460] ([4f3e354](https://github.com/wmfs/cardscript-to-quasar/commit/4f3e354fbbdd11fe40973de63b768ca61261b3cc))
+* Use “class” and “style” attributes instead of “content-class” / “content-style” [sc-14460] ([0933909](https://github.com/wmfs/cardscript-to-quasar/commit/09339094865d7687e8a4ce38d8ef37b056aaf376))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency semantic-release to v19.0.3 ([e5c7ccd](https://github.com/wmfs/cardscript-to-quasar/commit/e5c7ccd3be825e725a5ffc85304519e5d956ff39))
+
+
+### 🚨 Tests
+
+* update map test in line with changes ([fcff470](https://github.com/wmfs/cardscript-to-quasar/commit/fcff4708fd05248c76adb8529dbd37564a501837))
+
 ## [1.204.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.204.1...v1.204.2) (2022-06-08)
 
 
