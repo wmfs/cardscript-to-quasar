@@ -1,3 +1,10 @@
+# [1.207.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.206.0...v1.207.0) (2022-06-29)
+
+
+### ✨ Features
+
+* ability to disable input number arrows ([c878e51](https://github.com/wmfs/cardscript-to-quasar/commit/c878e511561abfc2687271557daff63eb81ff2ec))
+
 # [1.206.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.205.0...v1.206.0) (2022-06-29)
 
 
