@@ -1,3 +1,10 @@
+# [1.206.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.205.0...v1.206.0) (2022-06-29)
+
+
+### ✨ Features
+
+* changes to toggle to use components label ([db0efe7](https://github.com/wmfs/cardscript-to-quasar/commit/db0efe7e059f8b9b238322ecce0137252d4ad0e0))
+
 # [1.205.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.204.2...v1.205.0) (2022-06-16)
 
 
