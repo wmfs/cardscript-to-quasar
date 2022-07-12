@@ -1,3 +1,11 @@
+# [1.208.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.207.0...v1.208.0) (2022-07-12)
+
+
+### ✨ Features
+
+* allow for choices to have colour ([38d79d0](https://github.com/wmfs/cardscript-to-quasar/commit/38d79d0c6b74962038c89ae0b83074087cdabeac))
+* allow for tooltips in choice sets ([ca159eb](https://github.com/wmfs/cardscript-to-quasar/commit/ca159eb2a593659c77af64d4b8a53f4e5b888baf))
+
 # [1.207.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.206.0...v1.207.0) (2022-06-29)
 
 
