@@ -1,3 +1,15 @@
+## [1.208.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.208.0...v1.208.1) (2022-07-14)
+
+
+### 🐛 Bug Fixes
+
+* make Input.FileUpload mobile responsive ([9390a7a](https://github.com/wmfs/cardscript-to-quasar/commit/9390a7a3ee423fefa8055a628c9e687d4c9cb316))
+
+
+### 💎 Styles
+
+* standard ([1e3b192](https://github.com/wmfs/cardscript-to-quasar/commit/1e3b192432766b183bda19f496a9bd81551699c6))
+
 # [1.208.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.207.0...v1.208.0) (2022-07-12)
 
 
