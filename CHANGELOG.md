@@ -1,3 +1,10 @@
+## [1.211.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.211.0...v1.211.1) (2022-07-15)
+
+
+### 🐛 Bug Fixes
+
+* tab active colour border ([c9d8354](https://github.com/wmfs/cardscript-to-quasar/commit/c9d8354c431b1d4108d32c01a5cd48129dcbea9c))
+
 # [1.211.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.210.0...v1.211.0) (2022-07-15)
 
 
