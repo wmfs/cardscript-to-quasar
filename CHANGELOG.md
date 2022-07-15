@@ -1,3 +1,10 @@
+# [1.210.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.209.0...v1.210.0) (2022-07-15)
+
+
+### ✨ Features
+
+* give some feedback to the user if the file upload was successful or not ([5c859df](https://github.com/wmfs/cardscript-to-quasar/commit/5c859dfc73c6ab2ee780eaca42c4044fabd80039))
+
 # [1.209.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.208.1...v1.209.0) (2022-07-15)
 
 
