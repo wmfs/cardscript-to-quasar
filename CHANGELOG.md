@@ -1,3 +1,10 @@
+# [1.209.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.208.1...v1.209.0) (2022-07-15)
+
+
+### ✨ Features
+
+* collapsible change arrow, swap arrow side, add class ([9c6ca7e](https://github.com/wmfs/cardscript-to-quasar/commit/9c6ca7e402ea9468d05b10c985eca00df1f9ade3))
+
 ## [1.208.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.208.0...v1.208.1) (2022-07-14)
 
 
