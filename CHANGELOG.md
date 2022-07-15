@@ -1,3 +1,16 @@
+# [1.211.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.210.0...v1.211.0) (2022-07-15)
+
+
+### ✨ Features
+
+* Update style of Tabs [sc-15715] ([4a3b147](https://github.com/wmfs/cardscript-to-quasar/commit/4a3b1477e3e7de700c3be5e13ce0577586690d2b))
+
+
+### 🐛 Bug Fixes
+
+* no need to check alignment as it has default value [sc-15715] ([6520fd5](https://github.com/wmfs/cardscript-to-quasar/commit/6520fd5ba13e3cf08e493db87e1514c5db5fd8cb))
+* remove dense flag ([57ebb7a](https://github.com/wmfs/cardscript-to-quasar/commit/57ebb7a9d177a0a7b00f3b41e557f2f8f85927f1))
+
 # [1.210.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.209.0...v1.210.0) (2022-07-15)
 
 
