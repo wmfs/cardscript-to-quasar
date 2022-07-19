@@ -1,3 +1,10 @@
+# [1.214.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.213.0...v1.214.0) (2022-07-19)
+
+
+### ✨ Features
+
+* launches to use action to emit event rather than start function ([c764b20](https://github.com/wmfs/cardscript-to-quasar/commit/c764b204d6b11e9ecccf5583ed6acc66bfdeae3b))
+
 # [1.213.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.212.0...v1.213.0) (2022-07-19)
 
 
