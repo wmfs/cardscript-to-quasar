@@ -1,3 +1,10 @@
+# [1.215.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.214.0...v1.215.0) (2022-07-19)
+
+
+### ✨ Features
+
+* allow launch action to be push card, replace card or open url ([80d1933](https://github.com/wmfs/cardscript-to-quasar/commit/80d19331d60bc0debb3e0081dd325a9bac576aea))
+
 # [1.214.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.213.0...v1.214.0) (2022-07-19)
 
 
