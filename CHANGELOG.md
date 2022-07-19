@@ -1,3 +1,10 @@
+# [1.212.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.211.2...v1.212.0) (2022-07-19)
+
+
+### ✨ Features
+
+* support for signature pad with Vue 3 ([16c6b21](https://github.com/wmfs/cardscript-to-quasar/commit/16c6b21028bade76dafc43640bc7b176406318b8))
+
 ## [1.211.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.211.1...v1.211.2) (2022-07-19)
 
 
