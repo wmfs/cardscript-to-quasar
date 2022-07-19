@@ -1,3 +1,16 @@
+# [1.213.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.212.0...v1.213.0) (2022-07-19)
+
+
+### ✨ Features
+
+* re-use logic to apply launches for AdaptiveCard, List, MarkupTable and Table ([66764db](https://github.com/wmfs/cardscript-to-quasar/commit/66764dbdc3137437c80917e0266970ae17829b98))
+* rename DeleteTableRow to DeleteArrayItem for re-use across components ([e8ff07d](https://github.com/wmfs/cardscript-to-quasar/commit/e8ff07d44699e52e3a71d9521e963ba1f243701c))
+
+
+### 🐛 Bug Fixes
+
+* simplify passing params to apply launches ([64ef470](https://github.com/wmfs/cardscript-to-quasar/commit/64ef4700c63b20d4524702ef2ad83ab53d686fcd))
+
 # [1.212.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.211.2...v1.212.0) (2022-07-19)
 
 
