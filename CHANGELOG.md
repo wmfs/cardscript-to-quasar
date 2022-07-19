@@ -1,3 +1,15 @@
+## [1.211.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.211.1...v1.211.2) (2022-07-19)
+
+
+### 🐛 Bug Fixes
+
+* option colours in choice set only on selected choice by default ([8866522](https://github.com/wmfs/cardscript-to-quasar/commit/88665229b698823cf336829e063182f88b8e425e))
+
+
+### 💎 Styles
+
+* standard ([43a075b](https://github.com/wmfs/cardscript-to-quasar/commit/43a075bee67e0bf526bb13d7c519c389dc07bead))
+
 ## [1.211.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.211.0...v1.211.1) (2022-07-15)
 
 
