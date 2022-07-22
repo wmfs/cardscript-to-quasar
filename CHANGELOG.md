@@ -1,3 +1,10 @@
+# [1.216.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.215.0...v1.216.0) (2022-07-22)
+
+
+### ✨ Features
+
+* tidy up the card style list by making the launches/selection in line with the title ([9e425ed](https://github.com/wmfs/cardscript-to-quasar/commit/9e425edfba0a99c6e62cb0080c3c22fcc8a03456))
+
 # [1.215.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.214.0...v1.215.0) (2022-07-19)
 
 
