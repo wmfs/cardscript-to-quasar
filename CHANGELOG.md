@@ -1,3 +1,16 @@
+# [1.217.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.216.0...v1.217.0) (2022-07-26)
+
+
+### ✨ Features
+
+* apply onChangeResetDataPaths to all choice sets ([5d3c7c1](https://github.com/wmfs/cardscript-to-quasar/commit/5d3c7c17f67e7d011a2ee053c232f47efd4e4b53))
+* select to filter out disabled options ([247dcb7](https://github.com/wmfs/cardscript-to-quasar/commit/247dcb785e343d7c2f500ab9b3f6bd0348a54044))
+
+
+### 🐛 Bug Fixes
+
+* disabled options for Select should use disable due to issues with using v-if ([fdb4f42](https://github.com/wmfs/cardscript-to-quasar/commit/fdb4f421921dac7e66ea20355d486397d91e349b))
+
 # [1.216.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.215.0...v1.216.0) (2022-07-22)
 
 
