@@ -1,3 +1,10 @@
+# [1.218.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.217.0...v1.218.0) (2022-07-27)
+
+
+### ✨ Features
+
+* allow image to use local image path ([b508301](https://github.com/wmfs/cardscript-to-quasar/commit/b508301fc737db75b9319db292e1195cd7315063))
+
 # [1.217.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.216.0...v1.217.0) (2022-07-26)
 
 
