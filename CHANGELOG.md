@@ -1,3 +1,11 @@
+# [1.219.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.218.0...v1.219.0) (2022-07-29)
+
+
+### ✨ Features
+
+* consistent file upload spacing ([e7db0b4](https://github.com/wmfs/cardscript-to-quasar/commit/e7db0b4adbd6345598453128ff5efda0d697ae4a))
+* consistent use of labels across text field and input file upload, re-using code ([5eeb5b9](https://github.com/wmfs/cardscript-to-quasar/commit/5eeb5b98a75676ee7dcaf501e37819883f6edac2))
+
 # [1.218.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.217.0...v1.218.0) (2022-07-27)
 
 
