@@ -1,3 +1,15 @@
+# [1.220.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.219.0...v1.220.0) (2022-07-29)
+
+
+### ✨ Features
+
+* allow buttons to have a color attribute ([ea71958](https://github.com/wmfs/cardscript-to-quasar/commit/ea71958b4d4b7ee4ee3f203cb6dc0651a56e69f5))
+
+
+### 🐛 Bug Fixes
+
+* spacing on action set with button dropdown and title ([d923cdd](https://github.com/wmfs/cardscript-to-quasar/commit/d923cdd5425f6d0297741162007ebf01b1519ba1))
+
 # [1.219.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.218.0...v1.219.0) (2022-07-29)
 
 
