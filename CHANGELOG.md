@@ -1,3 +1,16 @@
+# [1.221.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.220.0...v1.221.0) (2022-08-01)
+
+
+### ✨ Features
+
+* choice set to re-use title/tooltip/icon utils ([c49dc7a](https://github.com/wmfs/cardscript-to-quasar/commit/c49dc7ae45069ed6290112e9247b1ae4d45f7c70))
+
+
+### 🐛 Bug Fixes
+
+* apply margin on icon rather than title ([7f6972e](https://github.com/wmfs/cardscript-to-quasar/commit/7f6972e617cae905a0fefa67adc9e3253ab5b9a3))
+* apply margin to div rather than span due to indentation on multi line text ([3003ee6](https://github.com/wmfs/cardscript-to-quasar/commit/3003ee696aad1e34b9d071dd0464f7b46f30b19a))
+
 # [1.220.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.219.0...v1.220.0) (2022-07-29)
 
 
