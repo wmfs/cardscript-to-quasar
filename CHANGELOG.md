@@ -1,3 +1,10 @@
+# [1.223.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.222.0...v1.223.0) (2022-08-04)
+
+
+### ✨ Features
+
+* add right padding to label on card list ([ccdfcf0](https://github.com/wmfs/cardscript-to-quasar/commit/ccdfcf0ece5aeb8807daaa0b06daa8dc1f9193e4))
+
 # [1.222.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.221.0...v1.222.0) (2022-08-04)
 
 
