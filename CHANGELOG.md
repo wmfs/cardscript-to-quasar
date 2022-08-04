@@ -1,3 +1,15 @@
+# [1.222.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.221.0...v1.222.0) (2022-08-04)
+
+
+### ✨ Features
+
+* use frontend function to get date time options ([d28ed85](https://github.com/wmfs/cardscript-to-quasar/commit/d28ed859662dfdcdd40ac08fd99dbd1dee6ba48f))
+
+
+### 🐛 Bug Fixes
+
+* move date time constraint handling into own function ([0c519bb](https://github.com/wmfs/cardscript-to-quasar/commit/0c519bb8076d8069f8811f7e9b31612352f29f9a))
+
 # [1.221.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.220.0...v1.221.0) (2022-08-01)
 
 
