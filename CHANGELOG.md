@@ -1,3 +1,15 @@
+# [1.224.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.223.0...v1.224.0) (2022-08-09)
+
+
+### ✨ Features
+
+* add larger size for images [sc-15869] ([3341013](https://github.com/wmfs/cardscript-to-quasar/commit/33410136c2f64f2a84c168e65b3db8af5861a562))
+
+
+### ♻️ Chores
+
+* veryLarge -> extraLarge [sc-15869] ([28d77bd](https://github.com/wmfs/cardscript-to-quasar/commit/28d77bd66a3a5d396473350565ed17a2d598d4a2))
+
 # [1.223.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.222.0...v1.223.0) (2022-08-04)
 
 
