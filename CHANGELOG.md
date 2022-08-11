@@ -1,3 +1,15 @@
+# [1.225.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.224.0...v1.225.0) (2022-08-11)
+
+
+### ✨ Features
+
+* title value lookups for Table and MarkupTable to allow for using choices on columns, re-used for FactSet ([933fc69](https://github.com/wmfs/cardscript-to-quasar/commit/933fc690830825b39229ae81ed617803070ef942))
+
+
+### 🐛 Bug Fixes
+
+* remove console log ([c5bb17a](https://github.com/wmfs/cardscript-to-quasar/commit/c5bb17af910640cb277319836428c9f39745e59b))
+
 # [1.224.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.223.0...v1.224.0) (2022-08-09)
 
 
