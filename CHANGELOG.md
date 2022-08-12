@@ -1,3 +1,15 @@
+# [1.226.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.225.0...v1.226.0) (2022-08-12)
+
+
+### ✨ Features
+
+* allow colour attribute for mark up table ([7c09d48](https://github.com/wmfs/cardscript-to-quasar/commit/7c09d48ea33340148913fd69b95041c238e17dfa))
+
+
+### 🐛 Bug Fixes
+
+* remove console log ([4ac7d60](https://github.com/wmfs/cardscript-to-quasar/commit/4ac7d608480ffbc47fe6c8c5d4c92497f129aa29))
+
 # [1.225.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.224.0...v1.225.0) (2022-08-11)
 
 
