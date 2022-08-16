@@ -1,3 +1,16 @@
+# [1.227.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.226.0...v1.227.0) (2022-08-16)
+
+
+### ✨ Features
+
+* use tooltip for desktop but pop-up proxy for mobile platforms ([4bcaf5b](https://github.com/wmfs/cardscript-to-quasar/commit/4bcaf5b906b1d8247139b3704a2964b7e390290a))
+
+
+### 🐛 Bug Fixes
+
+* apply choice set option tooltips to div rather than option ([9c5620c](https://github.com/wmfs/cardscript-to-quasar/commit/9c5620c8764e1db7d843e38b89d5073b36611f19))
+* put tooltip inside div for mobile platforms ([b0e53a1](https://github.com/wmfs/cardscript-to-quasar/commit/b0e53a19f6e2318cd695980798c2fc0d1379e1b7))
+
 # [1.226.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.225.0...v1.226.0) (2022-08-12)
 
 
