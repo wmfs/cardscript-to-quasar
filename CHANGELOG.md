@@ -1,3 +1,10 @@
+## [1.227.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.227.0...v1.227.1) (2022-08-17)
+
+
+### 🐛 Bug Fixes
+
+* don't leave an empty div when applying title labels ([b989131](https://github.com/wmfs/cardscript-to-quasar/commit/b98913126cc51351762b4341b043a6955b4dcb69))
+
 # [1.227.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.226.0...v1.227.0) (2022-08-16)
 
 
