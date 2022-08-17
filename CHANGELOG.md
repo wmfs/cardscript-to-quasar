@@ -1,3 +1,10 @@
+# [1.228.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.227.1...v1.228.0) (2022-08-17)
+
+
+### ✨ Features
+
+* add tooltip support for Input.Toggle ([83949ce](https://github.com/wmfs/cardscript-to-quasar/commit/83949ce2db22e329d8a22214eafb5dd9f8f24209))
+
 ## [1.227.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.227.0...v1.227.1) (2022-08-17)
 
 
