@@ -1,3 +1,10 @@
+## [1.228.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.228.0...v1.228.1) (2022-08-18)
+
+
+### 🐛 Bug Fixes
+
+* ensure tooltip popup is always dialog for mobile devices ([25cfb24](https://github.com/wmfs/cardscript-to-quasar/commit/25cfb2406541cd1b4d76a347052b70750711ebd9))
+
 # [1.228.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.227.1...v1.228.0) (2022-08-17)
 
 
