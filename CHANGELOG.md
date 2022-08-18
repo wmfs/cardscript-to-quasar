@@ -1,3 +1,10 @@
+## [1.228.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.228.1...v1.228.2) (2022-08-18)
+
+
+### 🐛 Bug Fixes
+
+* fact set style consistent with other input fields ([990076f](https://github.com/wmfs/cardscript-to-quasar/commit/990076fee6aa8df22e8f2c9d305804e1d702fb24))
+
 ## [1.228.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.228.0...v1.228.1) (2022-08-18)
 
 
