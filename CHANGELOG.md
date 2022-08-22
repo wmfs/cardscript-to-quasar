@@ -1,3 +1,17 @@
+# [1.229.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.228.2...v1.229.0) (2022-08-22)
+
+
+### ✨ Features
+
+* allow for subtitles on input fields ([4600ec6](https://github.com/wmfs/cardscript-to-quasar/commit/4600ec623e102d5b166ce83bdb1a7d3e9dc83ca1))
+* collapsible to user builder rather than constructing string template ([ede263d](https://github.com/wmfs/cardscript-to-quasar/commit/ede263d67de79f9c938b3cdc143dbf23cb81fc9c))
+
+
+### 🐛 Bug Fixes
+
+* remove large option size on choice set ([88e6f4f](https://github.com/wmfs/cardscript-to-quasar/commit/88e6f4f9274abb4300d583f05b6727aed3d48b02))
+* revert collapsible ([922256d](https://github.com/wmfs/cardscript-to-quasar/commit/922256d7bc2dc56723d8ca7cd83fdde04793407b))
+
 ## [1.228.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.228.1...v1.228.2) (2022-08-18)
 
 
