@@ -1,3 +1,15 @@
+# [1.230.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.229.1...v1.230.0) (2022-09-06)
+
+
+### ✨ Features
+
+* allow prompt on multiselect choiceset to be hidden [sc-16265] ([c1e63df](https://github.com/wmfs/cardscript-to-quasar/commit/c1e63df5ba8456baeb635951918f68a5494208fa))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([ac644db](https://github.com/wmfs/cardscript-to-quasar/commit/ac644db338a8bd4a8fb92eacafee1a7df3b9b7b5))
+
 ## [1.229.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.229.0...v1.229.1) (2022-09-05)
 
 
