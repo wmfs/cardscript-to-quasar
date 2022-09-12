@@ -1,3 +1,10 @@
+## [1.230.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.230.0...v1.230.1) (2022-09-08)
+
+
+### 🐛 Bug Fixes
+
+* disable arrows for telephone number inputs ([8267ef7](https://github.com/wmfs/cardscript-to-quasar/commit/8267ef76981ceac12e89c013f8d66f0b03cbe34e))
+
 # [1.230.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.229.1...v1.230.0) (2022-09-06)
 
 
