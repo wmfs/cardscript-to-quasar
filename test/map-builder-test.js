@@ -67,7 +67,7 @@ const tests = [
       '<q-map :id="\'minimal\'" :locked="false" :draggable="false" :mapFlyTo="data.minimalMapFlyTo">',
       '<q-map-circle format="OSGridRef" :x="data?.actualX" :y="data?.actualY" label="Minimal"',
       ':showMarker="true" locked="true"',
-      '<q-btn icon="room" round flat dense style="color: #005ea5;" @click="action(\'MapJumpToXY\', { id: \'data.minimalMapFlyTo\', x: data.actualX, y: data.actualY })"></q-btn>'
+      '<q-btn icon="room" round no-caps unelevated dense style="color: #005ea5;" @click="action(\'MapJumpToXY\', { id: \'data.minimalMapFlyTo\', x: data.actualX, y: data.actualY })"></q-btn>'
     ]
   }
 ]
@@ -99,6 +99,8 @@ describe('Input.Map builder', () => {
       const quasar = InputMapBuilder(test.cardScript, { })
 
       for (const snippet of test.quasar) {
+        console.log({ quasar })
+        console.log({ snippet })
         expect(quasar).to.have.string(snippet)
       }
     })
