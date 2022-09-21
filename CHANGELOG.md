@@ -1,3 +1,10 @@
+# [1.231.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.230.1...v1.231.0) (2022-09-21)
+
+
+### ✨ Features
+
+* reject/fail handlers for file upload ([915b706](https://github.com/wmfs/cardscript-to-quasar/commit/915b706a3796df1ce934e3f1dabfa732ef2f5c32))
+
 ## [1.230.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.230.0...v1.230.1) (2022-09-08)
 
 
