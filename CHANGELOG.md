@@ -1,3 +1,49 @@
+# [1.232.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.231.0...v1.232.0) (2022-09-28)
+
+
+### ✨ Features
+
+* Add default shadow for "Container" components (unless specified otherwise, or background is transparent) [sc-16615] ([81a6eef](https://github.com/wmfs/cardscript-to-quasar/commit/81a6eef9c5c5dcb470fba75fc93b913c4db3e58b))
+* add unelevated tag to pagination ([0b55f09](https://github.com/wmfs/cardscript-to-quasar/commit/0b55f09e6020e6f5eb8b36db4e95739ee1d1cff3))
+* Allow for "Container" components to have a transparent background [sc-16615] ([1946bde](https://github.com/wmfs/cardscript-to-quasar/commit/1946bde64eb20ea0c822634e66c0d9dd7d3efecf))
+* allow for optional persistent tooltips ([646c49a](https://github.com/wmfs/cardscript-to-quasar/commit/646c49a400a1727f9c0a3c2e4130bc57c0d35bba))
+* apply consistent labels to signature input ([208afd9](https://github.com/wmfs/cardscript-to-quasar/commit/208afd93b4c6593c319728116a0303d67b1d20b9))
+* changes to pagination for consistency ([e94dd68](https://github.com/wmfs/cardscript-to-quasar/commit/e94dd681829675e2bc7b8b7b5b980367089f4648))
+* consistent labels on slider input ([43eba97](https://github.com/wmfs/cardscript-to-quasar/commit/43eba97689777636942868e6c485afe107ac5b97))
+* improve consistency of field label styling ([ec58c63](https://github.com/wmfs/cardscript-to-quasar/commit/ec58c6392053b2b52f6fbf94fc2c293543239095))
+* improve input.toggle button styles ([1076e3f](https://github.com/wmfs/cardscript-to-quasar/commit/1076e3f7957177c510c4d7c41d457481bc217985))
+* improve tabs ([6988cf4](https://github.com/wmfs/cardscript-to-quasar/commit/6988cf4b050412ecae9b14e2b63a00079817a5e6))
+* improve tabs ([c7bfd29](https://github.com/wmfs/cardscript-to-quasar/commit/c7bfd297a36680dd91e44d7911d2f864445bb35a))
+* Make all buttons lowercase and unelevated [sc-16615] ([2e0f9b0](https://github.com/wmfs/cardscript-to-quasar/commit/2e0f9b0cccf579d6d37523253ae82a0bb850eb8b))
+* Remove shadow from buttons and improve standard button colour [sc-16615] ([a1d08ba](https://github.com/wmfs/cardscript-to-quasar/commit/a1d08ba76f3b0f3d74e89b219d8cb66c9a833477))
+* Remove shadow from jumbotron [sc-16615] ([a702166](https://github.com/wmfs/cardscript-to-quasar/commit/a7021661d4edd4526f12011ea22b86cae203a3e3))
+* table to have consistent labels ([d735dfa](https://github.com/wmfs/cardscript-to-quasar/commit/d735dfac7f2dc86cb8f8ed28ceb19557796912e7))
+* tidy up list, markup table and table components with spacing and consistent labels ([cde4597](https://github.com/wmfs/cardscript-to-quasar/commit/cde45974ea3ca3a1315855e330a4d3be608da4ab))
+* use builder instead of strings for Container ([6f4f8aa](https://github.com/wmfs/cardscript-to-quasar/commit/6f4f8aaf688987ca045411e9eb883bedc05fde6d))
+
+
+### 🐛 Bug Fixes
+
+* add class to toggle inputs ([57c43c1](https://github.com/wmfs/cardscript-to-quasar/commit/57c43c14bc4b3221df0b0a797e084b7f0abd5feb))
+* choice set on model change, pass value and data path ([8bfafbd](https://github.com/wmfs/cardscript-to-quasar/commit/8bfafbd7d8ccdc27a8489c5354dba7dbfcb96585))
+* consistent spacing across FactSet and ActionSet ([0697243](https://github.com/wmfs/cardscript-to-quasar/commit/069724362fa3b1dfe7b8e662a0cd2c350ee8f455))
+* flat marker card on map and dark text on inactive tabs ([2a6b2df](https://github.com/wmfs/cardscript-to-quasar/commit/2a6b2dfb52cda1a5c0640686bd81ffd41e626a34))
+* general tidy up of spacing and titles ([cdeba5e](https://github.com/wmfs/cardscript-to-quasar/commit/cdeba5eabe9a76e980404048b52cb426857eb77c))
+* improve button style of card list ([6685c98](https://github.com/wmfs/cardscript-to-quasar/commit/6685c984bb849c5706612370c4b1715f24989943))
+* improve toggle, use item component for layout and allow for checkbox style ([ac2c510](https://github.com/wmfs/cardscript-to-quasar/commit/ac2c510e4908e22d319c525bdc1a2679a33f1f5e))
+* issue with chip text content ([e0cd7b9](https://github.com/wmfs/cardscript-to-quasar/commit/e0cd7b98c37807205bc18a30dc9278ec8651b9e5))
+* merge from master ([a73ea92](https://github.com/wmfs/cardscript-to-quasar/commit/a73ea921a73dd0630832b5cdd849c7e66f43dd1e))
+* on choice selection event ([e29bb57](https://github.com/wmfs/cardscript-to-quasar/commit/e29bb57bfbfb63a7476ad3a496506200348e2adb))
+* only apply tooltip to toggle if specified ([afad9a6](https://github.com/wmfs/cardscript-to-quasar/commit/afad9a698a9fed5b979f13277685b0502f1bdced))
+* remove default shadow on containers [sc-16615] ([c5c1760](https://github.com/wmfs/cardscript-to-quasar/commit/c5c1760917cb76890f0577e0cf825386b790c170))
+* spacing on tabset vertical ([8af3ad2](https://github.com/wmfs/cardscript-to-quasar/commit/8af3ad246676e24ade251378c7facad4f7876d12))
+* use field for input toggle, default and checkbox style ([7af9517](https://github.com/wmfs/cardscript-to-quasar/commit/7af9517d1d78501485d447589b252b28049ce4f6))
+
+
+### 🚨 Tests
+
+* update expected map snippet ([480a196](https://github.com/wmfs/cardscript-to-quasar/commit/480a19627173aeb8784905dde2310c0cc718c460))
+
 # [1.231.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.230.1...v1.231.0) (2022-09-21)
 
 
