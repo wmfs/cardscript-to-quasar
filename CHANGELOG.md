@@ -1,3 +1,12 @@
+# [1.233.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.232.0...v1.233.0) (2022-10-04)
+
+
+### ✨ Features
+
+* add spacing for choice set option sublabels ([8df57a6](https://github.com/wmfs/cardscript-to-quasar/commit/8df57a6be06515f9454b40869b4dcb5956bc2a0c))
+* allow for choice set options to have sublabels ([9300746](https://github.com/wmfs/cardscript-to-quasar/commit/9300746919738ae7581eac713f0a47473eed7b31))
+* allow options in Input.ChoiceSet to have sublabels ([67a6314](https://github.com/wmfs/cardscript-to-quasar/commit/67a6314b15cc0333e156e4dfb4977ec52e1d64af))
+
 # [1.232.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.231.0...v1.232.0) (2022-09-28)
 
 
