@@ -1,3 +1,20 @@
+# [1.234.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.233.1...v1.234.0) (2022-10-11)
+
+
+### ✨ Features
+
+* apply avatar util function ([73194b2](https://github.com/wmfs/cardscript-to-quasar/commit/73194b22925931eeae74de9c275ed141deaf7300))
+* card list ability to edit ([277c602](https://github.com/wmfs/cardscript-to-quasar/commit/277c6024fdf0aacb85b5493fea7cf99e5be47de9))
+* card list can have avatar icons ([5f7342f](https://github.com/wmfs/cardscript-to-quasar/commit/5f7342f8208e0bb464d7a62e18a68c685e233317))
+* card list dialog to be persistent ([db8386b](https://github.com/wmfs/cardscript-to-quasar/commit/db8386be60249125856b84ca28401515703b31b5))
+* improve CardList by tidying up builder, adding title/subtitle/icon/tooltip and allowing for multi select ([29645ed](https://github.com/wmfs/cardscript-to-quasar/commit/29645ed08daa3af8ab17bb43a1d98b3484d83aca))
+* introduce instance badges for CardList ([d8e7d81](https://github.com/wmfs/cardscript-to-quasar/commit/d8e7d81f50751e0d89362e1e40eadf15ef46cc5c))
+
+
+### 🐛 Bug Fixes
+
+* limit title/subtitle to 2 lines for CardList items ([f3f78c7](https://github.com/wmfs/cardscript-to-quasar/commit/f3f78c7904ab4ca20d9ebe9fab5b79ea0b7d4973))
+
 ## [1.233.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.233.0...v1.233.1) (2022-10-04)
 
 
