@@ -1,3 +1,20 @@
+# [1.235.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.234.0...v1.235.0) (2022-10-11)
+
+
+### ✨ Features
+
+* card template changes for new layout ([03c8667](https://github.com/wmfs/cardscript-to-quasar/commit/03c86672e2837696183f71939c507f3ab4c84056))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency standard to v17 ([98eb549](https://github.com/wmfs/cardscript-to-quasar/commit/98eb5492b1d6cbbd2865afae55a87b29fbfb8b5b))
+
+
+### 💎 Styles
+
+* standard --fix ([ae666d5](https://github.com/wmfs/cardscript-to-quasar/commit/ae666d58ca3e56c16be0559b880c18c6b3816534))
+
 # [1.234.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.233.1...v1.234.0) (2022-10-11)
 
 
