@@ -1,3 +1,15 @@
+## [1.235.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.235.0...v1.235.1) (2022-10-17)
+
+
+### 🐛 Bug Fixes
+
+* remove unelevated attribute from pagination ([d6754f7](https://github.com/wmfs/cardscript-to-quasar/commit/d6754f76f28c5697f9d1eca053eceee700b8f4c6))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v10.1.0 ([d1d5113](https://github.com/wmfs/cardscript-to-quasar/commit/d1d5113991be054bba0fd03be66cfce197a3e762))
+
 # [1.235.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.234.0...v1.235.0) (2022-10-11)
 
 
