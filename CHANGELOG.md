@@ -1,3 +1,10 @@
+## [1.235.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.235.1...v1.235.2) (2022-10-18)
+
+
+### 🐛 Bug Fixes
+
+* pass all props to q-map-circle from marker array path ([79cfaa1](https://github.com/wmfs/cardscript-to-quasar/commit/79cfaa109b8f6b53cb1d212e10f1520521c345c3))
+
 ## [1.235.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.235.0...v1.235.1) (2022-10-17)
 
 
