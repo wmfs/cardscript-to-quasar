@@ -1,3 +1,22 @@
+# [1.237.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.236.0...v1.237.0) (2022-10-20)
+
+
+### ✨ Features
+
+* allow selection type for CardList ([2b21382](https://github.com/wmfs/cardscript-to-quasar/commit/2b21382af32015b6a695e4bcca619bb6a85db1ca))
+
+
+### 🐛 Bug Fixes
+
+* change datapath for single selection ([5f4dff6](https://github.com/wmfs/cardscript-to-quasar/commit/5f4dff6df63076d427a98e27077ec1edbee0308f))
+
+# [1.236.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.235.2...v1.236.0) (2022-10-20)
+
+
+### ✨ Features
+
+* adjust chips, consistent margins, doesn't need to be in a div ([dd2122f](https://github.com/wmfs/cardscript-to-quasar/commit/dd2122f5e434e3765929659c2c47008b0f6fc05c))
+
 ## [1.235.2](https://github.com/wmfs/cardscript-to-quasar/compare/v1.235.1...v1.235.2) (2022-10-18)
 
 
