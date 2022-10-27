@@ -1,3 +1,10 @@
+## [1.237.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.237.0...v1.237.1) (2022-10-25)
+
+
+### 🐛 Bug Fixes
+
+* consistent vertical spacing on chip component ([88b8714](https://github.com/wmfs/cardscript-to-quasar/commit/88b871450c96acb9bbba14492383c9d7092e975e))
+
 # [1.237.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.236.0...v1.237.0) (2022-10-20)
 
 
