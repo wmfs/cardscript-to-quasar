@@ -1,3 +1,15 @@
+# [1.238.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.237.1...v1.238.0) (2022-11-24)
+
+
+### ✨ Features
+
+* add attributes maxTotalSize and maxFiles for Input.FileUpload ([d64214f](https://github.com/wmfs/cardscript-to-quasar/commit/d64214f148c7210e0e0576d107a9b50c83c6b88a))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency chai to v4.3.7 ([3b34872](https://github.com/wmfs/cardscript-to-quasar/commit/3b3487219263d974e4726c34f3d3ac40f65c504e))
+
 ## [1.237.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.237.0...v1.237.1) (2022-10-25)
 
 
