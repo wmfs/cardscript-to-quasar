@@ -1,3 +1,18 @@
+# [1.240.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.239.0...v1.240.0) (2023-06-20)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.3 ([3837dbb](https://github.com/wmfs/cardscript-to-quasar/commit/3837dbb2b3c172bbe2de07544a0020bec220c045))
+* **deps-dev:** update dependency semantic-release to v20.1.3 ([55b66c7](https://github.com/wmfs/cardscript-to-quasar/commit/55b66c77964e596ad9ac48f28fb8d0773d08f247))
+* **deps-dev:** update dependency semantic-release to v21 ([5ec9de5](https://github.com/wmfs/cardscript-to-quasar/commit/5ec9de528a7e1f8873f8190ac5ea3d75feddd2d9))
+* **deps-dev:** update dependency semantic-release to v21.0.1 ([dc7bba0](https://github.com/wmfs/cardscript-to-quasar/commit/dc7bba00751ac0ecb1b0a062a23f69b4e8f6a0ac))
+* **deps-dev:** update dependency semantic-release to v21.0.2 ([683b044](https://github.com/wmfs/cardscript-to-quasar/commit/683b044c1aca0b12ffd9b6d8b769001f029756c9))
+* **deps-dev:** update dependency semantic-release to v21.0.3 ([8e0c276](https://github.com/wmfs/cardscript-to-quasar/commit/8e0c27680e2d625bb2f075f3e0650f58a235bb99))
+* **deps-dev:** update dependency semantic-release to v21.0.5 ([4f5e898](https://github.com/wmfs/cardscript-to-quasar/commit/4f5e898cf6d04c844407ee4beef44e7ab5e5e8ee))
+* **deps-dev:** update dependency standard to v17.1.0 ([12fbce3](https://github.com/wmfs/cardscript-to-quasar/commit/12fbce33124be89ae1ef75f216ab61457b3437a3))
+* **deps:** update dependency dottie to v2.0.4 [security] ([3f50a4e](https://github.com/wmfs/cardscript-to-quasar/commit/3f50a4ec3097d8560319028cc57b8db5657fc1db))
+
 # [1.239.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.238.1...v1.239.0) (2023-03-13)
 
 
