@@ -1,3 +1,10 @@
+# [1.241.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.240.0...v1.241.0) (2023-06-20)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency dottie to v2.0.6 ([4f4249d](https://github.com/wmfs/cardscript-to-quasar/commit/4f4249d5e8b8e6947712779d4fa4a2105193965f))
+
 # [1.240.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.239.0...v1.240.0) (2023-06-20)
 
 
