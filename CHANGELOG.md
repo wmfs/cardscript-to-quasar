@@ -1,3 +1,10 @@
+# [1.242.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.241.0...v1.242.0) (2023-09-26)
+
+
+### Features
+
+* print button [sc-20568] ([32209a2](https://github.com/wmfs/cardscript-to-quasar/commit/32209a29833853f551cd4aa3123418abca2185cf))
+
 # [1.241.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.240.0...v1.241.0) (2023-06-20)
 
 
