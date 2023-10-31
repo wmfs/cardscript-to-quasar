@@ -1,3 +1,10 @@
+## [1.242.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.242.0...v1.242.1) (2023-10-31)
+
+
+### Bug Fixes
+
+* fallback to element title if no column title present for tables ([75cfe05](https://github.com/wmfs/cardscript-to-quasar/commit/75cfe054951b1822125565b576628f05d61e890a))
+
 # [1.242.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.241.0...v1.242.0) (2023-09-26)
 
 
