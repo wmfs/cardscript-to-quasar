@@ -1,3 +1,16 @@
+# [1.243.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.242.1...v1.243.0) (2023-11-08)
+
+
+### Bug Fixes
+
+* default fact set wrap to true [sc-21598] ([9c72fb2](https://github.com/wmfs/cardscript-to-quasar/commit/9c72fb266accd436c2871e35d5bcc2c0690aee1e))
+
+
+### Features
+
+* Add pre-wrap option to FactSet values [sc-21598] ([474d670](https://github.com/wmfs/cardscript-to-quasar/commit/474d6709813ccdef16915e54105fbe7099777ceb))
+* use separate item labels when displaying array values [sc-21598] ([cc428c2](https://github.com/wmfs/cardscript-to-quasar/commit/cc428c2dbd5009146e3fd1c0f13d0c8022173764))
+
 ## [1.242.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.242.0...v1.242.1) (2023-10-31)
 
 
