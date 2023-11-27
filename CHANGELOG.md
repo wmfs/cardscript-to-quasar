@@ -1,3 +1,10 @@
+# [1.244.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.243.0...v1.244.0) (2023-11-27)
+
+
+### Features
+
+* Allow for FactSet to use a choicesPath array [sc-21867] ([f8d8c5e](https://github.com/wmfs/cardscript-to-quasar/commit/f8d8c5edf821664fc425755a4b19af15d53618ba))
+
 # [1.243.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.242.1...v1.243.0) (2023-11-08)
 
 
