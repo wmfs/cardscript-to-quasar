@@ -1,3 +1,15 @@
+# [1.245.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.244.0...v1.245.0) (2023-11-28)
+
+
+### Bug Fixes
+
+* apply spacing to span outside of chip/badge ([8f29b82](https://github.com/wmfs/cardscript-to-quasar/commit/8f29b8215adf2a77a3e653e3587f7fbdf13220c2))
+
+
+### Features
+
+* apply spacing to Chip components ([99ca802](https://github.com/wmfs/cardscript-to-quasar/commit/99ca8028d2163cc28f20fdb439aeb29eba1f12d8))
+
 # [1.244.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.243.0...v1.244.0) (2023-11-27)
 
 
