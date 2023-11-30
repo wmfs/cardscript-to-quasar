@@ -1,3 +1,10 @@
+## [1.245.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.245.0...v1.245.1) (2023-11-30)
+
+
+### Bug Fixes
+
+* revert PR [#332](https://github.com/wmfs/cardscript-to-quasar/issues/332) ([d9db49c](https://github.com/wmfs/cardscript-to-quasar/commit/d9db49cca97d1993cbb59de72c3375e61f574155))
+
 # [1.245.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.244.0...v1.245.0) (2023-11-28)
 
 
