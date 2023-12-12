@@ -1,3 +1,11 @@
+# [1.246.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.245.1...v1.246.0) (2023-12-11)
+
+
+### Features
+
+* apply launches for timeline entry [sc-22042] ([ec1a61a](https://github.com/wmfs/cardscript-to-quasar/commit/ec1a61acaee3fb4c8dada3cb4c5f36177e287202))
+* Enable Timeline component to use arrays [sc-22042] ([3f7e149](https://github.com/wmfs/cardscript-to-quasar/commit/3f7e14970e3fbc4956cf1d9689a2a474cc46f7da))
+
 ## [1.245.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.245.0...v1.245.1) (2023-11-30)
 
 
