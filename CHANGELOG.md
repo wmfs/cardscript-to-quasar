@@ -1,3 +1,16 @@
+# [1.247.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.246.0...v1.247.0) (2023-12-14)
+
+
+### Bug Fixes
+
+* conditional logic [sc-21447] ([201cbbe](https://github.com/wmfs/cardscript-to-quasar/commit/201cbbe147fe4f728d4e8b176da5f3cd160a3fa0))
+
+
+### Features
+
+* if condition [sc-21447] ([63082a3](https://github.com/wmfs/cardscript-to-quasar/commit/63082a3728b8ef3f93ea62d9f56d28d78cc1507c))
+* initial changes for v-if [sc-21447] ([0bded23](https://github.com/wmfs/cardscript-to-quasar/commit/0bded2357d722fb1c2dbe73fcc5ce1a6ed3f815f))
+
 # [1.246.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.245.1...v1.246.0) (2023-12-11)
 
 
