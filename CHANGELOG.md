@@ -1,3 +1,10 @@
+## [1.247.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.247.0...v1.247.1) (2024-01-09)
+
+
+### Bug Fixes
+
+* timeline builder to disable show when tag ([d50765e](https://github.com/wmfs/cardscript-to-quasar/commit/d50765ece9010ac2e9382fadb8299962b37f9b5a))
+
 # [1.247.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.246.0...v1.247.0) (2023-12-14)
 
 
