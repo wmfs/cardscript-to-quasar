@@ -1,3 +1,10 @@
+# [1.248.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.247.1...v1.248.0) (2024-01-16)
+
+
+### Features
+
+* **(pin 262) crr dd:** QA Process embeded within FS Audit ([#330](https://github.com/wmfs/cardscript-to-quasar/issues/330)) [sc-20986] ([87432db](https://github.com/wmfs/cardscript-to-quasar/commit/87432dbc8f872f6a428089d79d83f41c1efc6d04))
+
 ## [1.247.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.247.0...v1.247.1) (2024-01-09)
 
 
