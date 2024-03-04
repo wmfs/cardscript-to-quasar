@@ -1,3 +1,10 @@
+# [1.249.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.248.0...v1.249.0) (2024-03-04)
+
+
+### Features
+
+* Add date time to messages [sc-23170] ([#350](https://github.com/wmfs/cardscript-to-quasar/issues/350)) ([db9a6e7](https://github.com/wmfs/cardscript-to-quasar/commit/db9a6e7be34c7c07c0fa242d6457e12da09db203))
+
 # [1.248.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.247.1...v1.248.0) (2024-01-16)
 
 
