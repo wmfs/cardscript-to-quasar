@@ -1,3 +1,10 @@
+# [1.250.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.249.0...v1.250.0) (2024-03-25)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-23169] Update comment permissions ([#351](https://github.com/wmfs/cardscript-to-quasar/issues/351)) ([8c2dfff](https://github.com/wmfs/cardscript-to-quasar/commit/8c2dfff782ce68d3730b6fca5a85d2bde3e2411b))
+
 # [1.249.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.248.0...v1.249.0) (2024-03-04)
 
 
