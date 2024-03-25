@@ -1,3 +1,10 @@
+## [1.250.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.250.0...v1.250.1) (2024-03-25)
+
+
+### Bug Fixes
+
+* [sc-24122] Input.ChoiceSet filtering not working with choices path ([#355](https://github.com/wmfs/cardscript-to-quasar/issues/355)) ([735b492](https://github.com/wmfs/cardscript-to-quasar/commit/735b492529c7cf998c3aa072c066ca231c781bcd))
+
 # [1.250.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.249.0...v1.250.0) (2024-03-25)
 
 
