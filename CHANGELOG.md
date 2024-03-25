@@ -1,3 +1,10 @@
+# [1.251.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.250.1...v1.251.0) (2024-03-25)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-22942] FSI Note order for 'View all FSI notes and Actions ' ([#349](https://github.com/wmfs/cardscript-to-quasar/issues/349)) ([3a0c5c4](https://github.com/wmfs/cardscript-to-quasar/commit/3a0c5c4b66cba9cf02f3cbe1ca67feb7a4c49ee4))
+
 ## [1.250.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.250.0...v1.250.1) (2024-03-25)
 
 
