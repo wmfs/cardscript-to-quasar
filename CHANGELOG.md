@@ -1,3 +1,10 @@
+# [1.252.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.251.0...v1.252.0) (2024-04-05)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-23167] Visually distinguish messages ([#358](https://github.com/wmfs/cardscript-to-quasar/issues/358)) ([73fd55d](https://github.com/wmfs/cardscript-to-quasar/commit/73fd55d504f8cfcb980df9e9c46900f2111580bc))
+
 # [1.251.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.250.1...v1.251.0) (2024-03-25)
 
 
