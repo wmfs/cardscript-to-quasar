@@ -1,3 +1,10 @@
+# [1.253.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.252.0...v1.253.0) (2024-05-02)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-22966] Input.ChoiceSet to store selected choices when using dynamic choices  ([#362](https://github.com/wmfs/cardscript-to-quasar/issues/362)) ([25f632d](https://github.com/wmfs/cardscript-to-quasar/commit/25f632d44b5fbd1d9fcaa2e8309f13e65974e812))
+
 # [1.252.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.251.0...v1.252.0) (2024-04-05)
 
 
