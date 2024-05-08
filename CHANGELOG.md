@@ -1,3 +1,106 @@
+# [1.253.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.252.0...v1.253.0) (2024-05-02)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-22966] Input.ChoiceSet to store selected choices when using dynamic choices  ([#362](https://github.com/wmfs/cardscript-to-quasar/issues/362)) ([25f632d](https://github.com/wmfs/cardscript-to-quasar/commit/25f632d44b5fbd1d9fcaa2e8309f13e65974e812))
+
+# [1.252.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.251.0...v1.252.0) (2024-04-05)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-23167] Visually distinguish messages ([#358](https://github.com/wmfs/cardscript-to-quasar/issues/358)) ([73fd55d](https://github.com/wmfs/cardscript-to-quasar/commit/73fd55d504f8cfcb980df9e9c46900f2111580bc))
+
+# [1.251.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.250.1...v1.251.0) (2024-03-25)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-22942] FSI Note order for 'View all FSI notes and Actions ' ([#349](https://github.com/wmfs/cardscript-to-quasar/issues/349)) ([3a0c5c4](https://github.com/wmfs/cardscript-to-quasar/commit/3a0c5c4b66cba9cf02f3cbe1ca67feb7a4c49ee4))
+
+## [1.250.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.250.0...v1.250.1) (2024-03-25)
+
+
+### Bug Fixes
+
+* [sc-24122] Input.ChoiceSet filtering not working with choices path ([#355](https://github.com/wmfs/cardscript-to-quasar/issues/355)) ([735b492](https://github.com/wmfs/cardscript-to-quasar/commit/735b492529c7cf998c3aa072c066ca231c781bcd))
+
+# [1.250.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.249.0...v1.250.0) (2024-03-25)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-23169] Update comment permissions ([#351](https://github.com/wmfs/cardscript-to-quasar/issues/351)) ([8c2dfff](https://github.com/wmfs/cardscript-to-quasar/commit/8c2dfff782ce68d3730b6fca5a85d2bde3e2411b))
+
+# [1.249.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.248.0...v1.249.0) (2024-03-04)
+
+
+### Features
+
+* Add date time to messages [sc-23170] ([#350](https://github.com/wmfs/cardscript-to-quasar/issues/350)) ([db9a6e7](https://github.com/wmfs/cardscript-to-quasar/commit/db9a6e7be34c7c07c0fa242d6457e12da09db203))
+
+# [1.248.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.247.1...v1.248.0) (2024-01-16)
+
+
+### Features
+
+* **(pin 262) crr dd:** QA Process embeded within FS Audit ([#330](https://github.com/wmfs/cardscript-to-quasar/issues/330)) [sc-20986] ([87432db](https://github.com/wmfs/cardscript-to-quasar/commit/87432dbc8f872f6a428089d79d83f41c1efc6d04))
+
+## [1.247.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.247.0...v1.247.1) (2024-01-09)
+
+
+### Bug Fixes
+
+* timeline builder to disable show when tag ([d50765e](https://github.com/wmfs/cardscript-to-quasar/commit/d50765ece9010ac2e9382fadb8299962b37f9b5a))
+
+# [1.247.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.246.0...v1.247.0) (2023-12-14)
+
+
+### Bug Fixes
+
+* conditional logic [sc-21447] ([201cbbe](https://github.com/wmfs/cardscript-to-quasar/commit/201cbbe147fe4f728d4e8b176da5f3cd160a3fa0))
+
+
+### Features
+
+* if condition [sc-21447] ([63082a3](https://github.com/wmfs/cardscript-to-quasar/commit/63082a3728b8ef3f93ea62d9f56d28d78cc1507c))
+* initial changes for v-if [sc-21447] ([0bded23](https://github.com/wmfs/cardscript-to-quasar/commit/0bded2357d722fb1c2dbe73fcc5ce1a6ed3f815f))
+
+# [1.246.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.245.1...v1.246.0) (2023-12-11)
+
+
+### Features
+
+* apply launches for timeline entry [sc-22042] ([ec1a61a](https://github.com/wmfs/cardscript-to-quasar/commit/ec1a61acaee3fb4c8dada3cb4c5f36177e287202))
+* Enable Timeline component to use arrays [sc-22042] ([3f7e149](https://github.com/wmfs/cardscript-to-quasar/commit/3f7e14970e3fbc4956cf1d9689a2a474cc46f7da))
+
+## [1.245.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.245.0...v1.245.1) (2023-11-30)
+
+
+### Bug Fixes
+
+* revert PR [#332](https://github.com/wmfs/cardscript-to-quasar/issues/332) ([d9db49c](https://github.com/wmfs/cardscript-to-quasar/commit/d9db49cca97d1993cbb59de72c3375e61f574155))
+
+# [1.245.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.244.0...v1.245.0) (2023-11-28)
+
+
+### Bug Fixes
+
+* apply spacing to span outside of chip/badge ([8f29b82](https://github.com/wmfs/cardscript-to-quasar/commit/8f29b8215adf2a77a3e653e3587f7fbdf13220c2))
+
+
+### Features
+
+* apply spacing to Chip components ([99ca802](https://github.com/wmfs/cardscript-to-quasar/commit/99ca8028d2163cc28f20fdb439aeb29eba1f12d8))
+
+# [1.244.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.243.0...v1.244.0) (2023-11-27)
+
+
+### Features
+
+* Allow for FactSet to use a choicesPath array [sc-21867] ([f8d8c5e](https://github.com/wmfs/cardscript-to-quasar/commit/f8d8c5edf821664fc425755a4b19af15d53618ba))
+
 # [1.243.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.242.1...v1.243.0) (2023-11-08)
 
 
