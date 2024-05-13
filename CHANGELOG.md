@@ -1,3 +1,10 @@
+# [1.254.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.253.0...v1.254.0) (2024-05-13)
+
+
+### Features
+
+* [sc-21865] Scroll to invalid fields on submit ([#329](https://github.com/wmfs/cardscript-to-quasar/issues/329)) ([e5496a8](https://github.com/wmfs/cardscript-to-quasar/commit/e5496a8d6e6355ad24ab370fd8a282b97440b287))
+
 # [1.253.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.252.0...v1.253.0) (2024-05-02)
 
 
