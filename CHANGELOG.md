@@ -1,3 +1,10 @@
+# [1.255.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.254.0...v1.255.0) (2024-05-29)
+
+
+### Features
+
+* onChangeResetDataPaths for text-fields [sc-24606] ([#365](https://github.com/wmfs/cardscript-to-quasar/issues/365)) ([03d5f09](https://github.com/wmfs/cardscript-to-quasar/commit/03d5f09020c743265cac60196078918c791ce5cc))
+
 # [1.254.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.253.0...v1.254.0) (2024-05-13)
 
 
