@@ -1,3 +1,10 @@
+# [1.256.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.255.0...v1.256.0) (2024-06-03)
+
+
+### Features
+
+* [sc-25751] Improvements to Timeline component ([#367](https://github.com/wmfs/cardscript-to-quasar/issues/367)) ([3c1cff4](https://github.com/wmfs/cardscript-to-quasar/commit/3c1cff488550d76187a61a12342bf84876e151f8))
+
 # [1.255.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.254.0...v1.255.0) (2024-05-29)
 
 
