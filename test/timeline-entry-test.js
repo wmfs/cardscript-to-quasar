@@ -15,7 +15,7 @@ describe('timeline entry construction tests', function () {
       showWhen: null,
       showLaunches: null
     }, null)
-    expect(timelineEntry).to.eql('<q-timeline-entry><template v-slot:title><div class="row"><div class="col">TITLE</div></div></template><template v-slot:subtitle></template>')
+    expect(timelineEntry).to.eql('<q-timeline-entry><template v-slot:title><div class="row"><div class="col"><span class="item-label-non-link">TITLE</span></div></div></template><template v-slot:subtitle></template>')
   })
 
   it('title and subtitle', function () {
@@ -27,6 +27,6 @@ describe('timeline entry construction tests', function () {
       showWhen: null,
       showLaunches: null
     }, null)
-    expect(timelineEntry).to.eql('<q-timeline-entry><template v-slot:title><div class="row"><div class="col">TITLE</div></div></template><template v-slot:subtitle>SUBTITLE</template>')
+    expect(timelineEntry).to.eql('<q-timeline-entry><template v-slot:title><div class="row"><div class="col"><span class="item-label-non-link">TITLE</span></div></div></template><template v-slot:subtitle>SUBTITLE</template>')
   })
 })
