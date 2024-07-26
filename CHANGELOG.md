@@ -1,3 +1,10 @@
+# [1.257.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.256.0...v1.257.0) (2024-07-26)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-21537] IEE Calculation Breakdown ([#377](https://github.com/wmfs/cardscript-to-quasar/issues/377)) ([8197fe5](https://github.com/wmfs/cardscript-to-quasar/commit/8197fe55318da3acfd36eb46dfe9b19bcef04bd8))
+
 # [1.256.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.255.0...v1.256.0) (2024-06-03)
 
 
