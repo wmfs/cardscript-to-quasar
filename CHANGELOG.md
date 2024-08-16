@@ -1,3 +1,10 @@
+# [1.258.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.257.0...v1.258.0) (2024-08-16)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-27271] Alert to indicate missing fields in all tasks ([#380](https://github.com/wmfs/cardscript-to-quasar/issues/380)) ([752759b](https://github.com/wmfs/cardscript-to-quasar/commit/752759bf6e0564703096176570e16ac29f3aab85))
+
 # [1.257.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.256.0...v1.257.0) (2024-07-26)
 
 
