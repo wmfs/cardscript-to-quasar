@@ -1,3 +1,10 @@
+# [1.259.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.258.0...v1.259.0) (2024-11-14)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-28349] Highlight missing fields for Incident details section [#389](https://github.com/wmfs/cardscript-to-quasar/issues/389) ([5a006f8](https://github.com/wmfs/cardscript-to-quasar/commit/5a006f83bb29e6910309570fc7316896c8fbe17f))
+
 # [1.258.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.257.0...v1.258.0) (2024-08-16)
 
 
