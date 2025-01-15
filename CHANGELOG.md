@@ -1,3 +1,15 @@
+## [1.260.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.259.0...v1.260.0) (2025-01-15)
+
+### New Feature(s) :rocket:
+
+* **(pin 262) crr dd:** [sc-28675] Phone numbers in tasks restricted to number input ([#395](https://github.com/wmfs/cardscript-to-quasar/issues/395)) ([8463725](https://github.com/wmfs/cardscript-to-quasar/commit/84637257592466f75b839d868f0c6258d3bbf462))
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** [sc-29160] Resolve issue with semantic-release changelog notes ([#397](https://github.com/wmfs/cardscript-to-quasar/issues/397)) ([f4218c4](https://github.com/wmfs/cardscript-to-quasar/commit/f4218c4b8f0f82ab892f58dab593a8cac0845834))
+* **deps-dev:** update dependency mocha to v11 ([#393](https://github.com/wmfs/cardscript-to-quasar/issues/393)) ([2a668e0](https://github.com/wmfs/cardscript-to-quasar/commit/2a668e0e12dcc1bd6695b3605c2f5c9fed2a3537))
+* **deps-dev:** update dependency semantic-release to v24.2.1 ([#396](https://github.com/wmfs/cardscript-to-quasar/issues/396)) ([52d0ebd](https://github.com/wmfs/cardscript-to-quasar/commit/52d0ebdfc165a7228262f23f285da858522e3a39))
+
 # [1.259.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.258.0...v1.259.0) (2024-11-14)
 
 
