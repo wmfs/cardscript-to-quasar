@@ -1,3 +1,9 @@
+## [1.262.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.261.0...v1.262.0) (2025-01-17)
+
+### New Feature(s) :rocket:
+
+* **(pin 262) crr dd:** [sc-28675] Phone numbers in tasks restricted to number input ([#399](https://github.com/wmfs/cardscript-to-quasar/issues/399)) ([fe0b92d](https://github.com/wmfs/cardscript-to-quasar/commit/fe0b92d662975ed6edad558bcd8daee98e46becf))
+
 ## [1.261.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.260.0...v1.261.0) (2025-01-17)
 
 ### New Feature(s) :rocket:
