@@ -1,3 +1,9 @@
+## [1.261.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.260.0...v1.261.0) (2025-01-17)
+
+### New Feature(s) :rocket:
+
+* [sc-28563] Apply error check to Input.Signature [#394](https://github.com/wmfs/cardscript-to-quasar/issues/394) ([824d518](https://github.com/wmfs/cardscript-to-quasar/commit/824d51860534d3d3bc3d4939389aada62b4b1738))
+
 ## [1.260.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.259.0...v1.260.0) (2025-01-15)
 
 ### New Feature(s) :rocket:
