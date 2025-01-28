@@ -1,3 +1,13 @@
+## [1.263.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.262.0...v1.263.0) (2025-01-28)
+
+### New Feature(s) :rocket:
+
+* **(pin 262) crr dd:** [sc-28742] Restrict date entry for  'date that the Enforcement Notice must be complied with' ([#398](https://github.com/wmfs/cardscript-to-quasar/issues/398)) ([61862ee](https://github.com/wmfs/cardscript-to-quasar/commit/61862eeb16a715556b4e3173bef2b168de43cab7))
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency mocha to v11.1.0 ([#400](https://github.com/wmfs/cardscript-to-quasar/issues/400)) ([7724185](https://github.com/wmfs/cardscript-to-quasar/commit/7724185edefb905315e4e9c951d87e827bfe94a0))
+
 ## [1.262.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.261.0...v1.262.0) (2025-01-17)
 
 ### New Feature(s) :rocket:
