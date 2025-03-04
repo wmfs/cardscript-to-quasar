@@ -1,3 +1,14 @@
+## [1.264.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.263.0...v1.264.0) (2025-03-04)
+
+### New Feature(s) :rocket:
+
+* **(pin 262) crr dd:** [sc-29323] Add 'name' input to signature [#403](https://github.com/wmfs/cardscript-to-quasar/issues/403) ([1b54807](https://github.com/wmfs/cardscript-to-quasar/commit/1b54807e2cfd8c14602403fd17d2ed38ab3ef926))
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency semantic-release to v24.2.2 ([#401](https://github.com/wmfs/cardscript-to-quasar/issues/401)) ([5bd7d43](https://github.com/wmfs/cardscript-to-quasar/commit/5bd7d4373a4a45accf9af9d1c5ded06f660c769d))
+* **deps-dev:** update dependency semantic-release to v24.2.3 ([#402](https://github.com/wmfs/cardscript-to-quasar/issues/402)) ([4fbfa92](https://github.com/wmfs/cardscript-to-quasar/commit/4fbfa920b9d291250e38e3e605cc398a22f2c71b))
+
 ## [1.263.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.262.0...v1.263.0) (2025-01-28)
 
 ### New Feature(s) :rocket:
