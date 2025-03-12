@@ -1,3 +1,9 @@
+## [1.265.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.264.0...v1.265.0) (2025-03-12)
+
+### New Feature(s) :rocket:
+
+* [sc-29983] FactSet to allow tooltips ([#405](https://github.com/wmfs/cardscript-to-quasar/issues/405)) ([63586bc](https://github.com/wmfs/cardscript-to-quasar/commit/63586bc0fc1e2887560b001450fe076f2669e3e2))
+
 ## [1.264.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.263.0...v1.264.0) (2025-03-04)
 
 ### New Feature(s) :rocket:
