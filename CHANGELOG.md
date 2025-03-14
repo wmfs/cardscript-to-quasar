@@ -1,3 +1,9 @@
+## [1.266.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.265.0...v1.266.0) (2025-03-14)
+
+### New Feature(s) :rocket:
+
+* [sc-30007] Tooltip icons to inherit colour of text [#406](https://github.com/wmfs/cardscript-to-quasar/issues/406) ([fa6e71f](https://github.com/wmfs/cardscript-to-quasar/commit/fa6e71fd32c5c8fdf7ed648a90bc45e15dcebf4b))
+
 ## [1.265.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.264.0...v1.265.0) (2025-03-12)
 
 ### New Feature(s) :rocket:
