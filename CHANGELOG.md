@@ -1,3 +1,13 @@
+## [1.267.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.266.0...v1.267.0) (2025-05-02)
+
+### New Feature(s) :rocket:
+
+* [sc-30429] Extend CardList for options to disable edit/delete [#407](https://github.com/wmfs/cardscript-to-quasar/issues/407) ([b09796d](https://github.com/wmfs/cardscript-to-quasar/commit/b09796daf822d104f84908519846e0bd907c9267))
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency mocha to v11.2.2 ([#409](https://github.com/wmfs/cardscript-to-quasar/issues/409)) ([c63cda0](https://github.com/wmfs/cardscript-to-quasar/commit/c63cda06df46376567814d7e21e49377edb56c3c))
+
 ## [1.266.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.265.0...v1.266.0) (2025-03-14)
 
 ### New Feature(s) :rocket:
