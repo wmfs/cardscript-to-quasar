@@ -1,3 +1,9 @@
+## [1.268.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.267.0...v1.268.0) (2025-05-06)
+
+### New Feature(s) :rocket:
+
+* **(pin 262) crr dd:** [sc-29680] Improve Tree Component [#404](https://github.com/wmfs/cardscript-to-quasar/issues/404) ([a3c458c](https://github.com/wmfs/cardscript-to-quasar/commit/a3c458cdefb0c7a7df5f4598af45edeb7b0395b3))
+
 ## [1.267.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.266.0...v1.267.0) (2025-05-02)
 
 ### New Feature(s) :rocket:
