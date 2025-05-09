@@ -1,3 +1,9 @@
+## [1.269.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.268.0...v1.269.0) (2025-05-09)
+
+### New Feature(s) :rocket:
+
+* **(pin 262) crr dd:** [sc-25703] Improve display of text-input/messages ([#408](https://github.com/wmfs/cardscript-to-quasar/issues/408)) ([fa62d37](https://github.com/wmfs/cardscript-to-quasar/commit/fa62d37828b803ec284f890b71b39a00803de550))
+
 ## [1.268.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.267.0...v1.268.0) (2025-05-06)
 
 ### New Feature(s) :rocket:
