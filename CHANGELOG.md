@@ -1,3 +1,31 @@
+## [1.270.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.269.0...v1.270.0) (2025-10-21)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#424](https://github.com/wmfs/cardscript-to-quasar/issues/424)) ([e2018a5](https://github.com/wmfs/cardscript-to-quasar/commit/e2018a59d553d7dd6b32e17308f262b8a3473d21))
+* **deps-dev:** update dependency chai to v6 ([#422](https://github.com/wmfs/cardscript-to-quasar/issues/422)) ([08528c1](https://github.com/wmfs/cardscript-to-quasar/commit/08528c14ba40a5747471444d98e737c96093a6ff))
+* **deps-dev:** update dependency chai to v6.2.0 ([#427](https://github.com/wmfs/cardscript-to-quasar/issues/427)) ([9fe3cb6](https://github.com/wmfs/cardscript-to-quasar/commit/9fe3cb68e34621efbaf0d87d659886c2860c3f27))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9 ([#413](https://github.com/wmfs/cardscript-to-quasar/issues/413)) ([dc0e862](https://github.com/wmfs/cardscript-to-quasar/commit/dc0e86211dd5a3ab4b91073bf885dc7653d498af))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.1.0 ([#420](https://github.com/wmfs/cardscript-to-quasar/issues/420)) ([9f568fb](https://github.com/wmfs/cardscript-to-quasar/commit/9f568fb19183502a37ec5b555c30305dd3ac2ab6))
+* **deps-dev:** update dependency mocha to v11.3.0 ([#410](https://github.com/wmfs/cardscript-to-quasar/issues/410)) ([b18bfd1](https://github.com/wmfs/cardscript-to-quasar/commit/b18bfd10cc5c8bf2a5b4bc4dae48acd9efed8515))
+* **deps-dev:** update dependency mocha to v11.4.0 ([#412](https://github.com/wmfs/cardscript-to-quasar/issues/412)) ([fe80fcf](https://github.com/wmfs/cardscript-to-quasar/commit/fe80fcf340d3d8175712b2972ca568135889d23d))
+* **deps-dev:** update dependency mocha to v11.5.0 ([#415](https://github.com/wmfs/cardscript-to-quasar/issues/415)) ([00c2440](https://github.com/wmfs/cardscript-to-quasar/commit/00c2440b32978019c1c983342fccf0b341203ca1))
+* **deps-dev:** update dependency mocha to v11.6.0 ([#416](https://github.com/wmfs/cardscript-to-quasar/issues/416)) ([0b01a3e](https://github.com/wmfs/cardscript-to-quasar/commit/0b01a3e6a02d02fc62245d499d3073e2b2c916c5))
+* **deps-dev:** update dependency mocha to v11.7.0 ([#417](https://github.com/wmfs/cardscript-to-quasar/issues/417)) ([041b718](https://github.com/wmfs/cardscript-to-quasar/commit/041b7181c13ab08ed0169173d6de0bb9bba27177))
+* **deps-dev:** update dependency mocha to v11.7.1 ([#418](https://github.com/wmfs/cardscript-to-quasar/issues/418)) ([c48cf9f](https://github.com/wmfs/cardscript-to-quasar/commit/c48cf9fe5d12dc58647bd195681596330ffa85f2))
+* **deps-dev:** update dependency mocha to v11.7.2 ([#423](https://github.com/wmfs/cardscript-to-quasar/issues/423)) ([0492a2a](https://github.com/wmfs/cardscript-to-quasar/commit/0492a2a6597bb6eff7a13f5c1cbd0e2ce57101eb))
+* **deps-dev:** update dependency mocha to v11.7.3 ([#428](https://github.com/wmfs/cardscript-to-quasar/issues/428)) ([7211242](https://github.com/wmfs/cardscript-to-quasar/commit/7211242e782827037beed70e2cfc5713825d5594))
+* **deps-dev:** update dependency mocha to v11.7.4 ([#429](https://github.com/wmfs/cardscript-to-quasar/issues/429)) ([4d984e3](https://github.com/wmfs/cardscript-to-quasar/commit/4d984e361286908e29916f3ed6ba1b72a4270b50))
+* **deps-dev:** update dependency semantic-release to v24.2.4 ([#411](https://github.com/wmfs/cardscript-to-quasar/issues/411)) ([16df0ab](https://github.com/wmfs/cardscript-to-quasar/commit/16df0abccb9d4da257bd54fe1997569a0865908c))
+* **deps-dev:** update dependency semantic-release to v24.2.5 ([#414](https://github.com/wmfs/cardscript-to-quasar/issues/414)) ([edc6074](https://github.com/wmfs/cardscript-to-quasar/commit/edc607496b4c5744aa5dad497df614cd73acbbba))
+* **deps-dev:** update dependency semantic-release to v24.2.6 ([#419](https://github.com/wmfs/cardscript-to-quasar/issues/419)) ([a2e48c6](https://github.com/wmfs/cardscript-to-quasar/commit/a2e48c6cab3b423b559681d265d31bd25bccce2e))
+* **deps-dev:** update dependency semantic-release to v24.2.7 ([#421](https://github.com/wmfs/cardscript-to-quasar/issues/421)) ([4019a9e](https://github.com/wmfs/cardscript-to-quasar/commit/4019a9e3df5e219f0ecd06fc2f4cbb1b576a73df))
+* **deps-dev:** update dependency semantic-release to v24.2.8 ([#425](https://github.com/wmfs/cardscript-to-quasar/issues/425)) ([2700ec9](https://github.com/wmfs/cardscript-to-quasar/commit/2700ec9db699487ff8296b79057f77f5c6516f61))
+* **deps-dev:** update dependency semantic-release to v24.2.9 ([#426](https://github.com/wmfs/cardscript-to-quasar/issues/426)) ([82ae136](https://github.com/wmfs/cardscript-to-quasar/commit/82ae1360c221913e89aa4e178bfe5641d24cd3bd))
+* **deps-dev:** update dependency semantic-release to v25 ([#430](https://github.com/wmfs/cardscript-to-quasar/issues/430)) ([6945055](https://github.com/wmfs/cardscript-to-quasar/commit/6945055f49f20616a6214808e9ab36c57443de8b))
+* **deps-dev:** update dependency semantic-release to v25.0.1 ([#431](https://github.com/wmfs/cardscript-to-quasar/issues/431)) ([4088435](https://github.com/wmfs/cardscript-to-quasar/commit/4088435d2c0fcea95cb4e34abefc5645ead59936))
+* **deps:** revert chai to non-esm ([56c0ca6](https://github.com/wmfs/cardscript-to-quasar/commit/56c0ca6572ed3e5fbc83664523b94a6b583b67a7))
+
 ## [1.269.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.268.0...v1.269.0) (2025-05-09)
 
 ### New Feature(s) :rocket:
