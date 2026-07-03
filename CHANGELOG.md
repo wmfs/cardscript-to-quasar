@@ -1,3 +1,5 @@
+## [1.271.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.270.0...v1.271.0) (2026-07-03)
+
 ## [1.270.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.269.0...v1.270.0) (2025-10-21)
 
 ### Build system dependencies :hammer:
