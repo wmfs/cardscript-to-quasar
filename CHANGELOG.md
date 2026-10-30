@@ -1,3 +1,23 @@
+## [1.272.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.271.1...v1.272.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([61b6a80](https://github.com/wmfs/cardscript-to-quasar/commit/61b6a80afd316592c8cbfdb511cefb59730b356d))
+* **deps-dev:** update dependency @wmfs/cardscript-examples to v1.23.1 ([#469](https://github.com/wmfs/cardscript-to-quasar/issues/469)) ([3d8f9bf](https://github.com/wmfs/cardscript-to-quasar/commit/3d8f9bfb3e798acfc287bb0b432163a8c5d0f7af))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#470](https://github.com/wmfs/cardscript-to-quasar/issues/470)) ([049bd90](https://github.com/wmfs/cardscript-to-quasar/commit/049bd909a56b4fd56a7b7830084e77f30feed8e0))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#475](https://github.com/wmfs/cardscript-to-quasar/issues/475)) ([35638fb](https://github.com/wmfs/cardscript-to-quasar/commit/35638fb83d91112f3ee2b5b346f40abdc6c844e4))
+* **deps-dev:** update dependency mocha to v12 ([#471](https://github.com/wmfs/cardscript-to-quasar/issues/471)) ([efe0bad](https://github.com/wmfs/cardscript-to-quasar/commit/efe0bad1656f61c709274174a5d195c389de65b9))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#472](https://github.com/wmfs/cardscript-to-quasar/issues/472)) ([e51c168](https://github.com/wmfs/cardscript-to-quasar/commit/e51c168a7ced1b92148421074c65c8506d58369e))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#473](https://github.com/wmfs/cardscript-to-quasar/issues/473)) ([1a1488b](https://github.com/wmfs/cardscript-to-quasar/commit/1a1488b332d67c08e5dec599f905a19076a67380))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#474](https://github.com/wmfs/cardscript-to-quasar/issues/474)) ([fbed4a3](https://github.com/wmfs/cardscript-to-quasar/commit/fbed4a3d91a130e4f71a91e81e9d47c1abb4f4a9))
+* **deps:** update dependency dottie to v2.0.7 [security] ([#443](https://github.com/wmfs/cardscript-to-quasar/issues/443)) ([ed20e34](https://github.com/wmfs/cardscript-to-quasar/commit/ed20e344c7edcc0a774e73aa33f6ca65f872a011))
+* **deps:** update dependency lodash to v4.18.1 [security] ([#438](https://github.com/wmfs/cardscript-to-quasar/issues/438)) ([b256df3](https://github.com/wmfs/cardscript-to-quasar/commit/b256df3c79c81203a6595422d1c77bf1b8ab72ee))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#477](https://github.com/wmfs/cardscript-to-quasar/issues/477)) ([9f03157](https://github.com/wmfs/cardscript-to-quasar/commit/9f031574fb9d11b67b33d3eab75fdbc2ed94560e))
+* use shared renovate preset [sc-34117] ([#476](https://github.com/wmfs/cardscript-to-quasar/issues/476)) ([c062ba3](https://github.com/wmfs/cardscript-to-quasar/commit/c062ba3034bed4853a524145aa9331a6b247d4b0))
+
 ## [1.271.1](https://github.com/wmfs/cardscript-to-quasar/compare/v1.271.0...v1.271.1) (2026-08-14)
 
 ## [1.271.0](https://github.com/wmfs/cardscript-to-quasar/compare/v1.270.0...v1.271.0) (2026-07-03)
