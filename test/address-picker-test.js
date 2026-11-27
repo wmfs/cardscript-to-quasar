@@ -43,6 +43,8 @@ describe('addressPickerConfig', () => {
     expect(config.searchEndpoint).to.eql('wmfs_addressPickerSearch_1_0')
     expect(config.validation.required).to.eql(true)
     expect(config.showMap).to.eql(true)
+    expect(config.markerClick).to.eql('confirm')
+    expect(config.markerActionLabel).to.eql('Choose this address')
   })
 
   it('can be customised', () => {
@@ -51,6 +53,7 @@ describe('addressPickerConfig', () => {
       idPrefix: 'home',
       manualEntryFields: ['buildingName', { key: 'addressLine1', title: 'Street' }, 'postcode'],
       showMap: false,
+      markerClick: 'select',
       allowGeoLocation: false,
       resultsPerPage: 100,
       validation: { requiredIf: 'data.hasHome === true', message: 'Choose the home address' }
@@ -62,6 +65,7 @@ describe('addressPickerConfig', () => {
       ['home_postcode', 'Postcode', true]
     ])
     expect(config.resultsPerPage).to.eql(50)
+    expect(config.markerClick).to.eql('select')
     expect(config.validation).to.eql({ required: false, requiredIf: 'data.hasHome === true', message: 'Choose the home address' })
   })
 })
